@@ -11,6 +11,22 @@ For language-guided video object segmentation (L-VOS) we used [DAVIS 2017](https
 
 ### Installation instructions
 
+The requisites to use this code are to have installed the following:
+
+pip3 install torch
+pip3 install transformers
+pip3 install torchvision
+pip3 install pycocotools
+pip3 install scipy
+pip3 install scikit-image
+
+Following refer has to be installed as well, you should substitute the original refer.py file with our custom one, as it is adapted for python3. 
+
+git clone https://github.com/lichengunc/refer.git
+cp ./refer_utils/refer.py ./refer/refer.py
+make
+
+
 ### Pre-trained weights
 
 Download the pre-trained weights for our models using the following links:
