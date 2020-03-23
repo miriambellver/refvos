@@ -13,6 +13,8 @@ from torch import nn
 from pytorch_transformers import *
 import torchvision
 
+from lib import segmentation
+
 import sys
 sys.path.insert(0, '/gpfs/scratch/bsc31/bsc31429/dev/vog/datasets/refer/')
 from refer import REFER
@@ -282,11 +284,11 @@ def main(args):
     data_loader_test = torch.utils.data.DataLoader(dataset_test, batch_size=1, sampler=test_sampler,
                                                    num_workers=args.workers, collate_fn=utils.collate_fn_emb_berts)
 
+    model = segmentation.__dict__[args.model](num_classes=2,
+        aux_loss=False,
+        pretrained=False,
+        args=args)
 
-    model = torchvision.models.segmentation.__dict__[args.model](num_classes=2,
-                                                                 aux_loss=False,
-                                                                 pretrained=False,
-                                                                 args = args)
     model.to(device)
     model_class = BertModel
 

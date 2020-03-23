@@ -13,6 +13,8 @@ from pytorch_transformers import *
 
 import torchvision
 
+from lib import segmentation
+
 from coco_utils import get_coco
 import transforms as T
 import utils
@@ -304,10 +306,10 @@ def main(args):
         sampler=test_sampler, num_workers=args.workers,
         collate_fn=utils.collate_fn_emb_berts)
 
-    model = torchvision.models.segmentation.__dict__[args.model](num_classes=num_classes,
-                                                                 aux_loss=args.aux_loss,
-                                                                 pretrained=args.pretrained,
-                                                                 args=args)
+    model = segmentation.__dict__[args.model](num_classes=num_classes,
+        aux_loss=args.aux_loss,
+        pretrained=args.pretrained,
+        args=args)
 
     model_class = BertModel
     bert_model = model_class.from_pretrained(args.ck_bert)
