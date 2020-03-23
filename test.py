@@ -17,7 +17,6 @@ import sys
 sys.path.insert(0, '/gpfs/scratch/bsc31/bsc31429/dev/vog/datasets/refer/')
 from refer import REFER
 
-from coco_utils import get_coco
 import transforms as T
 import utils
 
@@ -27,8 +26,53 @@ from pycocotools import mask
 from scipy.misc import imread
 
 
+def get_dataset(name, image_set, transform, args):
+
+    if name == 'refcoco' or name == 'refcoco+':
+
+        if args.baseline_bilstm:
+            from data.dataset_refer_glove import ReferDataset
+        else:
+            from data.dataset_refer_bert import ReferDataset
+
+        ds = ReferDataset(args,
+                          split=image_set,
+                          image_transforms=transform,
+                          target_transforms=None,
+                          input_size=(256, 448),
+                          eval_mode=True)
+
+        num_classes = 2
+
+    elif name == 'a2d':
+
+        from data.a2d import A2DDataset
+
+        ds = A2DDataset(args,
+                        train= image_set == 'train',
+                        db_root_dir= args.a2d_root_dir,
+                        transform=transform,
+                        inputRes=(args.size_a2d_x, args.size_a2d_y))
+
+        num_classes = 2
+
+    elif name == 'davis':
+
+        from data.davis2017 import DAVIS17
+
+        ds = DAVIS17(args,
+                    train= image_set == 'train',
+                    db_root_dir=args.davis_data_root,
+                    transform=transform,
+                    emb_type=args.emb_type)
+
+        num_classes = 2
+
+    return ds, num_classes
+
+
 # in this evaluate, there are three embeddings for reference
-def evaluate(args, model, data_loader, ref_ids, refer, img_ids, bert_model, device, num_classes, display=False, baseline_model=None, 
+def evaluate(args, model, data_loader, ref_ids, refer, bert_model, device, num_classes, display=False, baseline_model=None, 
     objs_ids=None, num_objs_list=None):
     model.eval()
     confmat = utils.ConfusionMatrix(num_classes)
@@ -53,10 +97,17 @@ def evaluate(args, model, data_loader, ref_ids, refer, img_ids, bert_model, devi
         for image, target, sentences, attentions in metric_logger.log_every(data_loader, 100, header):
 
             image, target, sentences, attentions = image.to(device), target.to(device), sentences.to(device), attentions.to(device)
+
             sentences = sentences.squeeze(1)
             attentions = attentions.squeeze(1)
-                
 
+            if args.dataset == 'davis' or args.dataset == 'a2d':
+                sentences = sentences.unsqueeze(-1)
+                attentions = attentions.unsqueeze(-1)
+
+            target = target.cpu().data.numpy()
+
+                
             for j in range(sentences.size(-1)):
 
                 refs_ids_list.append(k)
@@ -91,13 +142,12 @@ def evaluate(args, model, data_loader, ref_ids, refer, img_ids, bert_model, devi
                 output_mask = output.argmax(1).data.numpy()
                 outputs.append(output_mask)
 
-                target = target.cpu().data.numpy()
                 I, U = computeIoU(output_mask, target)
 
-                this_iou = I*1.0/U
-
                 if U == 0:
-                    this_iou = 0
+                    this_iou = 0.0
+                else:
+                    this_iou = I*1.0/U
 
                 mean_IoU.append(this_iou)
 
@@ -106,7 +156,7 @@ def evaluate(args, model, data_loader, ref_ids, refer, img_ids, bert_model, devi
 
                 for n_eval_iou in range(len(eval_seg_iou_list)):
                     eval_seg_iou = eval_seg_iou_list[n_eval_iou]
-                    seg_correct[n_eval_iou] += (I * 1.0 / U >= eval_seg_iou)
+                    seg_correct[n_eval_iou] += (this_iou >= eval_seg_iou)
                 seg_total += 1
 
 
@@ -179,20 +229,20 @@ def evaluate(args, model, data_loader, ref_ids, refer, img_ids, bert_model, devi
 
             for r in total_outputs.keys():
 
-            new_im = Image.fromarray(total_outputs[r].astype(np.uint8))
-            file_name = r.split('/')[-1].split('.')[0]
-            folder_name = r.split('/')[-2]
+                new_im = Image.fromarray(total_outputs[r].astype(np.uint8))
+                file_name = r.split('/')[-1].split('.')[0]
+                folder_name = r.split('/')[-2]
 
-            if not os.path.isdir(os.path.join(submission_path, folder_name)):
-                os.makedirs(os.path.join(submission_path, folder_name))
+                if not os.path.isdir(os.path.join(submission_path, folder_name)):
+                    os.makedirs(os.path.join(submission_path, folder_name))
 
-            new_im.save(os.path.join(args.submission_path, folder_name, file_name + '.png'))
+                new_im.save(os.path.join(args.submission_path, folder_name, file_name + '.png'))
 
   
     mean_IoU = np.array(mean_IoU)
     mIoU = np.mean(mean_IoU)
-    print('Final results on [%s][%s]' % ('UNC', 'test'))
-    print('Mean IoU is %.2f\n' % mIoU)
+    print('Final results:')
+    print('Mean IoU is %.2f\n' % (mIoU*100.))
     results_str = ''
     for n_eval_iou in range(len(eval_seg_iou_list)):
         results_str += '    precision@%s = %.2f\n' % \
@@ -214,75 +264,12 @@ def get_transform():
 
 
 # compute IoU
-def computeIoU(pred_rle, gd_rle):
-
-    pred_seg = pred_rle # (H, W)
-    gd_seg = mask.decode(gd_rle)    # (H, W)
+def computeIoU(pred_seg, gd_seg):
 
     I = np.sum(np.logical_and(pred_seg, gd_seg))
     U = np.sum(np.logical_or(pred_seg, gd_seg))
 
     return I, U
-
-# get mask from ann
-def annToRLE(ann, h, w):
-    segm = ann['segmentation']
-    if type(segm) == list:
-        # polygon -- a single object might consist of multiple parts
-        # we merge all parts into one mask rle code
-        rles = mask.frPyObjects(segm, h, w)
-        rle = mask.merge(rles)
-    elif type(segm['counts']) == list:
-        # uncompressed RLE
-        rle = mask.frPyObjects(segm, h, w)
-    else:
-        # rle
-        rle = ann['segmentation']
-    return rle
-
-
-def get_dataset(name, image_set, transform, args):
-
-    if name == 'refcoco' or 'refcoco+':
-
-        if args.baseline_bilstm:
-            from data.dataset_refer_glove import ReferDataset
-        else:
-            from data.dataset_refer_bert import ReferDataset
-
-        ds = ReferDataset(args,
-                          split=image_set,
-                          image_transforms=transform,
-                          target_transforms=None,
-                          input_size=(256, 448),
-                          eval_mode=True)
-
-        num_classes = 2
-
-     elif name == 'a2d':
-
-        from data.a2d import A2DDataset
-
-        ds = A2DDataset(args,
-                        train= image_set == 'train',
-                        db_root_dir= args.a2d_root_dir,
-                        transform=transform,
-                        inputRes=(args.size_a2d_x, args.size_a2d_y))
-
-        num_classes = 2
-
-    elif name == 'davis':
-
-        from data.davis2017_4 import DAVIS17Offline
-
-        ds = DAVIS17(train= image_set == 'train',
-            db_root_dir='/gpfs/scratch/bsc31/bsc31429/dev/vog/datasets/DAVIS2017/',
-            transform=transform,
-            emb_type=emb_type)
-
-        num_classes = 2
-
-    return ds, num_classes
 
 
 def main(args):
@@ -324,24 +311,27 @@ def main(args):
 
     if args.dataset == 'refcoco' or args.dataset == 'refcoco+':
         ref_ids = dataset_test.ref_ids
-        img_ids = dataset_test.imgs
-        refer = REFER(args.data_root, args.refer_dataset, args.splitBy)
+        refer = dataset_test.refer
         ids = ref_ids
         objs_ids = None
         num_objs_list = None
     elif args.dataset == 'davis':
         ids = dataset_test.ids
-        img_ids = dataset_test.img_list
         objs_ids = None
         num_objs_list = None
+
+        with open(args.davis_annotations_file) as f:
+            lines = f.readlines()
+
     elif args.dataset == 'a2d':
         ids = dataset_test.img_list
-        refer = dataset_test.raw_sentences
         objs_ids = dataset_test.objs
         num_objs_list = dataset_test.num_objs_list
 
         with open(args.davis_annotations_file) as f:
             lines = f.readlines()
+
+    if args.dataset == 'davis' or args.dataset == 'a2d':
 
         refer = {}
 
@@ -356,45 +346,8 @@ def main(args):
     else:
         baseline_model = None
 
-    refs_ids_list, outputs = evaluate(args, model, data_loader_test, ids, refer, img_ids, bert_model, device=device, 
-        num_classes=2, baseline_bilstm=baseline_bilstm,  objs_ids=objs_ids, num_objs_list=num_objs_list)
-
-    # if args.dataset == 'refcoco' or args.dataset == 'refcoco+':
-
-    #     cum_I, cum_U = 0, 0
-    #     eval_seg_iou_list = [.5, .6, .7, .8, .9]
-
-    #     seg_correct = np.zeros(len(eval_seg_iou_list), dtype=np.int32)
-    #     seg_total = 0
-
-    #     for id, out in enumerate(outputs):
-
-    #         ref = refer.loadRefs(ref_ids[refs_ids_list[id]])
-    #         ann = refer.Anns[ref[0]['ann_id']]
-    #         image = refer.Imgs[ref[0]['image_id']]
-    #         gd_rle = annToRLE(ann, image['height'], image['width'])
-    #         pred_rle = out.squeeze(0)
-
-    #         I, U = computeIoU(pred_rle, gd_rle)
-
-    #         cum_I += I
-    #         cum_U += U
-
-    #         for n_eval_iou in range(len(eval_seg_iou_list)):
-    #             eval_seg_iou = eval_seg_iou_list[n_eval_iou]
-    #             seg_correct[n_eval_iou] += (I * 1.0 / U >= eval_seg_iou)
-    #         seg_total += 1
-
-    #         print('%s/%s expressions evaluated, iou=%.2f.' % (id + 1, len(outputs), I * 1.0 / U))
-
-    #     print('Final results on [%s][%s]' % ('UNC', 'test'))
-    #     results_str = ''
-    #     for n_eval_iou in range(len(eval_seg_iou_list)):
-    #         results_str += '    precision@%s = %.2f\n' % \
-    #                        (str(eval_seg_iou_list[n_eval_iou]), seg_correct[n_eval_iou] * 100. / seg_total)
-    #     results_str += '    overall IoU = %.2f\n' % (cum_I * 100. / cum_U)
-
-    #     print(results_str)
+    refs_ids_list, outputs = evaluate(args, model, data_loader_test, ids, refer, bert_model, device=device, 
+        num_classes=2, baseline_model=baseline_model,  objs_ids=objs_ids, num_objs_list=num_objs_list)
 
 if __name__ == "__main__":
     from args import get_parser

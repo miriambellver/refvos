@@ -11,7 +11,7 @@ def get_parser():
 
     parser.add_argument('--aux-loss', action='store_true', help='auxiliar loss')
 
-    parser.add_argument('-b', '--batch-size', default=8, type=int)
+    parser.add_argument('-b', '--batch-size', default=6, type=int)
 
     parser.add_argument('--base_size', default=520, type=int, help='base_size')
     parser.add_argument('--crop_size', default=480, type=int, help='crop_size')
@@ -39,7 +39,7 @@ def get_parser():
     parser.add_argument("--test-only", dest="test_only", help="Only test the model", action="store_true",)
 
     # Fusion language + visual
-    parser.add_argument('--multiply_feats', action='store_true', help='multiplication of features instead of concatanation')
+    parser.add_argument('--multiply_feats', action='store_true', default=True, help='multiplication of features instead of concatanation')
     parser.add_argument('--addition',  action='store_true', help='residual connection when features fusion')
 
     # Learning rate strategies
@@ -58,10 +58,13 @@ def get_parser():
     parser.add_argument('--resume', default='', help='resume from checkpoint')
     parser.add_argument('--bert_tokenizer',  default='/gpfs/scratch/bsc31/bsc31429/dev/vog/pytorch-transformers/bert-base-uncased-vocab.txt', help='tokenizer BERT')
     parser.add_argument('--glove_dict',  default='/gpfs/scratch/bsc31/bsc31429/dev/vog/glove.840B.300d.txt', help='glove dict')
+    parser.add_argument('--ck_bert',  default='/gpfs/scratch/bsc31/bsc31429/dev/vog/pytorch-transformers/pretrained_models/', help='which CK of BERT to consider')
+
 
     #### Testing parameters
     parser.add_argument('--results_folder',  default='/gpfs/scratch/bsc31/bsc31429/dev/refvos/results/', help='glove dict')
     parser.add_argument('--submission_path',  default='/gpfs/scratch/bsc31/bsc31429/dev/refvos/results_davis_full_video_ann1_submission/', help='glove dict')
+    parser.add_argument('--split',  default='test', help='split to run test')
 
     #### Dataset specifics
 
@@ -76,7 +79,7 @@ def get_parser():
 
     # DAVIS
     parser.add_argument('--emb_type', default='first_mask', help='first_mask or full_video for davis')
-    parser.add_argument('--davis_data_root', default='/gpfs/scratch/bsc31/bsc31429/databases/davis2017/DAVIS', help='davis dataset root directory')
+    parser.add_argument('--davis_data_root', default='/gpfs/scratch/bsc31/bsc31429/databases/davis2017', help='davis dataset root directory')
     parser.add_argument('--davis_annotations_file', default='/gpfs/scratch/bsc31/bsc31429/databases/davis2017/davis_text_annotations/Davis17_annot1_full_video.txt', help='path of annotations file')
 
     # A2D

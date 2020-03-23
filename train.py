@@ -57,15 +57,15 @@ def get_dataset(name, image_set, transform, args):
 
     elif name == 'davis':
 
-        from data.davis2017_4 import DAVIS17Offline
+        from data.davis2017 import DAVIS17
 
-        ds = DAVIS17(train= image_set == 'train',
-            db_root_dir='/gpfs/scratch/bsc31/bsc31429/dev/vog/datasets/DAVIS2017/',
-            transform=transform,
-            emb_type=emb_type)
+        ds = DAVIS17(args,
+                    train= image_set == 'train',
+                    db_root_dir=args.davis_data_root,
+                    transform=transform,
+                    emb_type=args.emb_type)
 
         num_classes = 2
-
 
     return ds, num_classes
 
@@ -307,8 +307,6 @@ def main(args):
     model = torchvision.models.segmentation.__dict__[args.model](num_classes=num_classes,
                                                                  aux_loss=args.aux_loss,
                                                                  pretrained=args.pretrained,
-                                                                 embedding_model=args.embedding_model,
-                                                                 aspp_option=args.aspp_option,
                                                                  args=args)
 
     model_class = BertModel
@@ -334,6 +332,9 @@ def main(args):
         if args.baseline_bilstm:
             bilstm.load_state_dict(checkpoint['bilstm'])
             fc_layer.load_state_dict(checkpoint['fc_layer'])
+
+    model = model.cuda()
+    bert_model = bert_model.cuda()
 
     model_without_ddp = model
     bert_model_without_ddp = bert_model
