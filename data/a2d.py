@@ -9,7 +9,7 @@ import cv2
 import torch
 import h5py
 
-from pytorch_transformers import *
+import transformers 
 
 import csv
 
@@ -26,7 +26,7 @@ class A2DDataset(Dataset):
         self.transform = transform
         self.max_tokens = 10
         self.attention_masks = []
-        self.tokenizer = BertTokenizer.from_pretrained(args.bert_tokenizer)
+        self.tokenizer = transformers.BertTokenizer.from_pretrained(args.bert_tokenizer)
 
         pad_id = self.tokenizer.convert_tokens_to_ids(self.tokenizer.tokenize('[PAD]'))
         annotations_file = args.a2d_annotations_file

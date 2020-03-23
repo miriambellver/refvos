@@ -9,12 +9,9 @@ from PIL import Image
 import torchvision.transforms.functional as TF
 import random
 
-from pytorch_transformers import *
-
 import h5py
 
-sys.path.insert(0, '/gpfs/scratch/bsc31/bsc31429/dev/vog/datasets/refer/')
-from refer import REFER
+from refer.refer import REFER
 
 from args import get_parser
 

@@ -16,7 +16,7 @@ import cv2
 import torch
 import h5py
 
-from pytorch_transformers import *
+import transformers
 
 
 class DAVIS17(Dataset):
@@ -48,7 +48,7 @@ class DAVIS17(Dataset):
         self.attention_masks = []
 
         self.attention_masks = []
-        self.tokenizer = BertTokenizer.from_pretrained(args.bert_tokenizer)
+        self.tokenizer = transformers.BertTokenizer.from_pretrained(args.bert_tokenizer)
 
         data_root = os.path.join(db_root_dir, 'davis_text_annotations/')
 
