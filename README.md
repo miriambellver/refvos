@@ -1,6 +1,6 @@
 # RefVOS
 
-This code is referring image segmentation and language-guided video object segmentation.
+This code is for referring image segmentation and language-guided video object segmentation.
 
 ### Datasets
 
