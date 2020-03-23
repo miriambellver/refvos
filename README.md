@@ -14,8 +14,9 @@ For language-guided video object segmentation (L-VOS) we used [DAVIS 2017](https
 ### Training
 
 For training the models with the different datasets, the command is the following:
-
-  python3 train.py --dataset refcoco  --model_id model
+```bash
+python3 train.py --dataset refcoco  --model_id model
+```
   
 with the argument of the dataset as 'refcoco', 'refcoco+', 'a2d' or 'davis' and in the argument of model_id, the model name you want to set. Check args.py for more arguments. 
 
@@ -23,6 +24,8 @@ with the argument of the dataset as 'refcoco', 'refcoco+', 'a2d' or 'davis' and 
 
 For testing the models with the different datasets, the command is the following:
 
-  python3 test.py  --dataset refcoco --resume ./checkpoints/model_refcoco.pth 
-  
+```bash
+python3 test.py  --dataset refcoco --resume ./checkpoints/model_refcoco.pth 
+``` 
+
 with the argument of the dataset as 'refcoco', 'refcoco+', 'a2d' or 'davis' and in the argument of resume, the chekpoint you want to evaluate. Check args.py for more arguments. 
