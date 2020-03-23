@@ -56,6 +56,8 @@ class ReferDataset(data.Dataset):
         self.input_ids = []
         self.attention_masks = []
 
+        self.eval_mode = eval_mode
+
         self.glove_table = {}
 
         with open(args.glove_dict, mode='r') as f:
@@ -132,7 +134,7 @@ class ReferDataset(data.Dataset):
         if self.image_transforms is not None:
             img, target = self.image_transforms(img, annot)
 
-        if eval_mode:
+        if self.eval_mode:
 
             embedding = []
             att = []

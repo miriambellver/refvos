@@ -20,15 +20,14 @@ from pytorch_transformers import *
 
 
 class DAVIS17(Dataset):
-    def __init__(self, train=True,
-                 db_root_dir='DAVIS17',
-                 transform=None,
-                 emb_type='first_mask',
-                 annotator=1):
+    def __init__(self, args,
+                train=True,
+                db_root_dir='DAVIS17',
+                transform=None,
+                emb_type='first_mask',
+                annotator=1):
 
         self.train = train
-        self.mini = mini
-        self.mega = mega
         self.db_root_dir = db_root_dir
         self.transform = transform
         self.annotator = annotator
@@ -49,9 +48,9 @@ class DAVIS17(Dataset):
         self.attention_masks = []
 
         self.attention_masks = []
-        self.tokenizer = BertTokenizer.from_pretrained('/gpfs/scratch/bsc31/bsc31429/dev/vog/pytorch-transformers/bert-base-uncased-vocab.txt')
+        self.tokenizer = BertTokenizer.from_pretrained(args.bert_tokenizer)
 
-        data_root = '/gpfs/scratch/bsc31/bsc31429/dev/vog/datasets/davis_text_annotations/'
+        data_root = os.path.join(db_root_dir, 'davis_text_annotations/')
 
         pad_id = self.tokenizer.convert_tokens_to_ids(self.tokenizer.tokenize('[PAD]'))
 
@@ -83,16 +82,16 @@ class DAVIS17(Dataset):
                 annotations[s[0] + '_' + str(int(s[1])-1) + '_' + str(i)] = raw_s
 
         # Initialize the original DAVIS splits for training the parent network
-        with open(os.path.join(db_root_dir, 'ImageSets/2017/' + fname + '.txt')) as f:
+        with open(os.path.join(db_root_dir, 'DAVIS/ImageSets/2017/' + fname + '.txt')) as f:
             seqs = f.readlines()
 
             for seq in seqs:
-                images = np.sort(os.listdir(os.path.join(db_root_dir, 'JPEGImages/480p/', seq.strip())))
+                images = np.sort(os.listdir(os.path.join(db_root_dir, 'DAVIS/JPEGImages/480p/', seq.strip())))
 
                 image_id_first_frame = images[0].split('.')[0]
 
                 # check number of objects
-                annot_path = os.path.join('Annotations/480p', seq.strip(), image_id_first_frame + '.png')
+                annot_path = os.path.join('DAVIS/Annotations/480p', seq.strip(), image_id_first_frame + '.png')
                 annot = np.asarray(Image.open(os.path.join(self.db_root_dir, annot_path)))
                 # determine number of objects by first frame TODO: For full video annotations this is not necessary
                 num_objs = len(np.unique(annot)) - 1
@@ -103,11 +102,9 @@ class DAVIS17(Dataset):
 
                     for i in range(num_objs):
 
-                        img_list.append(os.path.join('JPEGImages/480p', seq.strip(), image))
-                        labels.append(os.path.join('Annotations/480p', seq.strip(), image_id + '.png'))
+                        img_list.append(os.path.join('DAVIS/JPEGImages/480p', seq.strip(), image))
+                        labels.append(os.path.join('DAVIS/Annotations/480p', seq.strip(), image_id + '.png'))
 
-                        if use_mask:
-                            prevs_labels.append(os.path.join('Annotations/480p', seq.strip(), prev_image_id + '.png'))
                         objs.append(i+1)
                         ids.append(seq.split('\n')[0] + '_' + str(i+1))
 
@@ -152,14 +149,7 @@ class DAVIS17(Dataset):
         mask = (label == obj_id).astype(np.float32)
         label = Image.fromarray(mask).convert('L')
 
-        if self.use_mask:
-            prev_label = np.array(Image.open(os.path.join(self.db_root_dir, self.prev_labels[idx])))
-            prev_mask = (prev_label == obj_id).astype(np.float32)
-            prev_label = Image.fromarray(prev_mask).convert('L')
-
-            img, label, prev_label = self.transform(img, label, prev_label)
-        else:
-            img, label = self.transform(img, label)
+        img, label = self.transform(img, label)
 
         # in case it is test time, we choose which annotator to consider
         if self.train == False:
@@ -170,9 +160,6 @@ class DAVIS17(Dataset):
 
         emb = self.input_ids[idx][choice_sent]
         attention_mask = self.attention_masks[idx][choice_sent]
-
-        if self.use_mask:
-            label = [label, prev_label]
 
         return img, label, emb, attention_mask
 

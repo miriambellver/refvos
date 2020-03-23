@@ -17,6 +17,7 @@ import csv
 class A2DDataset(Dataset):
     def __init__(self, 
         args, train=True, 
+        db_root_dir = None,
         inputRes=None,
         transform=None):
 
@@ -44,8 +45,10 @@ class A2DDataset(Dataset):
                 if not words[0] in annotations_ref and words[0]:
                     annotations_ref[words[0]] = {}
 
-                annotations_ref[words[0]][words[1]] = {}
-                annotations_ref[words[0]][words[1]] = words[2].split('\n')[0]
+                # sanity check to make sure only ids < 100 are added
+                if len(words[1]) < 3: 
+                    annotations_ref[words[0]][words[1]] = {}
+                    annotations_ref[words[0]][words[1]] = words[2].split('\n')[0]
 
 
         if train:
@@ -83,34 +86,17 @@ class A2DDataset(Dataset):
                     # check number of objects
                     annot_info_path = os.path.join('a2d_annotation_with_instances', seq.strip(), image_id_first_frame + '.h5')
                     annot_info = h5py.File(os.path.join(self.db_root_dir, annot_info_path), 'r')
-                    num_objs = len(list(annot_info['instance']))
 
-                    max_num_objs = 0
+                    this_objs_ids = list(annotations_ref[seq].keys())
+                    num_objs = len(this_objs_ids)
 
-                    for p in range(len(annotations)):
-
-                        annot_info_path = os.path.join('a2d_annotation_with_instances', seq.strip(),
-                                                       annotations[p].split('.')[0] + '.h5')
-                        annot_info = h5py.File(os.path.join(self.db_root_dir, annot_info_path), 'r')
-
-                        num_objs_ind = max(list(annot_info['instance'])) + 1
-                       
-                        if max_num_objs < num_objs_ind:
-                            max_num_objs = num_objs_ind
-
-                    num_objs = max_num_objs
 
                     for i in range(num_objs):
 
                         sentences_for_ref = []
                         attentions_for_ref = []
-
-                        # is this a mistake of the dataset???
-                        if seq == 'LmMXXT4DfWk' and i == 4:
-                            sentence_raw = annotations_ref[seq]['5']
-
-                        else:
-                            sentence_raw = annotations_ref[seq][str(i)]
+                            
+                        sentence_raw = annotations_ref[seq][this_objs_ids[i]]
 
                         input_ids = self.tokenizer.encode(text=sentence_raw, add_special_tokens=True)
                         input_ids = input_ids[:self.max_tokens]
@@ -135,13 +121,11 @@ class A2DDataset(Dataset):
                             annots_info_list.append(os.path.join('a2d_annotation_with_instances', seq.strip(), image_id + '.h5'))
                             labels.append(os.path.join('Annotations/col', seq.strip(), image_id + '.png'))
 
-                            objs.append(i)
+                            objs.append(float(this_objs_ids[i]))
                             ids.append(seq.split('\n')[0] + '_' + str(i))
 
                             sentences.append(sentences_for_ref)
                             attentions.append(attentions_for_ref)
-
-                            pseudo_annots.append(0)
 
         self.img_list = img_list
         self.objs = objs

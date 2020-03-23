@@ -33,13 +33,12 @@ class ReferDataset(data.Dataset):
                  split='train',
                  eval_mode=False):
 
-        self.max_seq_len = args.gt_maxseqlen
         self.classes = []
         self.input_size = input_size
         self.image_transforms = image_transforms
         self.target_transform = target_transforms
         self.split = split
-        self.refer = REFER(args.data_root, args.refer_dataset, args.splitBy)
+        self.refer = REFER(args.data_root, args.dataset, args.splitBy)
 
         self.max_tokens = 20
 
@@ -52,7 +51,9 @@ class ReferDataset(data.Dataset):
 
         self.input_ids = []
         self.attention_masks = []
-        self.tokenizer = BertTokenizer.from_pretrained(args.tokenizer)
+        self.tokenizer = BertTokenizer.from_pretrained(args.bert_tokenizer)
+
+        self.eval_mode = eval_mode
 
         pad_id = self.tokenizer.convert_tokens_to_ids(self.tokenizer.tokenize('[PAD]'))
 
@@ -108,7 +109,7 @@ class ReferDataset(data.Dataset):
             # involves transform from PIL to tensor and mean and std normalization
             img, target = self.image_transforms(img, annot)
 
-        if eval_mode:
+        if self.eval_mode:
 
             embedding = []
             att = []
