@@ -13,7 +13,7 @@ For language-guided video object segmentation (L-VOS) we used [DAVIS 2017](https
 
 ### Pre-trained weights
 
-If you want to use pre-trained weights, we offer the following ones:
+Download the pre-trained weights for our models using the following links:
 
 Model trained on RefCOCO
 
