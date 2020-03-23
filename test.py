@@ -10,14 +10,10 @@ import torch
 import torch.utils.data
 from torch import nn
 
-from pytorch_transformers import *
+from transformers import *
 import torchvision
 
 from lib import segmentation
-
-import sys
-sys.path.insert(0, '/gpfs/scratch/bsc31/bsc31429/dev/vog/datasets/refer/')
-from refer import REFER
 
 import transforms as T
 import utils

@@ -9,7 +9,7 @@ from torch import nn
 from functools import reduce #python 3
 import operator
 
-from pytorch_transformers import *
+from transformers import *
 
 import torchvision
 
