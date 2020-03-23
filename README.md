@@ -11,6 +11,16 @@ For language-guided video object segmentation (L-VOS) we used [DAVIS 2017](https
 
 ### Installation instructions
 
+### Pre-trained weights
+
+If you want to use pre-trained weights, we offer the following ones:
+
+Model trained on RefCOCO
+Model trained on RefCOCO+
+[Model trained on A2D](https://drive.google.com/file/d/1CqwYTwcD0lQ0VHJMJJ9iOmRGvjj3Eiuf/view?usp=sharing)
+[Model trained on RefCOCO and then A2D](https://drive.google.com/open?id=1Y4sclYO4wViw-gH2nrLZ-XmLq0_FXpWf)
+[Model trained on DAVIS](https://drive.google.com/open?id=1H3S4bZQChIlJNAM5mttbjTAr7pnOk1PL)
+
 ### Training
 
 For training the models with the different datasets, the command is the following:
