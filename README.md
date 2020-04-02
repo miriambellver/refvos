@@ -20,6 +20,7 @@ pip3 install torchvision
 pip3 install pycocotools
 pip3 install scipy
 pip3 install scikit-image
+pip3 install h5py 
 ```
 
 Following refer has to be installed as well, you should substitute the original refer.py file with our custom one, as it is adapted for python3. 
