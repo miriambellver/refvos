@@ -18,14 +18,10 @@ def get_parser():
 
     parser.add_argument('--epochs', default=30, type=int, metavar='N', help='number of total epochs to run')
 
-    parser.add_argument('-j', '--workers', default=16, type=int, metavar='N',
-                        help='number of data loading workers (default: 16)')
+    parser.add_argument('-j', '--workers', default=16, type=int, metavar='N', help='number of data loading workers (default: 16)')
     parser.add_argument('--lr', default=0.01, type=float, help='initial learning rate')
-    parser.add_argument('--momentum', default=0.9, type=float, metavar='M',
-                        help='momentum')
-    parser.add_argument('--wd', '--weight-decay', default=1e-4, type=float,
-                        metavar='W', help='weight decay (default: 1e-4)',
-                        dest='weight_decay')
+    parser.add_argument('--momentum', default=0.9, type=float, metavar='M', help='momentum')
+    parser.add_argument('--wd', '--weight-decay', default=1e-4, type=float, metavar='W', help='weight decay (default: 1e-4)', dest='weight_decay')
 
     parser.add_argument("--pretrained", dest="pretrained", help="Use pre-trained models from the modelzoo", action="store_true",)
 
@@ -67,6 +63,7 @@ def get_parser():
     parser.add_argument('--split',  default='test', help='split to run test')
     parser.add_argument('--display',  action='store_true', help='save output predictions')
 
+    
     #### Dataset specifics
 
     # pretraining
