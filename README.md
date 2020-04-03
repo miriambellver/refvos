@@ -76,7 +76,7 @@ python3 train.py --dataset refcoco  --model_id model_pretrained_bert --ck_bert .
 
 The same applies for RefCOCO+, but changing refcoco for refcoco+
 
-- If you want to train a model starting from a pre-trained (for instance, on RefCOCO), the command would be the following:
+- If you want to train a model starting from pre-trained weights (for instance on RefCOCO), the command you can use is the following:
 
 ```bash
 python3 train.py --dataset a2d  --model_id a2d_model --pretrained_refvos --ck_pretrained_refvos ./checkpoints/model_refcoco.pth
