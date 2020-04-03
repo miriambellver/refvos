@@ -321,9 +321,8 @@ def main(args):
         bilstm = bilstm.cuda()
         fc_layer = fc_layer.cuda()
 
-    if args.pretrained_refcoco:
-
-        checkpoint = torch.load(args.ck_pretrained_coco)
+    if args.pretrained_refvos:
+        checkpoint = torch.load(args.ck_pretrained_refvos)
         model.load_state_dict(checkpoint['model'])
         bert_model.load_state_dict(checkpoint['bert_model'])
 
