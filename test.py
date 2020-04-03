@@ -48,7 +48,7 @@ def get_dataset(name, image_set, transform, args):
 
         ds = A2DDataset(args,
                         train= image_set == 'train',
-                        db_root_dir= args.a2d_root_dir,
+                        db_root_dir= args.a2d_data_root,
                         transform=transform,
                         inputRes=(args.size_a2d_x, args.size_a2d_y))
 
