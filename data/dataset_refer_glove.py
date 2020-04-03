@@ -38,7 +38,7 @@ class ReferDataset(data.Dataset):
         self.image_transforms = image_transforms
         self.target_transform = target_transforms
         self.split = split
-        self.refer = REFER(args.data_root, args.refer_dataset, args.splitBy)
+        self.refer = REFER(args.refer_data_root, args.refer_dataset, args.splitBy)
         self.mode = mode
 
         self.max_tokens = 20
