@@ -425,7 +425,7 @@ def main(args):
 
         # only save if checkpoint improves
         if t_iou < iou:
-            print('Better epoch!_{}\n'.format(epoch))
+            print('Better epoch: {}\n'.format(epoch))
 
             if args.baseline_bilstm:
                 utils.save_on_master(
