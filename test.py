@@ -69,7 +69,6 @@ def get_dataset(name, image_set, transform, args):
     return ds, num_classes
 
 
-# in this evaluate, there are three embeddings for reference
 def evaluate(args, model, data_loader, ref_ids, refer, bert_model, device, num_classes, display=False, baseline_model=None, 
     objs_ids=None, num_objs_list=None):
     model.eval()
