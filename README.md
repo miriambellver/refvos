@@ -74,7 +74,7 @@ Other possible configurations to train models are the following:
 python3 train.py --dataset refcoco  --model_id model_pretrained_bert --ck_bert ./checkpoints_bert/bert_pretrained_refcoco
 ```
 
-The same applies for RefCOCO+, but changing refcoco for refcoco+.
+The same applies for RefCOCO+ but changing refcoco for refcoco+.
 
 - If you want to train a model starting from pre-trained weights (for instance on RefCOCO), the command you can use is the following:
 
