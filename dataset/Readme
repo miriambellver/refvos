@@ -1,1 +1,9 @@
 
+
+There are two different folders:
+- RE_categorization
+- New_REs
+
+The folder "RE_categorization" includes two files (DAVIS17 and A2D) with the annotations done in terms of categorizing the original REs into "Non-trivial", "Trivial (Single Object Category)", "Incorrect Referring Expression" and "Not a Referring Expression". Furthermore, non-trivial REs are also annotated into "Redundant Information" and "Minimal Information" depending on whether extra information is given for describing the referent or only the information strictly required for disambiguation, respectively. Finally, non-trivial REs are also annotated in terms of including or not each one of the 7 categories defined in the paper (check Table 1 from main paper).
+
+The folder "New_REs" includes 8 different files, two files for each one of the 4 categories analyzed in the paper (appearance, location, motion and static). For each of these categories, there are two files, one with REs not including the category and another one with REs including the category. Some of them are the original REs and some of them have been manually generated, depending on whether the original RE was an example of including or not such a category.
