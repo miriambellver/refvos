@@ -1,0 +1,1296 @@
+video_id;instance_id;ref_exp;ref_exp_difficulty;ref_exp_information;appearance;obj-static;category;location;motion;obj-motion;static
+-7EE9T3Z0qk;0;the child is crawling up onto the sofa;Non-trivial;Redundant Information;0.0;0.0;1.0;1.0;1.0;0.0;0.0
+-7EE9T3Z0qk;1;baby girl sitting on the couch;Non-trivial;Redundant Information;0.0;0.0;1.0;1.0;0.0;0.0;1.0
+01wmkiDXDD8;1;man in blue shirt doing dribble;Non-trivial;Minimum Information;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+1ApyqVU93N4;0;Girl in yellow dress standing near the woman;Incorrect Referring Expression;Not Applicable;;;;;;;
+1ApyqVU93N4;1;baby in red shirt reaching a toy;Non-trivial;Redundant Information;1.0;0.0;1.0;0.0;0.0;0.0;0.0
+1ApyqVU93N4;2;Girl in yellow dress standing near the woman;Non-trivial;Redundant Information;1.0;0.0;1.0;1.0;0.0;0.0;1.0
+1Ib_2-qdFhk;0;a man eating a big sandwich;Non-trivial;Redundant Information;0.0;1.0;1.0;0.0;0.0;0.0;1.0
+1Ib_2-qdFhk;1;a man with green shirt is sitting on the right;Non-trivial;Redundant Information;1.0;0.0;1.0;1.0;0.0;0.0;0.0
+2G9DODKHHIM;0;seagull standing in the back;Not a Referring Expression;Not Applicable;;;;;;;
+2G9DODKHHIM;1;a bird is running in the middle;Non-trivial;Redundant Information;0.0;0.0;1.0;1.0;1.0;0.0;0.0
+2G9DODKHHIM;2;a white bird is standing in the middle;Not a Referring Expression;Not Applicable;;;;;;;
+2G9DODKHHIM;3;bird on the right standing ;Not a Referring Expression;Not Applicable;;;;;;;
+2G9DODKHHIM;4;seagull with black beak standing on the shore;Not a Referring Expression;Not Applicable;;;;;;;
+4CZjVBpRQtM;0;man in uniform walking on the bottom left;Non-trivial;Redundant Information;1.0;0.0;1.0;1.0;1.0;0.0;0.0
+4CZjVBpRQtM;1;man in uniform walking at last in the second row from left;Non-trivial;Redundant Information;1.0;0.0;1.0;1.0;1.0;0.0;0.0
+4CZjVBpRQtM;2;Large guy is walking in the middle of the street;Not a Referring Expression;Not Applicable;;;;;;;
+4CZjVBpRQtM;3;bottom right man in uniform walking on the street;Non-trivial;Redundant Information;1.0;0.0;1.0;1.0;1.0;0.0;0.0
+64YpE9Pgsgk;0;Woman in pink orange shirt and denim shorts standing near tractor;Non-trivial;Redundant Information;1.0;0.0;1.0;1.0;0.0;0.0;1.0
+64YpE9Pgsgk;1;a car is jumping on the air;Non-trivial;Redundant Information;0.0;0.0;1.0;1.0;1.0;0.0;0.0
+6YIdUkJO7TA;0;a black dog is walking with its friend on the snow;Non-trivial;Redundant Information;1.0;0.0;1.0;1.0;1.0;0.0;0.0
+6YIdUkJO7TA;1;White black dog walking in front;Non-trivial;Redundant Information;1.0;0.0;1.0;1.0;1.0;0.0;0.0
+6YIdUkJO7TA;2;black and brown dog walking in the snow;Non-trivial;Redundant Information;1.0;0.0;1.0;1.0;1.0;0.0;0.0
+6gwZ6MPYW_Y;0;bird flying above the man in yellow shirt;Not a Referring Expression;Not Applicable;;;;;;;
+6gwZ6MPYW_Y;1;Bird with large wings flying in the sky close to the man;Not a Referring Expression;Not Applicable;;;;;;;
+6gwZ6MPYW_Y;2;the person in yellow is running;Non-trivial;Redundant Information;1.0;0.0;1.0;0.0;1.0;0.0;0.0
+6gwZ6MPYW_Y;3;bird flying in the sky;Not a Referring Expression;Not Applicable;;;;;;;
+7kV4-ziw4pU;0;a guy is doing a basketball trick in a stadium;Incorrect Referring Expression;Not Applicable;;;;;;;
+7kuUHEyCV9g;0;Monster car is rolling over in the air;Non-trivial;Redundant Information;0.0;0.0;1.0;1.0;1.0;0.0;0.0
+7kuUHEyCV9g;1;The monster car is jumping from the dirt hill;Not a Referring Expression;Not Applicable;;;;;;;
+7kuUHEyCV9g;2;monster car is jumping in the right bottom corner;Non-trivial;Redundant Information;0.0;0.0;1.0;1.0;1.0;0.0;0.0
+8m0iPQS7Cpg;0;a brown dog running ;Incorrect Referring Expression;Not Applicable;;;;;;;
+8qevxPmTWKQ;0;man in green standing in the back;Not a Referring Expression;Not Applicable;;;;;;;
+8qevxPmTWKQ;1;Violet car is jumping over other cars;Non-trivial;Redundant Information;1.0;0.0;1.0;1.0;1.0;0.0;0.0
+8qevxPmTWKQ;2;black truck parking on the top right;Non-trivial;Redundant Information;1.0;0.0;1.0;1.0;0.0;0.0;1.0
+8qevxPmTWKQ;3;a man with green shirt is watching the car in the behind;Not a Referring Expression;Not Applicable;;;;;;;
+9cqF0hjnIbs;1;a back car with a camper behind it is parked;Non-trivial;Redundant Information;1.0;0.0;1.0;0.0;0.0;0.0;1.0
+9dVSl1NktrE;1;guy in black sitting on the chair;Not a Referring Expression;Not Applicable;;;;;;;
+ACG_c-NGIQQ;0;man in a hat walking with a woman;Non-trivial;Redundant Information;1.0;0.0;1.0;0.0;1.0;0.0;0.0
+ACG_c-NGIQQ;1;Woman in white shirt walking in the forrest;Non-trivial;Redundant Information;1.0;0.0;1.0;1.0;0.0;0.0;0.0
+AMRIatLZjz8;0;a car is rolling;Non-trivial;Minimum Information;0.0;0.0;1.0;0.0;1.0;0.0;0.0
+AMRIatLZjz8;1;man in dark shirt and blue jeans standing on the top;Not a Referring Expression;Not Applicable;;;;;;;
+AMRIatLZjz8;10;the man from the left is watching;Not a Referring Expression;Not Applicable;;;;;;;
+AMRIatLZjz8;11;man in blue shirt standing on the rock;Not a Referring Expression;Not Applicable;;;;;;;
+AMRIatLZjz8;12;Guy in all blue standing on the rock;Not a Referring Expression;Not Applicable;;;;;;;
+AMRIatLZjz8;13;guy in brown hoodie standing on the hill;Not a Referring Expression;Not Applicable;;;;;;;
+AMRIatLZjz8;14;man in gray shirt standing on the top right;Not a Referring Expression;Not Applicable;;;;;;;
+AMRIatLZjz8;15;a man in black jacket is standing on the right;Not a Referring Expression;Not Applicable;;;;;;;
+AMRIatLZjz8;2;a man in dark shirt on the right side is watching the car;Not a Referring Expression;Not Applicable;;;;;;;
+AMRIatLZjz8;3;a guy with blue shirt is watching a car rolling outside;Not a Referring Expression;Not Applicable;;;;;;;
+AMRIatLZjz8;4;a man in white shirt and a white hat in the middle of behind;Non-trivial;Redundant Information;1.0;0.0;1.0;1.0;0.0;0.0;0.0
+AMRIatLZjz8;5;a person in dark on the right is watching the car;Not a Referring Expression;Not Applicable;;;;;;;
+AMRIatLZjz8;6;Man in white coat standing on the back ;Not a Referring Expression;Not Applicable;;;;;;;
+AMRIatLZjz8;7;man in white vest and blue jeans standing on the top right;Not a Referring Expression;Not Applicable;;;;;;;
+AMRIatLZjz8;8;Person standing in white shirt standing in the right corner;Not a Referring Expression;Not Applicable;;;;;;;
+AMRIatLZjz8;9;Guy in gray shirt and black cap standing on the rock;Not a Referring Expression;Not Applicable;;;;;;;
+BSSH9ly3dBM;0;man walking on the beach with a woman;Non-trivial;Redundant Information;0.0;0.0;1.0;1.0;1.0;0.0;0.0
+BSSH9ly3dBM;1;a woman walks with her lover on the beach;Non-trivial;Redundant Information;0.0;0.0;1.0;1.0;1.0;0.0;0.0
+BrSxxfBVW3w;0;baby in green walking on the right;Non-trivial;Redundant Information;1.0;0.0;1.0;1.0;1.0;0.0;0.0
+BrSxxfBVW3w;1;a baby in green is sitting in the middle of mattress;Non-trivial;Redundant Information;1.0;0.0;1.0;1.0;0.0;0.0;1.0
+BrSxxfBVW3w;2;man in blue shirt standing behind the stage;Not a Referring Expression;Not Applicable;;;;;;;
+BrSxxfBVW3w;3;Guy in the white shirt standing on the right;Non-trivial;Redundant Information;1.0;0.0;1.0;1.0;0.0;0.0;1.0
+BvAzdbfFJeQ;0;Big duck is leading baby ducks;Non-trivial;Redundant Information;0.0;0.0;1.0;0.0;0.0;0.0;0.0
+BvAzdbfFJeQ;1;Raven is walking on the road near the duck;Non-trivial;Minimum Information;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+CcgopP4bOfE;1;a woman is sitting on the back with a light on her hand;Non-trivial;Redundant Information;0.0;1.0;1.0;1.0;0.0;0.0;1.0
+CdY2cZV4-kA;0;a red car is jumping up a ramp;Non-trivial;Redundant Information;1.0;0.0;1.0;1.0;1.0;0.0;0.0
+CdY2cZV4-kA;1;a car is moving toward camera and jumping;Incorrect Referring Expression;Not Applicable;;;;;;;
+CdY2cZV4-kA;2;blue truck parking on the right;Non-trivial;Redundant Information;1.0;0.0;1.0;1.0;0.0;0.0;1.0
+CwSUSVxoqbs;0;yellow bird flying;Non-trivial;Redundant Information;1.0;0.0;1.0;0.0;1.0;0.0;0.0
+CwSUSVxoqbs;1;the blue bird is walking on the railing;Non-trivial;Redundant Information;1.0;0.0;1.0;1.0;1.0;0.0;0.0
+CwSUSVxoqbs;2;green bird walking on the curtain rod;Non-trivial;Redundant Information;1.0;0.0;1.0;1.0;1.0;0.0;0.0
+CwSUSVxoqbs;3;white parrot climbing on the curtains;Non-trivial;Redundant Information;1.0;0.0;1.0;1.0;1.0;0.0;0.0
+CyQpFOr4SYM;1;a man in dark on the left is standing;Not a Referring Expression;Not Applicable;;;;;;;
+CyQpFOr4SYM;2;the person in black in the background is watching a car;Not a Referring Expression;Not Applicable;;;;;;;
+EhRuG0D-WsU;0;yellow cat at the bottom walking;Non-trivial;Redundant Information;1.0;0.0;1.0;0.0;1.0;0.0;0.0
+EhRuG0D-WsU;1;the cat is sitting;Non-trivial;Minimum Information;0.0;0.0;0.0;0.0;0.0;0.0;1.0
+Fiyr91l0wao;0;the car is flying through the air;Non-trivial;Redundant Information;0.0;0.0;1.0;1.0;1.0;0.0;0.0
+Fiyr91l0wao;1;black car parking by the road;Not a Referring Expression;Not Applicable;;;;;;;
+Fiyr91l0wao;2;the car is parked in the background;Not a Referring Expression;Not Applicable;;;;;;;
+Fiyr91l0wao;3;a white car is flying on the air;Incorrect Referring Expression;Not Applicable;;;;;;;
+FmaPgB5rXAg;0;a bird on the left is walking on the sand;Non-trivial;Redundant Information;0.0;0.0;1.0;1.0;1.0;0.0;0.0
+FmaPgB5rXAg;1;the sandpiper is looking for food;Not a Referring Expression;Not Applicable;;;;;;;
+HYGkFj8H2-w;0;white seagull is walking on the beach;Not a Referring Expression;Not Applicable;;;;;;;
+HYGkFj8H2-w;1;the left duck is walking;Not a Referring Expression;Not Applicable;;;;;;;
+IFLbZ0eJLgI;1;man walking next to the car;Incorrect Referring Expression;Not Applicable;;;;;;;
+IFLbZ0eJLgI;2;the right man in black is standing behind the car;Not a Referring Expression;Not Applicable;;;;;;;
+IppaQSxbp_Y;0;the man in the blue shirt is just standing there;Non-trivial;Minimum Information;1.0;0.0;1.0;0.0;0.0;0.0;1.0
+IppaQSxbp_Y;1;a man with light blue shirt is walking away the camera;Non-trivial;Redundant Information;1.0;0.0;1.0;1.0;1.0;0.0;0.0
+IppaQSxbp_Y;2;a man is standing on the right side;Non-trivial;Redundant Information;0.0;0.0;1.0;1.0;0.0;0.0;1.0
+J10axcxQs8k;0;a yellow ball holded by a child is being thrown to the floor;Not a Referring Expression;Not Applicable;;;;;;;
+J10axcxQs8k;1;boy in yellow top and green pants bouncing a yellow ball in the front;Non-trivial;Redundant Information;1.0;0.0;1.0;1.0;0.0;1.0;0.0
+J10axcxQs8k;2;girl in white top bouncing a ball on the right;Non-trivial;Redundant Information;1.0;0.0;1.0;1.0;0.0;0.0;0.0
+J10axcxQs8k;3;the second boy in the queue is standing;Not a Referring Expression;Not Applicable;;;;;;;
+J10axcxQs8k;4;Guy in yellow shirt and green pants standing on the orange floor;Not a Referring Expression;Not Applicable;;;;;;;
+J10axcxQs8k;5;Small yellow ball is rolling on yellow floor;Non-trivial;Redundant Information;1.0;0.0;1.0;1.0;1.0;0.0;0.0
+JAyETp6IrfQ;0;cat with gray fur sitting on the chair;Non-trivial;Redundant Information;1.0;0.0;1.0;1.0;0.0;0.0;1.0
+JAyETp6IrfQ;1;Cat is climbing the door;Non-trivial;Redundant Information;0.0;0.0;1.0;1.0;1.0;0.0;0.0
+JHy6bBKu0j4;0;big duck walking on the stairs;Non-trivial;Redundant Information;1.0;0.0;1.0;1.0;1.0;0.0;0.0
+JHy6bBKu0j4;1;the duckling is waddling along the step;Not a Referring Expression;Not Applicable;;;;;;;
+JHy6bBKu0j4;2;a tiny duck is following its parent outside on stairs;Not a Referring Expression;Not Applicable;;;;;;;
+JNziEdeT3hU;0;White car is standing on the left hill;Non-trivial;Redundant Information;1.0;0.0;1.0;1.0;0.0;0.0;1.0
+JNziEdeT3hU;1;red car flying over the road;Non-trivial;Redundant Information;1.0;0.0;1.0;1.0;1.0;0.0;0.0
+JNziEdeT3hU;2;a person with only visible head on the bottom is watching the performance;Not a Referring Expression;Not Applicable;;;;;;;
+JNziEdeT3hU;3;man in white shirt standing in the front of the camera;Not a Referring Expression;Not Applicable;;;;;;;
+JgUBrgYXEMU;0;car rolling over dirt;Non-trivial;Redundant Information;0.0;0.0;1.0;1.0;1.0;0.0;0.0
+JgUBrgYXEMU;1;the white van is parked;Not a Referring Expression;Not Applicable;;;;;;;
+JgUBrgYXEMU;2;a black car on the middle behind;Not a Referring Expression;Not Applicable;;;;;;;
+JvlIOOVo050;0;Guy in yellow hoodie is holding a height measurer;Non-trivial;Redundant Information;1.0;1.0;1.0;0.0;0.0;0.0;1.0
+KVB3c-_VkuA;0;man standing behind the car;Non-trivial;Redundant Information;0.0;0.0;1.0;1.0;0.0;0.0;1.0
+KVB3c-_VkuA;1;a brown car is jumping up and down;Non-trivial;Redundant Information;1.0;0.0;1.0;0.0;1.0;0.0;0.0
+KVB3c-_VkuA;2;Big guy holding height measurer from the right side;Non-trivial;Redundant Information;1.0;1.0;1.0;1.0;0.0;0.0;1.0
+KVB3c-_VkuA;3;Big guy standing on the rigth;Not a Referring Expression;Not Applicable;;;;;;;
+KZXZVFwFhn4;0;a black cat is sitting on the back;Non-trivial;Redundant Information;1.0;0.0;1.0;1.0;0.0;0.0;1.0
+KZXZVFwFhn4;1;a gray white cat on the left is approaching its friends;Non-trivial;Redundant Information;1.0;0.0;1.0;1.0;1.0;0.0;0.0
+KZXZVFwFhn4;2;cat walking to the left;Non-trivial;Redundant Information;0.0;0.0;1.0;1.0;1.0;0.0;0.0
+L16abtpWTSI;0;baby in blue shirt standing near the bed;Non-trivial;Redundant Information;1.0;0.0;1.0;1.0;0.0;0.0;1.0
+L16abtpWTSI;1;baby is climbing over the wooden fence;Non-trivial;Redundant Information;0.0;0.0;1.0;1.0;1.0;0.0;0.0
+LaQHEtngJlE;0;a bird is running in the snow;Non-trivial;Minimum Information;0.0;0.0;1.0;1.0;1.0;0.0;0.0
+LaQHEtngJlE;1;bird is sitting under the bush;Not a Referring Expression;Not Applicable;;;;;;;
+LaQHEtngJlE;2;Yellow bird is standing on the grass;Non-trivial;Redundant Information;1.0;0.0;1.0;1.0;0.0;0.0;1.0
+NdcsOJC392M;0;black cat walking on the bottom;Non-trivial;Redundant Information;1.0;0.0;1.0;1.0;1.0;0.0;0.0
+NdcsOJC392M;1;a white cat is walking around;Non-trivial;Redundant Information;1.0;0.0;1.0;1.0;1.0;0.0;0.0
+NdcsOJC392M;2;black cat walking in the room;Not a Referring Expression;Not Applicable;;;;;;;
+O8alIA6GPYA;1;the dog on the right is crawling;Non-trivial;Redundant Information;0.0;0.0;1.0;1.0;1.0;0.0;0.0
+O8alIA6GPYA;2;dog on the left crawling;Non-trivial;Redundant Information;0.0;0.0;1.0;1.0;1.0;0.0;0.0
+OgkpGNMW6ps;0;the man is walking along the red carpet;Not a Referring Expression;Not Applicable;;;;;;;
+OgkpGNMW6ps;1;man in black suit and blue tie walking on the red carpet;Non-trivial;Redundant Information;1.0;0.0;1.0;1.0;1.0;0.0;0.0
+OgkpGNMW6ps;2;man in black suit and red tie is walking in front of the camera;Non-trivial;Redundant Information;1.0;0.0;1.0;1.0;1.0;0.0;0.0
+OgkpGNMW6ps;3;man in black suits walking on the right most;Non-trivial;Redundant Information;1.0;0.0;1.0;1.0;1.0;0.0;0.0
+Qg_eki6e3C0;0;Kitten is climbing the man;Non-trivial;Minimum Information;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+Qg_eki6e3C0;1;cat climbing on a person;Incorrect Referring Expression;Not Applicable;;;;;;;
+Ry8GWJMpIVQ;0;man in red running;Not a Referring Expression;Not Applicable;;;;;;;
+Ry8GWJMpIVQ;1;the man in red is running in a race;Not a Referring Expression;Not Applicable;;;;;;;
+Ry8GWJMpIVQ;2;the black person with black clothes is running;Non-trivial;Redundant Information;1.0;0.0;1.0;0.0;1.0;0.0;0.0
+Ry8GWJMpIVQ;3;Guy in red shirt with number 2456 running on the athletic track;Non-trivial;Redundant Information;1.0;0.0;1.0;1.0;1.0;0.0;0.0
+Ry8GWJMpIVQ;4;a man in black is running on the back;Non-trivial;Redundant Information;1.0;0.0;1.0;1.0;1.0;0.0;0.0
+Ry8GWJMpIVQ;5;the person with white shirt is running;Non-trivial;Redundant Information;1.0;0.0;1.0;0.0;1.0;0.0;0.0
+SG14EVakSOY;0;Soldier is crawling in the front of the camera;Non-trivial;Redundant Information;0.0;0.0;1.0;1.0;1.0;0.0;0.0
+SG14EVakSOY;1;soldier on the left is crawling under barbed wires;Non-trivial;Redundant Information;0.0;0.0;1.0;1.0;1.0;0.0;0.0
+SG14EVakSOY;2;Soldier on the right is crawling under barbed wire;Non-trivial;Redundant Information;0.0;0.0;1.0;1.0;1.0;0.0;0.0
+UkzM0oR0Irg;0;cat is eating some food;Not a Referring Expression;Not Applicable;;;;;;;
+UkzM0oR0Irg;1;a brown yellowish cat is eating food;Not a Referring Expression;Not Applicable;;;;;;;
+UkzM0oR0Irg;2;the black cat is eating fish;Non-trivial;Redundant Information;1.0;1.0;1.0;0.0;0.0;0.0;1.0
+UkzM0oR0Irg;3;second spotted cat from the right eating fishes;Non-trivial;Redundant Information;0.0;1.0;1.0;1.0;0.0;0.0;1.0
+UkzM0oR0Irg;4;gray cat is eating fish bones;Not a Referring Expression;Not Applicable;;;;;;;
+UkzM0oR0Irg;5;brown cat eating fishes;Not a Referring Expression;Not Applicable;;;;;;;
+UkzM0oR0Irg;6;the middle gray cat is eating;Not a Referring Expression;Not Applicable;;;;;;;
+UkzM0oR0Irg;7;Small orange cat is eating the food;Non-trivial;Redundant Information;1.0;1.0;1.0;0.0;0.0;0.0;1.0
+V1ce8rpJ-HA;0;girl eating;Non-trivial;Minimum Information;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+V1ce8rpJ-HA;1;girl eating;Incorrect Referring Expression;Not Applicable;;;;;;;
+XQ2WJo8sLEw;2;the person in gray is walking;Non-trivial;Redundant Information;1.0;0.0;1.0;0.0;1.0;0.0;0.0
+XQ2WJo8sLEw;3;man in black pants walking next to a white dog;Non-trivial;Redundant Information;1.0;0.0;1.0;1.0;1.0;0.0;0.0
+XWLh6BBJY2c;0;Boy with white hat playing basketball;Non-trivial;Redundant Information;1.0;0.0;1.0;0.0;1.0;0.0;0.0
+XWLh6BBJY2c;1;man throwing ball ;Incorrect Referring Expression;Not Applicable;;;;;;;
+XWLh6BBJY2c;2;Ball laying near the door;Non-trivial;Minimum Information;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+XWLh6BBJY2c;3;basketball flying into the basket;Non-trivial;Redundant Information;0.0;0.0;1.0;1.0;1.0;0.0;0.0
+Xak5MjMRWFA;0;Small baby crawling on the right;Non-trivial;Redundant Information;1.0;0.0;1.0;1.0;0.0;0.0;0.0
+Xak5MjMRWFA;1;baby crawling on the left;Non-trivial;Redundant Information;0.0;0.0;1.0;1.0;1.0;0.0;0.0
+YIL8dT5HGr8;0;girl rolling on the mat;Non-trivial;Redundant Information;0.0;0.0;1.0;1.0;1.0;0.0;0.0
+YIL8dT5HGr8;1;bird in black pants standing;Incorrect Referring Expression;Not Applicable;;;;;;;
+Z3mrI3Qtib0;0;man in red vest jumping into the sand pit;Non-trivial;Redundant Information;1.0;0.0;1.0;1.0;1.0;0.0;0.0
+Z3mrI3Qtib0;1;a man is standing on the right and watching the game;Not a Referring Expression;Not Applicable;;;;;;;
+_fHAFq7CtHE;0;gray cat jumping;Non-trivial;Redundant Information;1.0;0.0;1.0;0.0;1.0;0.0;0.0
+_fHAFq7CtHE;1;cat walking on the bottom right;Non-trivial;Minimum Information;0.0;0.0;1.0;1.0;1.0;0.0;0.0
+_zDiMvRtHhc;0;Car is riding on the racing track;Not a Referring Expression;Not Applicable;;;;;;;
+_zDiMvRtHhc;1;racing car running in distance;Non-trivial;Redundant Information;0.0;0.0;1.0;1.0;1.0;0.0;0.0
+a8gUOdY672I;0;Green parrot is climbing a rope;Non-trivial;Redundant Information;1.0;0.0;1.0;0.0;1.0;0.0;0.0
+a8gUOdY672I;1;Blue parrot is standing on top of the cage;Non-trivial;Redundant Information;1.0;0.0;1.0;1.0;0.0;0.0;0.0
+aon3IF_qxno;1;the person on the right is squatting;Non-trivial;Redundant Information;0.0;0.0;1.0;1.0;0.0;0.0;1.0
+b7D3QscIZso;0;the car is flipping over;Non-trivial;Minimum Information;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+b7D3QscIZso;1;the right person in orange is watching a car;Not a Referring Expression;Not Applicable;;;;;;;
+b7D3QscIZso;2;man in black standing on the grass;Non-trivial;Redundant Information;1.0;0.0;1.0;1.0;0.0;0.0;1.0
+bjITPWl_PE8;0;a baby in yellow shirt is jumping up and down;Non-trivial;Redundant Information;1.0;0.0;1.0;0.0;1.0;0.0;0.0
+bjITPWl_PE8;1;Small boy in white shirt and pants jumping in the middle of he group;Non-trivial;Redundant Information;1.0;0.0;1.0;1.0;1.0;0.0;0.0
+bjITPWl_PE8;2;right most boy jumping up and down;Non-trivial;Redundant Information;0.0;0.0;1.0;1.0;1.0;0.0;0.0
+bjITPWl_PE8;3;Girl in black shirt and pink pants is jumping with other kids;Non-trivial;Redundant Information;1.0;0.0;1.0;0.0;1.0;0.0;0.0
+bjITPWl_PE8;4;woman in pink top bouncing a ball on the left;Non-trivial;Minimum Information;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+fvl8FzxYRLo;0;boy throwing a yellow ball;Non-trivial;Redundant Information;0.0;0.0;1.0;0.0;0.0;1.0;0.0
+fvl8FzxYRLo;1;a woman is sitting on the right;Non-trivial;Redundant Information;0.0;0.0;1.0;1.0;0.0;0.0;1.0
+fvl8FzxYRLo;2;a yellow and black ball is on the floor;Non-trivial;Redundant Information;1.0;0.0;1.0;1.0;0.0;0.0;0.0
+fvl8FzxYRLo;3;yellow ball flying to the ground;Non-trivial;Redundant Information;1.0;0.0;1.0;1.0;1.0;0.0;0.0
+glk2zL5hvNY;0;Boy in orange shirt standing behind the line ;Non-trivial;Redundant Information;1.0;0.0;1.0;1.0;0.0;0.0;1.0
+glk2zL5hvNY;1;boy in green shirt running in the back;Non-trivial;Redundant Information;1.0;0.0;1.0;1.0;1.0;0.0;0.0
+glk2zL5hvNY;3;Boy in blue shirt is dribbling a ball;Non-trivial;Redundant Information;1.0;0.0;1.0;0.0;1.0;0.0;0.0
+glk2zL5hvNY;4;Boy with blonde hair in green shirt chasing boy with the ball;Non-trivial;Redundant Information;1.0;0.0;1.0;0.0;1.0;0.0;0.0
+hKTUod7rQAQ;0;Girl in white shirt is dribbling ball on the left;Non-trivial;Redundant Information;1.0;0.0;1.0;1.0;1.0;0.0;0.0
+hKTUod7rQAQ;1;ball bouncing up and down on left;Non-trivial;Redundant Information;0.0;0.0;1.0;1.0;1.0;0.0;0.0
+hKTUod7rQAQ;2;Orange ball jumping in the middle of training room;Non-trivial;Redundant Information;1.0;0.0;1.0;1.0;1.0;0.0;0.0
+hKTUod7rQAQ;3;Girl with pigtail  dribbling a  ball across;Non-trivial;Redundant Information;1.0;0.0;1.0;0.0;1.0;0.0;0.0
+hKTUod7rQAQ;4;a boy on the right is walking and playing with a ball;Not a Referring Expression;Not Applicable;;;;;;;
+hP4ji3MXpNQ;0;car flying over the sand dune;Non-trivial;Redundant Information;0.0;0.0;1.0;1.0;1.0;0.0;0.0
+hP4ji3MXpNQ;1;the man is watching a jeep do a big jump;Not a Referring Expression;Not Applicable;;;;;;;
+hP4ji3MXpNQ;2;a car is parked on the behind;Non-trivial;Redundant Information;0.0;0.0;1.0;1.0;0.0;0.0;1.0
+hSkglfpoUJg;0;a cat is sitting on the right;Non-trivial;Minimum Information;0.0;0.0;1.0;1.0;0.0;0.0;1.0
+hSkglfpoUJg;1;cat running in the wheel;Non-trivial;Redundant Information;0.0;0.0;1.0;1.0;1.0;0.0;0.0
+hSkglfpoUJg;2;a cat on the left is watching its friends;Non-trivial;Redundant Information;0.0;1.0;1.0;1.0;0.0;0.0;1.0
+hSkglfpoUJg;3;cat eating on the right;Non-trivial;Redundant Information;0.0;0.0;1.0;1.0;0.0;0.0;1.0
+hoMzZCLaRqw;0;a car is moving on the third rank;Non-trivial;Redundant Information;0.0;0.0;1.0;1.0;1.0;0.0;0.0
+hoMzZCLaRqw;1;green racing car running;Non-trivial;Redundant Information;1.0;0.0;1.0;0.0;1.0;0.0;0.0
+hoMzZCLaRqw;2;yellow racing car running on the road;Non-trivial;Redundant Information;1.0;0.0;1.0;1.0;1.0;0.0;0.0
+i82BXNyZpTk;0;man in black top walking on the right;Non-trivial;Redundant Information;1.0;0.0;1.0;1.0;1.0;0.0;0.0
+i82BXNyZpTk;1;a girl in white jacket and pink bag is walking on the left;Non-trivial;Redundant Information;1.0;0.0;1.0;1.0;1.0;0.0;0.0
+i82BXNyZpTk;2;girl with a red backpack walking on the mountain road;Non-trivial;Redundant Information;1.0;0.0;1.0;1.0;1.0;0.0;0.0
+i_2U6TUGPjU;0;a girl on the right is eating a corn;Incorrect Referring Expression;Not Applicable;;;;;;;
+i_2U6TUGPjU;1;man eating corn on the right;Non-trivial;Redundant Information;0.0;1.0;1.0;1.0;0.0;0.0;1.0
+iuuckzeOHDo;0;a car is rolling on the ground;Non-trivial;Redundant Information;0.0;0.0;1.0;1.0;1.0;0.0;0.0
+iuuckzeOHDo;1;Guy in yellow shirt and red pants walking in the back;Non-trivial;Redundant Information;1.0;0.0;1.0;1.0;1.0;0.0;0.0
+j2h9arzRrpI;0;the skippy ball is moving back and forth;Not a Referring Expression;Not Applicable;;;;;;;
+j2h9arzRrpI;1;boy in black jumping up and down;Non-trivial;Redundant Information;1.0;0.0;1.0;0.0;1.0;0.0;0.0
+j2h9arzRrpI;2;boy in gray shirt jumping on the blue ball;Non-trivial;Redundant Information;1.0;0.0;1.0;1.0;1.0;0.0;0.0
+j2h9arzRrpI;3;boy in orange top walking around;Non-trivial;Redundant Information;1.0;0.0;1.0;1.0;1.0;0.0;0.0
+j2h9arzRrpI;4;Blue ball jumping in the training room;Non-trivial;Redundant Information;1.0;0.0;1.0;1.0;1.0;0.0;0.0
+lnCNV8yA25E;0;a black man on the right is rolling over another man;Non-trivial;Redundant Information;1.0;0.0;1.0;1.0;1.0;0.0;0.0
+lnCNV8yA25E;1;guy in black standing on the right;Incorrect Referring Expression;Not Applicable;;;;;;;
+mrpG-WO7Nx0;0;white dog crawling on the floor;Non-trivial;Redundant Information;1.0;0.0;1.0;1.0;1.0;0.0;0.0
+mrpG-WO7Nx0;1;dog lying on the floor;Non-trivial;Redundant Information;0.0;0.0;1.0;1.0;0.0;0.0;1.0
+p8nf_Bm9N54;0;Red air ball is jumping in the room;Non-trivial;Redundant Information;1.0;0.0;1.0;1.0;1.0;0.0;0.0
+p8nf_Bm9N54;1;Yellow ball is laying on the left;Non-trivial;Redundant Information;1.0;0.0;1.0;1.0;0.0;0.0;1.0
+pS-lJk24e14;0;the large person in white is sprinting;Not a Referring Expression;Not Applicable;;;;;;;
+pS-lJk24e14;1;man in red shirt and white pants walking on the track;Non-trivial;Redundant Information;1.0;0.0;1.0;1.0;1.0;0.0;0.0
+qw4yA_TRr6Q;0;white dog rolling on the carpet;Non-trivial;Redundant Information;1.0;0.0;1.0;1.0;1.0;0.0;0.0
+qw4yA_TRr6Q;1;white dog is standing on carpet corner;Non-trivial;Redundant Information;1.0;0.0;1.0;1.0;0.0;0.0;1.0
+t0yPiWdkiwE;0;a white cat is running and playing;Non-trivial;Minimum Information;1.0;0.0;1.0;0.0;1.0;0.0;0.0
+t0yPiWdkiwE;1;White licking her claws on the left;Non-trivial;Redundant Information;1.0;1.0;0.0;1.0;0.0;0.0;1.0
+tXaY0GK_K9c;0;the duck is pecking around;Not a Referring Expression;Not Applicable;;;;;;;
+tXaY0GK_K9c;1;White goose is standing on the right;Not a Referring Expression;Not Applicable;;;;;;;
+tXaY0GK_K9c;2;a white duck in the middle is eating food;Not a Referring Expression;Not Applicable;;;;;;;
+tXaY0GK_K9c;3;a gray and white bird is eating;Not a Referring Expression;Not Applicable;;;;;;;
+tesuXmjcCZY;1;baby crawling in a green tube;Incorrect Referring Expression;Not Applicable;;;;;;;
+tk1uyh9PWqk;0;man in black sweater is walking on the left;Non-trivial;Redundant Information;1.0;0.0;1.0;1.0;1.0;0.0;0.0
+tk1uyh9PWqk;1;woman waving the flags in the front right;Non-trivial;Redundant Information;0.0;0.0;0.0;1.0;0.0;0.0;0.0
+tmSE9cH3PhM;0;a black dog on the bottom is running;Non-trivial;Redundant Information;1.0;0.0;1.0;1.0;1.0;0.0;0.0
+tmSE9cH3PhM;1;black dog running on the grass;Not a Referring Expression;Not Applicable;;;;;;;
+tzxlNL8fwQM;0;the front boy is jumping ;Non-trivial;Redundant Information;0.0;0.0;1.0;1.0;1.0;0.0;0.0
+tzxlNL8fwQM;1;Man in black outfit jumping at the back;Non-trivial;Redundant Information;1.0;0.0;1.0;1.0;1.0;0.0;0.0
+u1priZZzKjM;1;football flying into the goal;Non-trivial;Redundant Information;0.0;0.0;1.0;1.0;1.0;0.0;0.0
+u1priZZzKjM;2;Ball is laying on the grass;Not a Referring Expression;Not Applicable;;;;;;;
+uZg2ebSQCto;0;man in red shirt running to the right;Not a Referring Expression;Not Applicable;;;;;;;
+uZg2ebSQCto;1;first man from the left running ;Non-trivial;Redundant Information;0.0;0.0;1.0;1.0;1.0;0.0;0.0
+ujA9qrvYV2s;0;man walking with a woman on the beach;Non-trivial;Redundant Information;0.0;0.0;1.0;1.0;1.0;0.0;0.0
+ujA9qrvYV2s;1;woman walking with a man on the beach;Non-trivial;Redundant Information;0.0;0.0;1.0;1.0;1.0;0.0;0.0
+um9Wobg5P9Q;0;the kid is running;Non-trivial;Minimum Information;0.0;0.0;1.0;0.0;1.0;0.0;0.0
+um9Wobg5P9Q;1;the seagull is flying around;Not a Referring Expression;Not Applicable;;;;;;;
+um9Wobg5P9Q;2;bird flying;Not a Referring Expression;Not Applicable;;;;;;;
+vIbSO5zAV_4;0;Dog walking around the man;Non-trivial;Minimum Information;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+vIbSO5zAV_4;1;man walking with a dog on the grass;Non-trivial;Minimum Information;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+w2nIfxcxruE;0;the kid in yellow is on her knees;Non-trivial;Redundant Information;1.0;0.0;1.0;1.0;0.0;0.0;0.0
+w2nIfxcxruE;1;a baby in green is crawling;Non-trivial;Redundant Information;1.0;0.0;1.0;0.0;0.0;0.0;0.0
+w2nIfxcxruE;2;baby in white hat sitting on the top right;Non-trivial;Redundant Information;1.0;0.0;1.0;1.0;0.0;0.0;1.0
+wXRKzhBYmWg;0;a woman is running and jumping;Non-trivial;Minimum Information;0.0;0.0;1.0;0.0;1.0;0.0;0.0
+wXRKzhBYmWg;1;Woman in white blouse and black pants standing near the track;Non-trivial;Redundant Information;1.0;0.0;1.0;1.0;0.0;0.0;1.0
+wXRKzhBYmWg;2;the first man in white shirt is sitting;Not a Referring Expression;Not Applicable;;;;;;;
+xazi3V_diGU;0;a cat is walking inside a rotating wheel;Non-trivial;Redundant Information;0.0;0.0;1.0;1.0;1.0;0.0;0.0
+xazi3V_diGU;1;cat is sitting under the wheel;Non-trivial;Redundant Information;0.0;0.0;1.0;1.0;0.0;0.0;1.0
+xfFojpDDQz4;1;a man with black jacket in the middle is watching the car;Not a Referring Expression;Not Applicable;;;;;;;
+xu0L4atB-kg;0;bird standing on the right;Non-trivial;Redundant Information;0.0;0.0;1.0;1.0;0.0;0.0;1.0
+xu0L4atB-kg;1;the bird is rolling around in the corner of its cage;Non-trivial;Redundant Information;0.0;0.0;1.0;1.0;1.0;0.0;0.0
+xw_j1UddF-s;0;a white dog is running from the back to front;Non-trivial;Redundant Information;1.0;0.0;1.0;1.0;1.0;0.0;0.0
+xw_j1UddF-s;1;a person in black is walking;Non-trivial;Redundant Information;1.0;0.0;1.0;0.0;1.0;0.0;0.0
+xw_j1UddF-s;2;white dog walking in the back;Not a Referring Expression;Not Applicable;;;;;;;
+y4IlT_9NMHk;0;the right bird is walking;Not a Referring Expression;Not Applicable;;;;;;;
+y4IlT_9NMHk;1;the left bird is walking;Non-trivial;Redundant Information;0.0;0.0;1.0;1.0;1.0;0.0;0.0
+zITqe1ong0Q;0;a bird on the back of other bird with the same species is flying outside;Non-trivial;Redundant Information;0.0;0.0;1.0;1.0;1.0;0.0;0.0
+zITqe1ong0Q;1;a bird on the left is flying;Non-trivial;Redundant Information;0.0;0.0;1.0;1.0;1.0;0.0;0.0
+lh0AqlL53ac;0;a guy is on the right holding and eating a sandwich ;Non-trivial;Redundant Information;0;1;1;1;0;0;1
+lh0AqlL53ac;1;a boy on the left with red hat is eating a sandwich;Non-trivial;Redundant Information;1;1;1;1;0;0;1
+lifJLb-O7ag;0;white cat running on the sidewalk;Trivial (Single Object Category);Not Applicable;;;;;;;
+lifJLb-O7ag;1;a white car is standing in a parking lot on a street;Not a Referring Expression;Not Applicable;;;;;;;
+lifJLb-O7ag;2;black dog walking on the sideway;Trivial (Single Object Category);Not Applicable;;;;;;;
+mF8PNKEnkJY;0;dog jumping to the woman;Trivial (Single Object Category);Not Applicable;;;;;;;
+mF8PNKEnkJY;1;the person in blue shirt is dancing with a dog;Non-trivial;Redundant Information;1;0;1;0;0;1;0
+mHFZCn-jRpE;0;an old car is turning upside down on a race road ;Non-trivial;Redundant Information;1;0;1;1;1;0;0
+mHFZCn-jRpE;1;a man with orange shirt is sitting in the middle;Not a Referring Expression;Not Applicable;;;;;;;
+moFXmbCl1dk;0;The black dog is standing near the stove;Non-trivial;Redundant Information;1;0;1;1;0;0;1
+moFXmbCl1dk;1;black dog rolling;Non-trivial;Redundant Information;1;0;1;0;1;0;0
+moFXmbCl1dk;2;Guy in white hoodie is playing with the dog;Trivial (Single Object Category);Not Applicable;;;;;;;
+mppkGncJ12M;0;a brown wild cat is walking ;Trivial (Single Object Category);Not Applicable;;;;;;;
+mppkGncJ12M;1;a man in front is running;Non-trivial;Redundant Information;0;0;1;1;1;0;0
+n3DSSGWisgk;0;Guy in black jacket talking to the camera;Non-trivial;Redundant Information;1;0;1;0;0;0;1
+n3DSSGWisgk;1;man in black shirt walking towards the camera;Non-trivial;Redundant Information;1;0;1;1;1;0;0
+nI-_DF6vSRo;0;a man with white shirt is throwing a ball;Non-trivial;Redundant Information;1;0;1;0;0;1;1
+nI-_DF6vSRo;1;a boy in red shirt is throwing a ball;Non-trivial;Redundant Information;1;0;1;0;0;1;1
+nI-_DF6vSRo;2;basketball flying into the basket;Trivial (Single Object Category);Not Applicable;;;;;;;
+ntbN0B2U7mg;0;a blue and white blob is rolling down a hill on the left;Non-trivial;Redundant Information;1;0;1;1;1;0;0
+ntbN0B2U7mg;1;an orange and white blob is sliding on the right side;Non-trivial;Redundant Information;1;0;1;1;1;0;0
+oxlsk5PcpJg;0;Man in blue kimono is rolling on the tatami;Non-trivial;Redundant Information;1;0;1;1;1;0;0
+oxlsk5PcpJg;1;a white man in rolling in the front left;Non-trivial;Redundant Information;1;0;1;1;1;0;0
+oxlsk5PcpJg;2;man with black belt crawling in the middle;Non-trivial;Redundant Information;1;0;1;1;1;0;0
+oxlsk5PcpJg;3;a man with white shirt on the back left;Incorrect Referring Expression;Not Applicable;;;;;;;
+oxlsk5PcpJg;4;man in black bell crawling on the left;Not a Referring Expression;Not Applicable;;;;;;;
+p55k91lyJf4;0;man holding a baby on left;Non-trivial;Redundant Information;0;1;1;1;0;0;1
+p55k91lyJf4;1;violet car is dancing in the middle;Non-trivial;Redundant Information;1;0;1;1;1;0;0
+p55k91lyJf4;2;man in gray shirt and black pants standing next to the car;Non-trivial;Redundant Information;1;0;1;1;0;0;1
+pwmtkiL-lVw;0;football jumping to the ground;Not a Referring Expression;Not Applicable;;;;;;;
+pwmtkiL-lVw;1;the left orange ball is sitting on top of another balls;Not a Referring Expression;Not Applicable;;;;;;;
+pwmtkiL-lVw;2;the second ball is thrown;Incorrect Referring Expression;Not Applicable;;;;;;;
+pwmtkiL-lVw;3;Black white ball falling down on the floor;Not a Referring Expression;Not Applicable;;;;;;;
+q0CYwoDlf6Q;0;Guy in yellow shirt standing near the hurdles;Non-trivial;Redundant Information;1;0;1;1;0;0;1
+q0CYwoDlf6Q;1;woman in white top and black shorts walking on the running track;Non-trivial;Redundant Information;1;0;1;1;1;0;0
+q0CYwoDlf6Q;2;Woman in the blue shirt is standing on the track;Non-trivial;Redundant Information;1;0;1;1;0;0;1
+q0CYwoDlf6Q;3;topless man jumping into the sand pit;Non-trivial;Redundant Information;1;0;1;1;1;0;0
+q4ZVjYbBmD0;0;Blue ball is rolling on the grass;Trivial (Single Object Category);Not Applicable;;;;;;;
+q4ZVjYbBmD0;1;dog is pushing a ball in front of its head;Trivial (Single Object Category);Not Applicable;;;;;;;
+sDCqW7pFNfI;0;White brown dog walking on the beach near the water;Non-trivial;Redundant Information;1;0;1;1;1;0;0
+sDCqW7pFNfI;1;a black dog is running;Not a Referring Expression;Not Applicable;;;;;;;
+sULsOQDaDw0;0;a person is walking backwards while being followed by a dog;Trivial (Single Object Category);Not Applicable;;;;;;;
+sULsOQDaDw0;1;a black dog is crawling;Trivial (Single Object Category);Not Applicable;;;;;;;
+sdZ76vwl61Q;0;Beautiful parrot walking on the table;Trivial (Single Object Category);Not Applicable;;;;;;;
+sdZ76vwl61Q;1;Man is touching a table;Trivial (Single Object Category);Not Applicable;;;;;;;
+spEcZ-Ddbug;0;a woman with black hair is eating a hamburger;Non-trivial;Redundant Information;1;1;1;0;0;0;1
+spEcZ-Ddbug;1;woman in sunglass sitting on the right;Non-trivial;Redundant Information;1;0;1;1;0;0;1
+sqpOl9AjsDY;0;yellow racing car running;Non-trivial;Redundant Information;1;0;1;0;1;0;0
+sqpOl9AjsDY;1;racing car running in the far left;Non-trivial;Redundant Information;0;0;1;1;1;0;0
+sqpOl9AjsDY;2;blue racing car running on the track;Incorrect Referring Expression;Not Applicable;;;;;;;
+sqpOl9AjsDY;3;Blue formula car is following yellow car of the leader;Non-trivial;Redundant Information;1;0;1;1;0;0;0
+sqpOl9AjsDY;4;F1 car running on the left of the track;Not a Referring Expression;Not Applicable;;;;;;;
+t4U53yCBarY;0;Dog rolling on the grass;Trivial (Single Object Category);Not Applicable;;;;;;;
+t4U53yCBarY;1;man in black shorts standing on the left;Trivial (Single Object Category);Not Applicable;;;;;;;
+tUfJLX-JfzE;0;Woman in red standing near the net;Not a Referring Expression;Not Applicable;;;;;;;
+tUfJLX-JfzE;1;a woman in dark red is standing in front of the camera;Non-trivial;Redundant Information;1;0;1;1;0;0;1
+tUfJLX-JfzE;2;the person in red on the left is standing;Non-trivial;Redundant Information;1;0;1;1;0;0;1
+tUfJLX-JfzE;3;Ball is held by the man in the back;Trivial (Single Object Category);Not Applicable;;;;;;;
+tnz-_MYR5AE;0;a guy with red shirt is walking with a dog;Trivial (Single Object Category);Not Applicable;;;;;;;
+tnz-_MYR5AE;1;Dog walking on snow from the right side of the man;Non-trivial;Redundant Information;0;0;1;1;1;0;0
+tnz-_MYR5AE;2;dog walking with a man on the left;Non-trivial;Redundant Information;0;0;1;1;1;0;0
+u3vGTSqXLeI;0;the cat is hopping off the roof of the house and onto the roof of the car;Trivial (Single Object Category);Not Applicable;;;;;;;
+u3vGTSqXLeI;1;white car in the garage;Not a Referring Expression;Not Applicable;;;;;;;
+u78rD9b5qYE;0;man is crawling in the gym;Trivial (Single Object Category);Not Applicable;;;;;;;
+u78rD9b5qYE;1;a dog is sleeping in the back;Trivial (Single Object Category);Not Applicable;;;;;;;
+u78rD9b5qYE;2;Black ball laying near green wall;Not a Referring Expression;Not Applicable;;;;;;;
+u78rD9b5qYE;3;black ball in the back;Not a Referring Expression;Not Applicable;;;;;;;
+u78rD9b5qYE;4;the athletic apparatus is laying along the wall;Incorrect Referring Expression;Not Applicable;;;;;;;
+u78rD9b5qYE;5;Black grey ball laying near the blue wall;Not a Referring Expression;Not Applicable;;;;;;;
+uxNqb2dbuZk;0;baby sitting on to the ground;Trivial (Single Object Category);Not Applicable;;;;;;;
+uxNqb2dbuZk;1;pink ball rolling;Trivial (Single Object Category);Not Applicable;;;;;;;
+v9GlKrSc2Zs;0;the small dog on the right is walking;Non-trivial;Redundant Information;1;0;1;1;1;0;0
+v9GlKrSc2Zs;1;Woman is walking with the dogs in the forest;Trivial (Single Object Category);Not Applicable;;;;;;;
+v9GlKrSc2Zs;2;a big black dog in the middle is walking;Non-trivial;Redundant Information;1;0;1;1;1;0;0
+v9GlKrSc2Zs;3;gray dog walking with a woman on the left;Non-trivial;Redundant Information;1;0;1;1;1;0;0
+v9GlKrSc2Zs;4;a white dog on the left is eating;Non-trivial;Redundant Information;1;0;1;1;0;0;1
+v9GlKrSc2Zs;5;the brown and black dog is running;Non-trivial;Redundant Information;1;0;1;0;1;0;0
+vDE-jmXxRhY;0;Gray car is running on the right;Non-trivial;Redundant Information;1;0;1;1;1;0;0
+vDE-jmXxRhY;1;a black car is moving on the left;Not a Referring Expression;Not Applicable;;;;;;;
+vDE-jmXxRhY;2;a white car in front is moving;Non-trivial;Redundant Information;1;0;1;1;1;0;0
+vDE-jmXxRhY;3;car turning in the front;Not a Referring Expression;Not Applicable;;;;;;;
+vJFolhUfQjc;0;a woman in green cover is walking and talking;Non-trivial;Redundant Information;1;0;1;0;1;0;1
+vJFolhUfQjc;1;the right person in red shirt is walking on the back;Non-trivial;Redundant Information;1;0;1;1;1;0;0
+vLzxe1hxsV4;0;a black cat is playing with a ball;Incorrect Referring Expression;Not Applicable;;;;;;;
+vLzxe1hxsV4;1;White ball rolling on the green grass;Trivial (Single Object Category);Not Applicable;;;;;;;
+vLzxe1hxsV4;2;the man is playing goalkeeper against a dog;Trivial (Single Object Category);Not Applicable;;;;;;;
+vNvjtyUh2OM;0;Dog is running down the stairs;Trivial (Single Object Category);Not Applicable;;;;;;;
+vNvjtyUh2OM;1;a green ball is rolling though the stairs;Trivial (Single Object Category);Not Applicable;;;;;;;
+vbNpHomJ-8Y;0;Woman is walking with two dogs;Trivial (Single Object Category);Not Applicable;;;;;;;
+vbNpHomJ-8Y;1;a dog is watching the camera;Not a Referring Expression;Not Applicable;;;;;;;
+vbNpHomJ-8Y;2;black dog walking with a woman;Not a Referring Expression;Not Applicable;;;;;;;
+vsyCFDG0sZ4;0;Man in white track suit is running ;Non-trivial;Redundant Information;1;0;1;0;1;0;0
+vsyCFDG0sZ4;1;man in red is running on the left;Non-trivial;Redundant Information;1;0;1;1;1;0;0
+vz6e1L5knNk;0;car bouncing up and down;Trivial (Single Object Category);Not Applicable;;;;;;;
+vz6e1L5knNk;1;Guy in white shirt and cap filming the car from the left side;Non-trivial;Redundant Information;1;0;1;1;0;0;1
+w7WdY5sf3VM;0;Parrot climbing a rope in front a mirror;Non-trivial;Redundant Information;0;0;1;1;1;0;0
+w7WdY5sf3VM;1;Reflection of the wavy parrot climbing the rope;Non-trivial;Redundant Information;1;0;1;1;1;0;0
+wqDHV3IaI_A;0;a baby on the bottom is lying in the bed;Trivial (Single Object Category);Not Applicable;;;;;;;
+wqDHV3IaI_A;1;the brown cat is rotating;Trivial (Single Object Category);Not Applicable;;;;;;;
+x0df1JXqcXE;0;Guy in all black kicking a ball;Non-trivial;Redundant Information;1;1;1;0;0;0;1
+x0df1JXqcXE;1;ball flying into the sky;Trivial (Single Object Category);Not Applicable;;;;;;;
+x0df1JXqcXE;2;a man in green tshirt is giving a pass;Non-trivial;Redundant Information;1;0;1;0;0;0;1
+xAJlcQPoKv4;0;a brown dog is walking;Trivial (Single Object Category);Not Applicable;;;;;;;
+xAJlcQPoKv4;1;man in green top walking with a woman;Non-trivial;Redundant Information;1;0;1;1;1;0;0
+xrTQfifI0No;0;a black dog is walking on the left;Trivial (Single Object Category);Not Applicable;;;;;;;
+xrTQfifI0No;1;the toddler in a yellow shirt is walking a black lab;Trivial (Single Object Category);Not Applicable;;;;;;;
+y5AdnvKskoo;0;white dog running;Non-trivial;Redundant Information;1;0;1;0;1;0;0
+y5AdnvKskoo;1;black car parking by the fence;Trivial (Single Object Category);Not Applicable;;;;;;;
+ylzhY6Uy_Mg;0;Instructor is standing behind the obstacle course;Non-trivial;Redundant Information;0;0;1;1;0;0;1
+ylzhY6Uy_Mg;1;man crawling in the front;Non-trivial;Redundant Information;0;0;1;1;1;0;0
+ylzhY6Uy_Mg;2;Soldier running through forrest;Not a Referring Expression;Not Applicable;;;;;;;
+yxxC5XKD4i0;0;a white cat is crawling through a bar ;Not a Referring Expression;Not Applicable;;;;;;;
+yxxC5XKD4i0;1;right cat climbing;Non-trivial;Redundant Information;1;0;1;0;1;0;0
+zRxSQohMkyQ;0;a black dog is jumping up the fences;Trivial (Single Object Category);Not Applicable;;;;;;;
+zRxSQohMkyQ;1;a person in white jacket is standing;Trivial (Single Object Category);Not Applicable;;;;;;;
+-AyZV127fCg;0;a man with white shirt is nearby car ;Not a Referring Expression;Not Applicable;;;;;;;
+-AyZV127fCg;1;Guy in black shirt standing near man in white shirt and green car;Not a Referring Expression;Not Applicable;;;;;;;
+-AyZV127fCg;2;green car jumping up and down;Trivial (Single Object Category);Not Applicable;;;;;;;
+-AyZV127fCg;3;a person in red tshirt is standing on the left;Non-trivial;Redundant Information;1;0;1;1;0;0;1
+-AyZV127fCg;4;a man is standing and watching on the behind;Not a Referring Expression;Not Applicable;;;;;;;
+-AyZV127fCg;5;a man in black is standing on back of the car;Non-trivial;Redundant Information;1;0;1;1;0;0;1
+-AyZV127fCg;6;man in white standing between a man in black and a man in white;Non-trivial;Redundant Information;1;0;1;1;0;0;1
+-AyZV127fCg;7;Green car dancing in the middle;Trivial (Single Object Category);Not Applicable;;;;;;;
+025gzoHW30M;0;a red bird on the left is sitting on top of a wall;Incorrect Referring Expression;Not Applicable;;;;;;;
+025gzoHW30M;1;a reddish bird is eating on the left ;Non-trivial;Redundant Information;1;0;1;1;0;0;1
+0lxhJQFzikQ;0;car jumping into the water;Non-trivial;Redundant Information;0;0;1;1;1;0;0
+0lxhJQFzikQ;1;a car is parked on the left;Non-trivial;Redundant Information;0;0;1;1;0;0;1
+1J67hpI4wOk;0;man climbing rocks in the center;Non-trivial;Redundant Information;0;0;1;1;1;0;0
+1J67hpI4wOk;1;man in black jacket standing on the right;Non-trivial;Redundant Information;1;0;1;1;0;0;1
+1NZgPOEn66U;0;white fuzzy dog is running in the corridor;Trivial (Single Object Category);Not Applicable;;;;;;;
+1NZgPOEn66U;1;person walking the dog;Trivial (Single Object Category);Not Applicable;;;;;;;
+3rbzcgnKWV8;0;man in blue shirt and dark blue short pants standing;Non-trivial;Redundant Information;1;0;1;0;0;0;1
+3rbzcgnKWV8;1;man in white top standing in the center;Non-trivial;Redundant Information;1;0;1;1;0;0;1
+3rbzcgnKWV8;2;a woman is jumping;Non-trivial;Minimum Information;0;0;1;0;1;0;0
+3rbzcgnKWV8;3;woman in pink top and black shorts sitting on the left;Non-trivial;Redundant Information;1;0;1;1;0;0;1
+3zsM3jBwWIM;0;green car running on the street;Trivial (Single Object Category);Not Applicable;;;;;;;
+3zsM3jBwWIM;1;man in gray suits walking;Non-trivial;Redundant Information;1;0;1;0;1;0;0
+3zsM3jBwWIM;2;man in gray top walking on the left;Non-trivial;Redundant Information;1;0;1;1;1;0;0
+3zsM3jBwWIM;3;a man in white tshirt is walking;Non-trivial;Redundant Information;1;0;1;0;1;0;0
+508xrJNlrE4;0;dog eating apple;Trivial (Single Object Category);Not Applicable;;;;;;;
+508xrJNlrE4;1;a man giving an apple to his dog;Trivial (Single Object Category);Not Applicable;;;;;;;
+5DEOQzI8_Mc;0;man in black top crawling;Non-trivial;Redundant Information;1;0;1;0;1;0;0
+5DEOQzI8_Mc;1;naked man is crawling in the sand;Not a Referring Expression;Not Applicable;;;;;;;
+5DEOQzI8_Mc;2;Half naked guy rolling in the back;Not a Referring Expression;Not Applicable;;;;;;;
+5MgnA8i9GJE;0;man in red shirt shooting a basketball;Non-trivial;Redundant Information;1;0;1;0;1;1;0
+5MgnA8i9GJE;1;a ball is flying toward the basket;Not a Referring Expression;Not Applicable;;;;;;;
+5MgnA8i9GJE;2;a man in white short pant is throwing the ball;Non-trivial;Redundant Information;1;0;1;0;1;1;0
+5MgnA8i9GJE;3;Orange ball flying on the basketball court;Not a Referring Expression;Not Applicable;;;;;;;
+610oOuqMPJQ;0;truck jumping;Non-trivial;Minimum Information;0;0;1;0;1;0;0
+610oOuqMPJQ;1;a man in black is watching;Not a Referring Expression;Not Applicable;;;;;;;
+64kPeduPTwE;0;the light brown dog is running;Trivial (Single Object Category);Not Applicable;;;;;;;
+64kPeduPTwE;1;woman sitting at the table;Trivial (Single Object Category);Not Applicable;;;;;;;
+6cQFypxxnlQ;0;man in the yellow shirt is running first in the run;Non-trivial;Redundant Information;1;0;1;1;1;0;0
+6cQFypxxnlQ;1;man in greenish tracksuit running on the middle track;Non-trivial;Redundant Information;1;0;1;1;1;0;0
+6cQFypxxnlQ;2;Man in yellow shirt and black shorts is running during competition;Not a Referring Expression;Not Applicable;;;;;;;
+6cQFypxxnlQ;3;a man in red is running;Non-trivial;Minimum Information;1;0;1;0;1;0;0
+6cQFypxxnlQ;4;the first man from the bottom is running;Non-trivial;Minimum Information;0;0;1;1;1;0;0
+6cQFypxxnlQ;5;a runner on the left of another runner with yellow shirt is running in a race;Not a Referring Expression;Not Applicable;;;;;;;
+6cQFypxxnlQ;6;man in blue tracksuit is running during competition;Not a Referring Expression;Not Applicable;;;;;;;
+6cQFypxxnlQ;7;man in blue shirt and black shorts running on the most far track;Non-trivial;Redundant Information;1;0;1;1;1;0;0
+6cQFypxxnlQ;8;man in white top and black pants standing on the running track;Non-trivial;Redundant Information;1;0;1;1;0;0;1
+6sGQPMg4Gqc;0;cat climbing the fence;Trivial (Single Object Category);Not Applicable;;;;;;;
+6sGQPMg4Gqc;1;Pink ball is siting on the top of the fence;Trivial (Single Object Category);Not Applicable;;;;;;;
+77CtRWUggp4;0;a man is standing on the right and watching the competition;Not a Referring Expression;Not Applicable;;;;;;;
+77CtRWUggp4;1;Man in blue jacket standing on the right;Non-trivial;Redundant Information;1;0;1;1;0;0;1
+77CtRWUggp4;2;the number 6 black greyhound is running in a dog race;Non-trivial;Redundant Information;1;0;1;0;1;0;0
+77CtRWUggp4;3;a dog with yellow cover is running;Non-trivial;Redundant Information;1;0;1;0;1;0;0
+77CtRWUggp4;4;dog in purple running;Non-trivial;Redundant Information;1;0;1;0;1;0;0
+77CtRWUggp4;5;a brown dog is running on top;Non-trivial;Redundant Information;1;0;1;1;1;0;0
+77CtRWUggp4;6;black horse running first;Incorrect Referring Expression;Not Applicable;;;;;;;
+77CtRWUggp4;7;the greyhound from gate 3 is running in a race;Non-trivial;Redundant Information;0;0;1;1;1;0;0
+8BkbsIV2urQ;0;the man is operating a car hydraulics;Trivial (Single Object Category);Not Applicable;;;;;;;
+8BkbsIV2urQ;1;blue car jumping up and down;Trivial (Single Object Category);Not Applicable;;;;;;;
+8RwjUTGK1dc;0;a ball is jumping up and down;Trivial (Single Object Category);Not Applicable;;;;;;;
+8RwjUTGK1dc;1;a guy that watches a ball jumping inside;Trivial (Single Object Category);Not Applicable;;;;;;;
+9-60uVOtr-s;0;brown dog walking;Non-trivial;Redundant Information;1;0;1;0;1;0;0
+9-60uVOtr-s;1;White dog walking around orange ball;Non-trivial;Redundant Information;1;0;1;1;1;0;0
+9-60uVOtr-s;2;orange ball in the blue bowl;Trivial (Single Object Category);Not Applicable;;;;;;;
+99WZXw5udrQ;0;the person is walking;Trivial (Single Object Category);Not Applicable;;;;;;;
+99WZXw5udrQ;1;dog walking with a woman on the grass;Trivial (Single Object Category);Not Applicable;;;;;;;
+9JolVjsR-nI;0;the ball is laying on the ground;Trivial (Single Object Category);Not Applicable;;;;;;;
+9JolVjsR-nI;1;white bird rolling on the floor;Trivial (Single Object Category);Not Applicable;;;;;;;
+9TusWmKQ5Eo;0;Soldier doing exercises in front of the instructor;Not a Referring Expression;Not Applicable;;;;;;;
+9TusWmKQ5Eo;1;man in uniform jumping in the center back;Not a Referring Expression;Not Applicable;;;;;;;
+9TusWmKQ5Eo;2;guy directly right from the instructor;Not a Referring Expression;Not Applicable;;;;;;;
+9TusWmKQ5Eo;3;a man behind the camera is moving his hand up and down;Not a Referring Expression;Not Applicable;;;;;;;
+9wp3M4EUpEQ;0;cat is walking in the room in the front of camera;Non-trivial;Not Applicable;;;;;;;
+9wp3M4EUpEQ;1;dotted cat walking away;Non-trivial;Not Applicable;;;;;;;
+A0qjudKex9I;0;an orange ball is flying on the air;Trivial (Single Object Category);Not Applicable;;;;;;;
+A0qjudKex9I;1;the person is throwing the basketball;Trivial (Single Object Category);Not Applicable;;;;;;;
+AGmJ4qUSKQU;0;boy eating pizza on left;Non-trivial;Redundant Information;0;0;1;1;0;0;1
+AGmJ4qUSKQU;1;a boy on the right is eating a slice of pizza;Non-trivial;Redundant Information;0;1;1;1;0;0;1
+AHPYJgnJ_FI;0;the person with big hair is walking;Non-trivial;Redundant Information;1;0;1;0;1;0;0
+AHPYJgnJ_FI;1;the man in a blue shirt is watching a runway show;Non-trivial;Redundant Information;1;0;1;0;0;0;1
+AijQ01lsWBc;0;woman in green dress is walking on the street;Non-trivial;Redundant Information;1;0;1;1;1;0;0
+AijQ01lsWBc;1;man with a purple backpack walking on the right;Non-trivial;Redundant Information;1;0;1;1;1;0;0
+AztMqE3Vc3I;0;a ball is flying on the air;Trivial (Single Object Category);Not Applicable;;;;;;;
+AztMqE3Vc3I;1;man throwing a basketball into the basket;Trivial (Single Object Category);Not Applicable;;;;;;;
+B8sNJRDRBrg;0;woman crouching next to a man;Trivial (Single Object Category);Not Applicable;;;;;;;
+B8sNJRDRBrg;1;man rolling on the mat;Non-trivial;Redundant Information;0;0;1;1;1;0;0
+C08RAUZYWVw;0;man in red shirt standing in the middle;Non-trivial;Redundant Information;1;0;1;1;0;0;1
+C08RAUZYWVw;1;man in black jumping up and down;Non-trivial;Redundant Information;1;0;1;1;1;0;0
+C08RAUZYWVw;2;dark colored car on the left;Non-trivial;Redundant Information;1;0;1;1;0;0;0
+C08RAUZYWVw;3;silver car parking on the far right;Non-trivial;Redundant Information;1;0;1;1;0;0;1
+CA9xYm7fjwU;0;a man in white shirt is throwing a ball;Trivial (Single Object Category);Not Applicable;;;;;;;
+CA9xYm7fjwU;1;an orange ball is jumping up and down;Trivial (Single Object Category);Not Applicable;;;;;;;
+CAYdFBPE0Zo;0;a person in black clothes is running;Non-trivial;Redundant Information;1;0;0;0;1;0;0
+CAYdFBPE0Zo;1;person in white shirt on the right standing;Not a Referring Expression;Not Applicable;;;;;;;
+CAYdFBPE0Zo;2;first woman from the left standing beside the running track;Not a Referring Expression;Not Applicable;;;;;;;
+CAYdFBPE0Zo;3;guy in red shirt standing near the track;Non-trivial;Redundant Information;1;0;1;1;0;0;1
+CDMN1aQ6I6c;0;a man in suit is walking toward the camera;Not a Referring Expression;Not Applicable;;;;;;;
+CDMN1aQ6I6c;1;Woman in red is going on the right;Non-trivial;Redundant Information;1;0;1;1;1;0;0
+CaWTbs0aMA8;0;Girl in green shirt is chasing a girl with the ball;Non-trivial;Minimum Information;1;0;1;0;1;1;0
+CaWTbs0aMA8;1;White black ball rolling on the grass;Trivial (Single Object Category);Not Applicable;;;;;;;
+CaWTbs0aMA8;2;a blue player is running and playing;Not a Referring Expression;Not Applicable;;;;;;;
+CaWTbs0aMA8;3;someone is waiting for the ball nearby the goal;Non-trivial;Redundant Information;0;1;1;1;0;0;1
+CmOTlqhp_4s;0;man walking with dogs on the beach;Trivial (Single Object Category);Not Applicable;;;;;;;
+CmOTlqhp_4s;1;the left dog is walking;Non-trivial;Redundant Information;0;0;1;1;1;0;0
+CmOTlqhp_4s;2;a dog is leading another dog with its owner;Non-trivial;Minimum Information;0;1;1;0;1;0;0
+CprtLxsO_OU;0;man in white shirt running on the track;Non-trivial;Redundant Information;1;0;1;0;1;0;0
+CprtLxsO_OU;1;man in white top and black shorts standing;Non-trivial;Redundant Information;1;0;1;0;0;0;1
+CprtLxsO_OU;2;woman in white top and black pants standing on the left;Non-trivial;Redundant Information;1;0;1;1;0;0;1
+DuEXIGWnuK8;0;black and white dog rolling on the meadow;Non-trivial;Redundant Information;1;0;1;1;1;0;0
+DuEXIGWnuK8;1;the person is watching a dog;Trivial (Single Object Category);Not Applicable;;;;;;;
+DuEXIGWnuK8;2;small white dog walking on the right;Non-trivial;Redundant Information;1;0;1;1;0;0;0
+DxrkBmYhTro;0;boy in purple shirt dribbling a basketball ;Non-trivial;Redundant Information;1;0;1;0;1;1;0
+DxrkBmYhTro;1;the person in the black shirt is standing;Non-trivial;Redundant Information;1;0;1;0;0;0;1
+DxrkBmYhTro;2;ball bouncing up and down;Trivial (Single Object Category);Not Applicable;;;;;;;
+EadxBPmQvtg;0;boy in the front left passing football;Incorrect Referring Expression;Not Applicable;;;;;;;
+EadxBPmQvtg;1;a man in black is standing on the left side;Non-trivial;Redundant Information;1;0;1;1;0;0;1
+EadxBPmQvtg;10;boy with number 19 playing football;Non-trivial;Redundant Information;1;0;1;0;1;0;0
+EadxBPmQvtg;11;a small ball on the left;Not a Referring Expression;Not Applicable;;;;;;;
+EadxBPmQvtg;2;Small boy near yellow line kicking the ball;Not a Referring Expression;Not Applicable;;;;;;;
+EadxBPmQvtg;3;boy in blue passing football in the back;Not a Referring Expression;Not Applicable;;;;;;;
+EadxBPmQvtg;4;boy with number 3 playing football;Non-trivial;Redundant Information;1;0;1;0;1;0;0
+EadxBPmQvtg;5;boy playing football on the top left;Not a Referring Expression;Not Applicable;;;;;;;
+EadxBPmQvtg;6;boy in blue shirt passing a football in the far left;Not a Referring Expression;Not Applicable;;;;;;;
+EadxBPmQvtg;7;ball passed far on the left;Not a Referring Expression;Not Applicable;;;;;;;
+EadxBPmQvtg;8;a white ball is rolling on top;Not a Referring Expression;Not Applicable;;;;;;;
+EadxBPmQvtg;9;boy in blue shirt passing football in the far back;Not a Referring Expression;Not Applicable;;;;;;;
+FddoRFa6nYY;0;a gray and orange bird is sitting in a branch;Non-trivial;Redundant Information;1;0;1;1;0;0;1
+FddoRFa6nYY;1;a bird on the left is jumping to another branch;Incorrect Referring Expression;Not Applicable;;;;;;;
+FtqgsJwG5cE;0;man throwing a bowling ball;Trivial (Single Object Category);Not Applicable;;;;;;;
+FtqgsJwG5cE;1;the bowling ball is thrown;Trivial (Single Object Category);Not Applicable;;;;;;;
+GJXC8Mo_ASQ;0;the dog is walking;Trivial (Single Object Category);Not Applicable;;;;;;;
+GJXC8Mo_ASQ;1;woman standing on the right;Trivial (Single Object Category);Not Applicable;;;;;;;
+GxcQTYlL6TQ;0;a bird is flying;Not a Referring Expression;Not Applicable;;;;;;;
+GxcQTYlL6TQ;1;Bird flying just above the sea;Not a Referring Expression;Not Applicable;;;;;;;
+H0MjkAHV1ww;0;a big dark dog on top is walking;Non-trivial;Redundant Information;1;0;1;1;1;0;0
+H0MjkAHV1ww;1;a small black dog on top near a white dog is walking;Non-trivial;Redundant Information;1;0;1;1;1;0;0
+H0MjkAHV1ww;2;yellow dog walking on the left;Incorrect Referring Expression;Not Applicable;;;;;;;
+H0MjkAHV1ww;3;a small black dog is walking on the left with its friends;Not a Referring Expression;Not Applicable;;;;;;;
+H0MjkAHV1ww;4;white brown dog is walking in the group of other dogs;Not a Referring Expression;Not Applicable;;;;;;;
+H0MjkAHV1ww;5;the white dog is being walked;Non-trivial;Redundant Information;1;0;1;0;1;0;0
+H0MjkAHV1ww;6;a small black dog is walking on the back;Not a Referring Expression;Not Applicable;;;;;;;
+H0MjkAHV1ww;7;people walking in front of dogs;Trivial (Single Object Category);Not Applicable;;;;;;;
+H1xN08TabmA;0;bowling ball rolling on the track;Trivial (Single Object Category);Not Applicable;;;;;;;
+H1xN08TabmA;1;man throwing a bowling ball;Trivial (Single Object Category);Not Applicable;;;;;;;
+HKOevvmGUOQ;0;man in green shirt standing;Non-trivial;Redundant Information;1;0;1;0;0;0;1
+HKOevvmGUOQ;1;man in yellow shirt jumping over a man;Non-trivial;Redundant Information;1;0;1;1;1;0;0
+IWUrJD-Lnvw;0;woman in blue shirt is eating an icecream;Non-trivial;Redundant Information;1;1;1;0;0;0;1
+IWUrJD-Lnvw;1;Woman in pink is feeding another woman;Non-trivial;Redundant Information;1;1;1;0;0;0;1
+IvRZz2odxA0;0;man in yellow running;Non-trivial;Minimum Information;1;0;1;0;1;0;0
+IvRZz2odxA0;1;man in black running in the middle;Not a Referring Expression;Not Applicable;;;;;;;
+IvRZz2odxA0;2;third man from the left running;Non-trivial;Minimum Information;0;0;1;1;1;0;0
+IvRZz2odxA0;3;the second runner from the bottom is running;Non-trivial;Redundant Information;0;0;1;1;1;0;0
+IvRZz2odxA0;4;man in black running on the athletic track;Not a Referring Expression;Not Applicable;;;;;;;
+IvRZz2odxA0;5;second runner from the right running;Non-trivial;Redundant Information;0;0;1;1;1;0;0
+IvRZz2odxA0;6;man in blue shirt running last in the run;Non-trivial;Redundant Information;1;0;1;1;1;0;0
+IvRZz2odxA0;7;a man in yellow shirt is standing on the left side;Non-trivial;Redundant Information;1;0;1;1;0;0;1
+IvRZz2odxA0;8;a man with black pant on the bottom is watching the race;Not a Referring Expression;Not Applicable;;;;;;;
+Jq37leMMy_g;0;man in black shooting basketball;Non-trivial;Redundant Information;1;1;1;0;0;0;1
+Jq37leMMy_g;1;man in black shirt to the left passing basketball;Non-trivial;Redundant Information;1;1;1;1;0;0;1
+Jq37leMMy_g;2;Orange ball flying into the basket;Not a Referring Expression;Not Applicable;;;;;;;
+Jq37leMMy_g;3;a man with red short pant is throwing a ball;Non-trivial;Redundant Information;1;1;1;0;0;0;1
+Jq37leMMy_g;4;basketball flying into the basket;Not a Referring Expression;Not Applicable;;;;;;;
+KPXOcOA1LmU;0;a man is climbing a rock;Non-trivial;Redundant Information;0;0;1;1;1;0;0
+KPXOcOA1LmU;1;man standing on the left;Non-trivial;Redundant Information;0;0;1;1;0;0;1
+LRGGsk88Ta0;0;a dog is walking;Trivial (Single Object Category);Not Applicable;;;;;;;
+LRGGsk88Ta0;1;man walking with a dog on the road;Trivial (Single Object Category);Not Applicable;;;;;;;
+LT5p1fbeaeM;0;bird walking in the back on the beach;Non-trivial;Redundant Information;0;0;1;1;1;0;0
+LT5p1fbeaeM;1;the first bird from the right is walking ;Non-trivial;Redundant Information;0;0;1;1;1;0;0
+Lkpk--TYF34;0;man crawling in the middle;Non-trivial;Redundant Information;0;0;1;1;1;0;0
+Lkpk--TYF34;1;Soldier is crawling in the right bottom corner;Non-trivial;Redundant Information;0;0;1;1;1;0;0
+Lkpk--TYF34;2;man crawling on the top;Non-trivial;Redundant Information;0;0;1;1;1;0;0
+Loi4xrdGe_Y;0;a dark ball is rolling over a bowling floor;Trivial (Single Object Category);Not Applicable;;;;;;;
+Loi4xrdGe_Y;1;a man is throwing a bowling ball;Trivial (Single Object Category);Not Applicable;;;;;;;
+MX_m2T7_CdU;0;Gray dog running on a leash during dog show;Non-trivial;Redundant Information;1;0;1;1;1;0;0
+MX_m2T7_CdU;1;woman in purple dress running with a dog;Non-trivial;Redundant Information;1;0;1;1;1;0;0
+MX_m2T7_CdU;2;man in black suits walking;Non-trivial;Redundant Information;1;0;1;0;1;0;0
+MxuHXkix-M8;0;Gray dog is running towards the tree;Not a Referring Expression;Not Applicable;;;;;;;
+MxuHXkix-M8;1;a white dog on the back is standing on the left;Not a Referring Expression;Not Applicable;;;;;;;
+MxuHXkix-M8;2;the dog is hopping up into the netted tree;Non-trivial;Redundant Information;0;0;1;1;1;0;0
+MxuHXkix-M8;3;a white dog on the left is playing;Not a Referring Expression;Not Applicable;;;;;;;
+N8HUWi_fhMU;0;the person with white shirt is walking;Non-trivial;Redundant Information;1;0;1;0;1;0;0
+N8HUWi_fhMU;1;Woman in blue is bending ;Non-trivial;Redundant Information;1;0;1;0;0;0;1
+N8HUWi_fhMU;2;White dog walking on the left;Non-trivial;Redundant Information;1;0;1;1;1;0;0
+N8HUWi_fhMU;3;Dog with white black hair walking;Non-trivial;Redundant Information;1;0;1;0;1;0;0
+N8HUWi_fhMU;4;small black dog following the group of white dogs;Non-trivial;Redundant Information;1;0;1;1;1;0;0
+N8HUWi_fhMU;5;the white dog on the right is walking;Non-trivial;Redundant Information;1;0;1;1;1;0;0
+N8HUWi_fhMU;6;white dog walking on the top;Non-trivial;Redundant Information;1;0;1;1;1;0;0
+NZEJRwaDU2M;0;Guy performing long jumping;Non-trivial;Not Applicable;;;;;;;
+NZEJRwaDU2M;1;man in white top and blue pants standing beside the running track;Non-trivial;Not Applicable;;;;;;;
+NZEJRwaDU2M;2;the photographer is capturing a long jump event;Non-trivial;Not Applicable;;;;;;;
+NZEJRwaDU2M;3;the person in blue is standing;Non-trivial;Not Applicable;;;;;;;
+NZEJRwaDU2M;4;Guy in sports suit standing on the orange ground;Non-trivial;Not Applicable;;;;;;;
+NZEJRwaDU2M;5;the first man with white shirt and black pant is sitting;Non-trivial;Not Applicable;;;;;;;
+NZEJRwaDU2M;6;Person sitting on the chair near the track;Not a Referring Expression;Not Applicable;;;;;;;
+NZEJRwaDU2M;7;man in black top sitting beside the running track;Not a Referring Expression;Not Applicable;;;;;;;
+NZEJRwaDU2M;8;man in black shorts jumping into the sand pit;Incorrect Referring Expression;Not Applicable;;;;;;;
+NuCjuBBad68;0;the third car in ranking is moving;Non-trivial;Not Applicable;;;;;;;
+NuCjuBBad68;1;the second car to the left spinning ;Non-trivial;Not Applicable;;;;;;;
+NuCjuBBad68;2;racing car running on outermost side of the road;Non-trivial;Not Applicable;;;;;;;
+NuCjuBBad68;3;car on the left making a turn;Incorrect Referring Expression;Not Applicable;;;;;;;
+NuCjuBBad68;4;car making a turn;Not a Referring Expression;Not Applicable;;;;;;;
+OKoBgO3MvJo;0;a baby cat is climbing up of a wheel;Non-trivial;Not Applicable;;;;;;;
+OKoBgO3MvJo;1;a cat is crawling through a bicycle;Non-trivial;Not Applicable;;;;;;;
+OTZOCMTxQzw;0;a black cat is watching a ball;Trivial (Single Object Category);Not Applicable;;;;;;;
+OTZOCMTxQzw;1;white ball bouncing up and down;Non-trivial;Not Applicable;;;;;;;
+OTZOCMTxQzw;2;White ping pong ball is lying in the box;Not a Referring Expression;Not Applicable;;;;;;;
+OTZOCMTxQzw;3;a white ball is jumping up and down;Non-trivial;Not Applicable;;;;;;;
+P6RmP2giBTQ;0;green racing car running on left;Non-trivial;Not Applicable;;;;;;;
+P6RmP2giBTQ;1;Reed yellow formula car riding in the middle of the track;Non-trivial;Not Applicable;;;;;;;
+P6RmP2giBTQ;2;yellow racing car running in the front;Non-trivial;Not Applicable;;;;;;;
+P6RmP2giBTQ;3;racing car in yellow running second;Non-trivial;Not Applicable;;;;;;;
+PUMvr545LY4;0;big bird walking on the beach;Non-trivial;Not Applicable;;;;;;;
+PUMvr545LY4;1;small bird standing on the bottom left;Non-trivial;Not Applicable;;;;;;;
+PUMvr545LY4;2;small seagull walking on the right;Trivial (Single Object Category);Not Applicable;;;;;;;
+Qd36ZT8sBI8;0;baby crawling to the toy car;Trivial (Single Object Category);Not Applicable;;;;;;;
+Qd36ZT8sBI8;1;person with white tshirt kneeling on the ground;Trivial (Single Object Category);Not Applicable;;;;;;;
+QpCuWsIgpmM;0;dog walking;Trivial (Single Object Category);Not Applicable;;;;;;;
+QpCuWsIgpmM;1;person in black pants running;Non-trivial;Not Applicable;;;;;;;
+RMoi2oNjMN0;0;bird eating on the top;Non-trivial;Not Applicable;;;;;;;
+RMoi2oNjMN0;1;Sparrow is walking on the brown grass;Not a Referring Expression;Not Applicable;;;;;;;
+RMoi2oNjMN0;2;sparrow sitting in the grass;Non-trivial;Not Applicable;;;;;;;
+RMoi2oNjMN0;3;a sparrow on the right is walking;Incorrect Referring Expression;Not Applicable;;;;;;;
+RMoi2oNjMN0;4;left most bird eating;Non-trivial;Not Applicable;;;;;;;
+RUL3CsvaNYg;0;the dog is walking alongside its trainer;Trivial (Single Object Category);Not Applicable;;;;;;;
+RUL3CsvaNYg;1;Person is walking with the dog;Trivial (Single Object Category);Not Applicable;;;;;;;
+S55EopcAvtk;0;a black car is rolling on the air;Trivial (Single Object Category);Not Applicable;;;;;;;
+S55EopcAvtk;1;Man in green pants is standing near the fence;Non-trivial;Not Applicable;;;;;;;
+S55EopcAvtk;2;man in red jacket and white pants standing on the left;Non-trivial;Not Applicable;;;;;;;
+S9UvpMZzv0U;0;the flagbearer in the blue jacket is carrying the flag of azerbaijan;Non-trivial;Not Applicable;;;;;;;
+S9UvpMZzv0U;1;woman in red and white dress walking with an umbrella;Non-trivial;Not Applicable;;;;;;;
+S9UvpMZzv0U;2;woman in red and green dress walking with an umbrella;Not a Referring Expression;Not Applicable;;;;;;;
+SUVrO8_reRs;0;woman is walking on treadmill;Non-trivial;Not Applicable;;;;;;;
+SUVrO8_reRs;1;a man in black is standing on the left and helping a girl;Non-trivial;Not Applicable;;;;;;;
+TJcMQD0MVnY;0;the person in blue shorts is sprinting;Non-trivial;Not Applicable;;;;;;;
+TJcMQD0MVnY;1;the person in yellow shirt is walking;Non-trivial;Not Applicable;;;;;;;
+TM8VR4WCVKA;0;the person with the white shirt is running with a dog;Non-trivial;Not Applicable;;;;;;;
+TM8VR4WCVKA;1;the dog is participating in an agility event;Non-trivial;Not Applicable;;;;;;;
+TM8VR4WCVKA;2;a man in dark suit is standing on the back;Non-trivial;Not Applicable;;;;;;;
+TTYIgsxZrg8;0;Man in yellow track on the right is running on the athletic track;Not a Referring Expression;Not Applicable;;;;;;;
+TTYIgsxZrg8;1;a man in dark jersey on the middle is running;Non-trivial;Not Applicable;;;;;;;
+TTYIgsxZrg8;2;third man from the left is running;Non-trivial;Not Applicable;;;;;;;
+TpdeJeCCe54;0;gray and white cat walking in the wheel;Non-trivial;Not Applicable;;;;;;;
+TpdeJeCCe54;1;the black cat on the right is sitting;Non-trivial;Not Applicable;;;;;;;
+TpdeJeCCe54;2;Black cat sitting at the bottom of the wheel on the left side;Non-trivial;Not Applicable;;;;;;;
+TpdeJeCCe54;3;a brown cat is running inside a rotating wheel;Non-trivial;Not Applicable;;;;;;;
+TpdeJeCCe54;4;a black cat is walking inside a wheel;Non-trivial;Not Applicable;;;;;;;
+UHoyyW8hOSE;0;black and white cat jumping to the toy;Non-trivial;Not Applicable;;;;;;;
+UHoyyW8hOSE;1;brownish cat is jumping for the toy;Non-trivial;Not Applicable;;;;;;;
+UHoyyW8hOSE;2;someone on the couch is training a cat;Trivial (Single Object Category);Not Applicable;;;;;;;
+UzsH2DjQGB8;0;the man is waving flags at passing racecars;Trivial (Single Object Category);Not Applicable;;;;;;;
+UzsH2DjQGB8;1;Yellow formula car is leading a race;Non-trivial;Not Applicable;;;;;;;
+UzsH2DjQGB8;2;racing car running second;Non-trivial;Not Applicable;;;;;;;
+UzsH2DjQGB8;3;Orange car is chasing two cars ahead;Non-trivial;Not Applicable;;;;;;;
+VDhfvP_s8jw;0;Half naked guy climbing steep rock;Trivial (Single Object Category);Not Applicable;;;;;;;
+VDhfvP_s8jw;1;a man is climbing up a rock;Trivial (Single Object Category);Not Applicable;;;;;;;
+VhhPE6-O2_I;0;a soldier is crawling on the right;Non-trivial;Not Applicable;;;;;;;
+VhhPE6-O2_I;1;man crawling on the left;Non-trivial;Not Applicable;;;;;;;
+WAytNRuGTLw;0;red ball sat by a woman;Non-trivial;Not Applicable;;;;;;;
+WAytNRuGTLw;1;a smaller red ball is being holded by a woman who appears to be doing pilates;Non-trivial;Not Applicable;;;;;;;
+WAytNRuGTLw;2;Woman is lying on the red air ball;Trivial (Single Object Category);Not Applicable;;;;;;;
+WAytNRuGTLw;3;White ball sitting beside a red ball;Non-trivial;Not Applicable;;;;;;;
+WTrFVK82EJE;0;the puppy is climbing on top of another puppy;Non-trivial;Not Applicable;;;;;;;
+WTrFVK82EJE;1;black dog rolling;Non-trivial;Not Applicable;;;;;;;
+WW07-Rdwvr0;0;Guy in the training suit throwing the ball;Trivial (Single Object Category);Not Applicable;;;;;;;
+WW07-Rdwvr0;1;a bouncing basketball;Trivial (Single Object Category);Not Applicable;;;;;;;
+WXkPTjUBp90;0;car jumping up and down;Non-trivial;Not Applicable;;;;;;;
+WXkPTjUBp90;1;woman with orange bag standing near the car;Non-trivial;Not Applicable;;;;;;;
+XIt9hcPhdxs;0;Brown dog rolling on the carpet;Trivial (Single Object Category);Not Applicable;;;;;;;
+XIt9hcPhdxs;1;a man is standing on the right;Trivial (Single Object Category);Not Applicable;;;;;;;
+Y6m5YnRmWO4;0;man in red top jumping on the trampoline;Non-trivial;Not Applicable;;;;;;;
+Y6m5YnRmWO4;1;boy kicking a orange ball;Non-trivial;Not Applicable;;;;;;;
+Y6m5YnRmWO4;2;ball flying into the sky;Non-trivial;Not Applicable;;;;;;;
+Y6m5YnRmWO4;3;a girl is watching a performance on the right;Incorrect Referring Expression;Not Applicable;;;;;;;
+Y6m5YnRmWO4;4;man in striped shirt standing;Non-trivial;Not Applicable;;;;;;;
+YAPQck9DCkk;0;Guy in white cap is eating at the table ;Non-trivial;Not Applicable;;;;;;;
+YAPQck9DCkk;1;a bald man is eating a sandwich;Non-trivial;Not Applicable;;;;;;;
+YIHjdVteO2A;0;a man is throwing a ball;Trivial (Single Object Category);Not Applicable;;;;;;;
+YIHjdVteO2A;1;a basketball ball is flying;Trivial (Single Object Category);Not Applicable;;;;;;;
+Z14ivKXWD0k;0;a dog is rolling on the floor;Trivial (Single Object Category);Not Applicable;;;;;;;
+Z14ivKXWD0k;1;Orange ball laying on the floor near the dog;Trivial (Single Object Category);Not Applicable;;;;;;;
+_Lyt-IwXCSo;0;a green bird is jumping over a stick;Trivial (Single Object Category);Not Applicable;;;;;;;
+_Lyt-IwXCSo;1;yellow bird standing on the bottom left;Non-trivial;Not Applicable;;;;;;;
+_Lyt-IwXCSo;2;a green bird flying through an abacus;Non-trivial;Not Applicable;;;;;;;
+_O6VsB_6RII;0;woman in green top standing on the left;Non-trivial;Not Applicable;;;;;;;
+_O6VsB_6RII;1;dog is walking around red cones;Non-trivial;Not Applicable;;;;;;;
+_O6VsB_6RII;2;Woman walking with the dog around the cones;Non-trivial;Not Applicable;;;;;;;
+_O6VsB_6RII;3;a dog is being holded by its owner inside a house ;Non-trivial;Not Applicable;;;;;;;
+_Qtg1JGMF6U;0;a man is climbing up a tree;Trivial (Single Object Category);Not Applicable;;;;;;;
+_Qtg1JGMF6U;1;black car standing on the beach;Trivial (Single Object Category);Not Applicable;;;;;;;
+_WytjbKhj58;0;a boy is eating on the left;Non-trivial;Not Applicable;;;;;;;
+_WytjbKhj58;1;a man in orange is eating sandwich on the right;Non-trivial;Not Applicable;;;;;;;
+aMHCqrHTkRI;0;a baby is sitting in a mattress;Trivial (Single Object Category);Not Applicable;;;;;;;
+aMHCqrHTkRI;1;a black cat is walking and jumping on the right;Incorrect Referring Expression;Not Applicable;;;;;;;
+bNZs-hrr6XA;0;cat jumping over the bar;Trivial (Single Object Category);Not Applicable;;;;;;;
+bNZs-hrr6XA;1;a person in red shirt is sitting;Trivial (Single Object Category);Not Applicable;;;;;;;
+bigDZ_ySiE8;0;yellow ball bouncing up and down;Trivial (Single Object Category);Not Applicable;;;;;;;
+bigDZ_ySiE8;1;man throwing a yellow ball;Trivial (Single Object Category);Not Applicable;;;;;;;
+c_v0yvLyTP8;0;Dog is rolling on the floor;Trivial (Single Object Category);Not Applicable;;;;;;;
+c_v0yvLyTP8;1;Green ball is lying on the carpet;Trivial (Single Object Category);Not Applicable;;;;;;;
+cdjvk5bwFrQ;0;woman in pink jacket running with a dog;Non-trivial;Not Applicable;;;;;;;
+cdjvk5bwFrQ;1;dog walking with a woman;Trivial (Single Object Category);Not Applicable;;;;;;;
+cdjvk5bwFrQ;2;woman in black standing in the corner of the court;Non-trivial;Not Applicable;;;;;;;
+d4gG8KTSXP4;0;a small car in the back is parked;Trivial (Single Object Category);Not Applicable;;;;;;;
+d4gG8KTSXP4;1;a ball is flying on the air;Trivial (Single Object Category);Not Applicable;;;;;;;
+dFNNLU9ymBc;0;the front car is moving;Non-trivial;Not Applicable;;;;;;;
+dFNNLU9ymBc;1;racing car running second;Non-trivial;Not Applicable;;;;;;;
+dFNNLU9ymBc;2;the fourth car in the ranking is moving;Non-trivial;Not Applicable;;;;;;;
+dFNNLU9ymBc;3;blue racing car running;Not a Referring Expression;Not Applicable;;;;;;;
+dH6cw_y-Ltg;0;cat walking towards the man;Not a Referring Expression;Not Applicable;;;;;;;
+dH6cw_y-Ltg;1;yellow cat walking on the right;Non-trivial;Not Applicable;;;;;;;
+dQVfzLc1QQg;0;Large black pickup truck standing near the garage;Non-trivial;Not Applicable;;;;;;;
+dQVfzLc1QQg;1;a man is jumping into the car;Trivial (Single Object Category);Not Applicable;;;;;;;
+dQVfzLc1QQg;2;the gray car is parked;Non-trivial;Not Applicable;;;;;;;
+ehHKB0DAgsE;0;Cat eating food in the bowl on the ground;Trivial (Single Object Category);Not Applicable;;;;;;;
+ehHKB0DAgsE;1;Small fluffy puppy biting the cat;Trivial (Single Object Category);Not Applicable;;;;;;;
+f7QQKXPxjp0;0;Guy in the red shirt crawling under the steel wire;Non-trivial;Not Applicable;;;;;;;
+f7QQKXPxjp0;1;man in white crawling in the mud;Non-trivial;Not Applicable;;;;;;;
+f7QQKXPxjp0;2;a white man is crawling in the mud;Not a Referring Expression;Not Applicable;;;;;;;
+f7QQKXPxjp0;3;Person standing on the grass;Non-trivial;Not Applicable;;;;;;;
+fSwW7YRwvRk;0;man in blue suit rolling on the gound;Non-trivial;Not Applicable;;;;;;;
+fSwW7YRwvRk;1;Man in white suit wrestling with another man;Non-trivial;Not Applicable;;;;;;;
+gnZssGiQC7A;0;man in white shirt running towards the sand pit;Non-trivial;Not Applicable;;;;;;;
+gnZssGiQC7A;1;a man in red is walking on the bottom;Non-trivial;Not Applicable;;;;;;;
+guKjTvKZPrU;0;a green car is parked between a black and yellow car outside;Non-trivial;Not Applicable;;;;;;;
+guKjTvKZPrU;1;Black car is standing near yellow and gray cars;Non-trivial;Not Applicable;;;;;;;
+guKjTvKZPrU;2;Blue car is running through the street;Non-trivial;Not Applicable;;;;;;;
+guKjTvKZPrU;3;man with a black shoulder bag walking across the street;Non-trivial;Not Applicable;;;;;;;
+guKjTvKZPrU;4;woman walking to the left;Non-trivial;Not Applicable;;;;;;;
+guKjTvKZPrU;5;a yellow cab is going on the street of an asian country;Not a Referring Expression;Not Applicable;;;;;;;
+h-6X6gTYiUU;0;a soldier is crawling;Non-trivial;Minimum Information;0;0;1;0;1;0;0
+h-6X6gTYiUU;1;soldier is standing on the ground;Non-trivial;Redundant Information;0;0;1;1;0;0;1
+h1qFLT11s5c;0;man standing on the right;Non-trivial;Redundant Information;0;0;1;1;0;0;1
+h1qFLT11s5c;1;a blue bowling ball is moving;Non-trivial;Redundant Information;1;0;1;0;1;0;0
+h1qFLT11s5c;2;Guy is slipping on the bowling track;Non-trivial;Redundant Information;0;0;1;1;1;0;0
+haLv82NNfbY;0;a man in blue jersey is playing with a ball;Trivial (Single Object Category);Not Applicable;;;;;;;
+haLv82NNfbY;1;football rolling on the ground;Trivial (Single Object Category);Not Applicable;;;;;;;
+ih4LJ3e4Y2g;0;Man in the white kimono is fighting on the tatami;Non-trivial;Redundant Information;1;0;1;1;1;0;0
+ih4LJ3e4Y2g;1;a man in blue is rotating on the air;Non-trivial;Redundant Information;1;0;1;1;1;0;0
+ih4LJ3e4Y2g;2;man in black suit standing on the right;Non-trivial;Redundant Information;1;0;1;1;0;0;1
+j3_XpeMbjDc;0;a silver car is parked on the left;Not a Referring Expression;Not Applicable;;;;;;;
+j3_XpeMbjDc;1;man in green top throwing a basketball;Non-trivial;Redundant Information;1;0;1;0;1;1;0
+j3_XpeMbjDc;2;a ball is flying on the air;Trivial (Single Object Category);Not Applicable;;;;;;;
+jvRnA8WoXAk;0;man crawling;Not a Referring Expression;Not Applicable;;;;;;;
+jvRnA8WoXAk;1;a soldier is crawling and then running;Non-trivial;Redundant Information;0;0;1;0;1;0;0
+k1ZSsLL-HZo;0;Dotted dog running;Trivial (Single Object Category);Not Applicable;;;;;;;
+k1ZSsLL-HZo;1;Dalmatian dog running in the dog show;Trivial (Single Object Category);Not Applicable;;;;;;;
+kgNU2YTPs6Q;0;white dog jumping;Non-trivial;Redundant Information;1;0;1;0;1;0;0
+kgNU2YTPs6Q;1;a person in green shirt is standing;Non-trivial;Redundant Information;1;0;1;0;0;0;1
+kgNU2YTPs6Q;2;man in yellow shirt standing;Non-trivial;Redundant Information;1;0;1;0;0;0;1
+kgNU2YTPs6Q;3;woman in orange shirt running with a dog;Non-trivial;Redundant Information;1;0;1;1;1;0;0
+ko7QYFoWAvU;0;a man in blue shirt is crawling;Trivial (Single Object Category);Not Applicable;;;;;;;
+ko7QYFoWAvU;1;man is crawling in front of the mirror;Trivial (Single Object Category);Not Applicable;;;;;;;
+krX_tud9inY;0;woman running with a dog;Trivial (Single Object Category);Not Applicable;;;;;;;
+krX_tud9inY;1;black dog jumping on the grass;Trivial (Single Object Category);Not Applicable;;;;;;;
+lGIbG1mUTxs;0;woman in brown clothes running in the middle;Non-trivial;Redundant Information;1;0;1;1;1;0;0
+lGIbG1mUTxs;1;the number 245 man in blue jersey is running;Non-trivial;Redundant Information;1;0;1;0;1;0;0
+lGIbG1mUTxs;2;man in yellow shirt and blue shorts running on the right;Non-trivial;Redundant Information;1;0;1;1;1;0;0
+lGIbG1mUTxs;3;the yellow second person from the left is running;Incorrect Referring Expression;Not Applicable;;;;;;;
+lJzD2oNPVpQ;0;the green car is moving up and down;Trivial (Single Object Category);Not Applicable;;;;;;;
+lJzD2oNPVpQ;1;man with silver hair standing in the middle;Non-trivial;Redundant Information;1;0;1;1;0;0;1
+-EKuFGo77JM;0;a baby is rolling on the floor;Trivial;Not Applicable;;;;;;;
+-EKuFGo77JM;1; green ball is on the floor;Trivial;Not Applicable;;;;;;;
+-MTB_0zfFXc;0;a woman is playing with her cat outside;Trivial;Not Applicable;;;;;;;
+-MTB_0zfFXc;1;Tiger cat is jumping in the corridor;Trivial;Not Applicable;;;;;;;
+-xXJZjaJZ_Y;0;a green bird is rolling ;Trivial;Not Applicable;;;;;;;
+-xXJZjaJZ_Y;1;hand is showing a parrot to roll;Trivial;Not Applicable;;;;;;;
+01wmkiDXDD8;0;an orange ball is jumping up and down;Trivial;Not Applicable;;;;;;;
+0uv_N0EhfmQ;0;a man in suit is running ;Trivial;Not Applicable;;;;;;;
+0uv_N0EhfmQ;1;brown dog walking with a man;Trivial;Not Applicable;;;;;;;
+2yu9Qkdo4HY;0;baby is crawling the stairs;Trivial;Not Applicable;;;;;;;
+2yu9Qkdo4HY;1;man behind on the stairs;Trivial;Not Applicable;;;;;;;
+4oYv3cxuwwc;0;baby in white walking next to a woman;Trivial;Not Applicable;;;;;;;
+4oYv3cxuwwc;1;Woman sitting on the floor;Trivial;Not Applicable;;;;;;;
+4oYv3cxuwwc;2;a green ball is in hands of a woman;Trivial;Not Applicable;;;;;;;
+57AYg0BbqjY;0;person lying on the floor ;Trivial;Not Applicable;;;;;;;
+57AYg0BbqjY;1;black dog crawling on the carpet;Trivial;Not Applicable;;;;;;;
+5BTwZJWHqmk;0;black dog jumping over the obstacles;Trivial;Not Applicable;;;;;;;
+5BTwZJWHqmk;1;a green woman is running;Trivial;Not Applicable;;;;;;;
+7kV4-ziw4pU;1;a ball is flying on the air;Trivial;Not Applicable;;;;;;;
+8m0iPQS7Cpg;1;brown dog walking with a man;Trivial;Not Applicable;;;;;;;
+9cqF0hjnIbs;0;black dog walking on the grass;Trivial;Not Applicable;;;;;;;
+9cqF0hjnIbs;2;man is walking his dog on the grass;Trivial;Not Applicable;;;;;;;
+9dVSl1NktrE;0;the car is flying through the air;Trivial;Not Applicable;;;;;;;
+BO-qWTA5PMs;0;baby girl is walking on the wooden parquet;Trivial;Not Applicable;;;;;;;
+BO-qWTA5PMs;1;Woman standing on the wooden parquet;Trivial;Not Applicable;;;;;;;
+Bz0MkzMoG2o;0;a man in green shirt is shooting a ball;Trivial;Not Applicable;;;;;;;
+Bz0MkzMoG2o;1;ball is flying to the net;Trivial;Not Applicable;;;;;;;
+CcgopP4bOfE;0;baby walking in the room;Trivial;Not Applicable;;;;;;;
+CyQpFOr4SYM;0;a brown car is jumping up and down in the street;Trivial;Not Applicable;;;;;;;
+E7x3-DlU0v8;0;black dog rolling ;Trivial;Not Applicable;;;;;;;
+E7x3-DlU0v8;1;the person is telling the dog to roll over;Trivial;Not Applicable;;;;;;;
+F1v5SYPpQso;0;a cat is jumping;Trivial;Not Applicable;;;;;;;
+F1v5SYPpQso;1;man in pink shirt sitting on the left;Trivial;Not Applicable;;;;;;;
+F64KSGjjKww;0;the cat is chasing a ball;Trivial;Not Applicable;;;;;;;
+F64KSGjjKww;1;a girl sitting in a bed and throwing a ball;Trivial;Not Applicable;;;;;;;
+GYdxk_Ob3y8;0;Small boy trying to walk with the help of his mother;Trivial;Not Applicable;;;;;;;
+GYdxk_Ob3y8;1;Woman is supporting a baby;Trivial;Not Applicable;;;;;;;
+GZPlz56w55k;0;baby walking to the toy ball;Trivial;Not Applicable;;;;;;;
+GZPlz56w55k;1;green ball rolling in the hand of the woman;Trivial;Not Applicable;;;;;;;
+IBU4_a7CKKs;0;man is playing bowling;Trivial;Not Applicable;;;;;;;
+IBU4_a7CKKs;1;the bowling ball is being propelled down the lane toward the pins;Trivial;Not Applicable;;;;;;;
+IFLbZ0eJLgI;0;large car is jumping on the sand;Trivial;Not Applicable;;;;;;;
+JvlIOOVo050;1;a white car is jumping up and down;Trivial;Not Applicable;;;;;;;
+KkwrJzxAQOk;0;Guy is dribbling a ball around orange cones;Trivial;Not Applicable;;;;;;;
+KkwrJzxAQOk;1;the basketball is being dribbled;Trivial;Not Applicable;;;;;;;
+MCq7873UJbQ;0;Man is dribbling a ball on the basketball court;Trivial;Not Applicable;;;;;;;
+MCq7873UJbQ;1;the basketball is being dribbled by the bald man;Trivial;Not Applicable;;;;;;;
+O8alIA6GPYA;0;Baby crawling in the corridor;Trivial;Not Applicable;;;;;;;
+O95ZD9IkIR8;0;Toy dog is lying on the floor;Trivial;Not Applicable;;;;;;;
+O95ZD9IkIR8;1;a cat is running and jumping;Trivial;Not Applicable;;;;;;;
+OmIsXwLwCMs;0; green car is jumping up and down;Trivial;Not Applicable;;;;;;;
+OmIsXwLwCMs;1;man standing next to a green car;Trivial;Not Applicable;;;;;;;
+P_759yyIcyI;0;an orange ball is flying on the air;Trivial;Not Applicable;;;;;;;
+P_759yyIcyI;1;man in gray shirt and black short pants shooting a basketball;Trivial;Not Applicable;;;;;;;
+Pcuz2EC43Nc;0;Boy is throwing a ball to the basket;Trivial;Not Applicable;;;;;;;
+Pcuz2EC43Nc;1;basketball flying into the basket;Trivial;Not Applicable;;;;;;;
+QhS5D-yFjLM;0;the person is telling the dog to roll over;Trivial;Not Applicable;;;;;;;
+QhS5D-yFjLM;1;dog rolling on the ground;Trivial;Not Applicable;;;;;;;
+THFeH8g_Hs0;0;cat is chasing a stick;Trivial;Not Applicable;;;;;;;
+THFeH8g_Hs0;1;lady in black suit training a cat;Trivial;Not Applicable;;;;;;;
+UVXTR0g4aDE;0;the dog is standing behind a cat;Trivial;Not Applicable;;;;;;;
+UVXTR0g4aDE;1;Cat rolling on the asphalt near the dog;Trivial;Not Applicable;;;;;;;
+V-OTxbPAyyE;0;the baby is taking steps;Trivial;Not Applicable;;;;;;;
+V-OTxbPAyyE;1;Woman in black top is sitting on the floor;Trivial;Not Applicable;;;;;;;
+V-OTxbPAyyE;2;a green ball is sitting on the front;Trivial;Not Applicable;;;;;;;
+Wcw5TfT-VzY;0;man walking with a dog;Trivial;Not Applicable;;;;;;;
+Wcw5TfT-VzY;1;a brown dog is walking;Trivial;Not Applicable;;;;;;;
+XQ2WJo8sLEw;0;White blue ball is laying on the left;Trivial;Not Applicable;;;;;;;
+XQ2WJo8sLEw;1;White dog is jumping through pink flower circles;Trivial;Not Applicable;;;;;;;
+Yv3KBpEw11w;0;Girl is sitting on the floor;Trivial;Not Applicable;;;;;;;
+Yv3KBpEw11w;1;blue bird climbing  ;Trivial;Not Applicable;;;;;;;
+ZQ1iBiYjsU8;0;baby is climbing the stairs;Trivial;Not Applicable;;;;;;;
+ZQ1iBiYjsU8;1;a man sitting on the stairs and taking care of the baby;Trivial;Not Applicable;;;;;;;
+_QM5l330QDw;0;white cat jumping above the window;Trivial;Not Applicable;;;;;;;
+_QM5l330QDw;1;Girl in pink jacket standing near the wardrobe;Trivial;Not Applicable;;;;;;;
+_xO1YgfhZBo;0;man throwing a ball;Trivial;Not Applicable;;;;;;;
+_xO1YgfhZBo;1;a dark ball is flying on the air;Trivial;Not Applicable;;;;;;;
+aocdTVLO7aM;0;a white bowling ball is moving;Trivial;Not Applicable;;;;;;;
+aocdTVLO7aM;1;man throwing a bowling ball;Trivial;Not Applicable;;;;;;;
+aon3IF_qxno;0;a baby in white shirt start walking;Trivial;Not Applicable;;;;;;;
+bjITPWl_PE8;5;a yellow ball is jumping top and down;Trivial;Not Applicable;;;;;;;
+glk2zL5hvNY;2;football running on the green field;Trivial;Not Applicable;;;;;;;
+hBO77JSOR04;0;dog crawling on the floor;Trivial;Not Applicable;;;;;;;
+hBO77JSOR04;1;the legs of a person are shown;Trivial;Not Applicable;;;;;;;
+ko4Xt6JRJPs;0;parrot climbing the cage;Trivial;Not Applicable;;;;;;;
+ko4Xt6JRJPs;1;Small dog is lying inside the cage;Trivial;Not Applicable;;;;;;;
+laAlYz7-TvI;0;white parrot rolling on the floor;Trivial;Not Applicable;;;;;;;
+laAlYz7-TvI;1;man with hat playing with parrot;Trivial;Not Applicable;;;;;;;
+nkfU4tdlRJc;0;White brown is eating  the corn;Trivial;Not Applicable;;;;;;;
+nkfU4tdlRJc;1;man feeding a dog;Trivial;Not Applicable;;;;;;;
+p3qclGadWWI;0;cat climbing onto the chair;Trivial;Not Applicable;;;;;;;
+p3qclGadWWI;1;man playing with a cat;Trivial;Not Applicable;;;;;;;
+p8nf_Bm9N54;2;baby throwing a red ball;Trivial;Not Applicable;;;;;;;
+p8nf_Bm9N54;3;a woman in green tshirt is sitting on the right;Trivial;Not Applicable;;;;;;;
+qCit6e2MZHg;0;the green bird is standing in the grass;Trivial;Not Applicable;;;;;;;
+qCit6e2MZHg;1;cat jumping to the bird;Trivial;Not Applicable;;;;;;;
+qrS9sPHFcOc;0;Small baby walking in the kitchen;Trivial;Not Applicable;;;;;;;
+qrS9sPHFcOc;1;lady in black clothes and yellow short pants walking with a baby;Trivial;Not Applicable;;;;;;;
+sQcWy_qX8kQ;0;white dog laying down on the left;Trivial;Not Applicable;;;;;;;
+sQcWy_qX8kQ;1;the black cat on the right is rolling on the floor;Trivial;Not Applicable;;;;;;;
+sumn6flhNtg;0;white bird walking next to a cat;Trivial;Not Applicable;;;;;;;
+sumn6flhNtg;1;a cat is stretching near a bird;Trivial;Not Applicable;;;;;;;
+tRrG7ab7JzI;0;man running with a cat on the lawn;Trivial;Not Applicable;;;;;;;
+tRrG7ab7JzI;1;cat running on the lawn;Trivial;Not Applicable;;;;;;;
+tVTi54D71Ls;0;a white ball is moving;Trivial;Not Applicable;;;;;;;
+tVTi54D71Ls;1;a boy in orange shirt is playing with a ball;Trivial;Not Applicable;;;;;;;
+tesuXmjcCZY;0;baby crawling through the green tube;Trivial;Not Applicable;;;;;;;
+u1priZZzKjM;0;Guy in red shirt kicking the ball into the net;Trivial;Not Applicable;;;;;;;
+u2qCESWntsE;0;brown dog jumping around on the lawn;Trivial;Not Applicable;;;;;;;
+u2qCESWntsE;1;man playing with a dog on the grass;Trivial;Not Applicable;;;;;;;
+uZg2ebSQCto;2;White van is standing on the grass;Trivial;Not Applicable;;;;;;;
+wbXORPefRdw;0;a cute small girl is attempts to walk ;Trivial;Not Applicable;;;;;;;
+wbXORPefRdw;1;a woman in pink is sitting;Trivial;Not Applicable;;;;;;;
+wt_meIacj20;0;a black and white dog is jumping;Trivial;Not Applicable;;;;;;;
+wt_meIacj20;1;a person is sitting in the middle of a grass field;Trivial;Not Applicable;;;;;;;
+xfFojpDDQz4;0;White sport car turning a corner;Trivial;Not Applicable;;;;;;;
+zksj6YeZ-0I;0;the dog is catching an old soccer ball;Trivial;Not Applicable;;;;;;;
+zksj6YeZ-0I;1;ball flying into the sky;Trivial;Not Applicable;;;;;;;
+zksj6YeZ-0I;2;man in pink top playing with a dog;Trivial;Not Applicable;;;;;;;
+-4KMQsUaSAQ;0;a man with red shirt is climbing up;Trivial;Not Applicable;;;;;;;
+-FeMotilSE8;0;man rolling on the grass;Trivial;Not Applicable;;;;;;;
+-JaavP2RFzA;0;parrot is jumping on couch back;Trivial;Not Applicable;;;;;;;
+-d82zJg5qoY;0;the car is driving along a road;Trivial;Not Applicable;;;;;;;
+-esJrBWj2d8;0;Orange cat is eating from plastic pack;Trivial;Not Applicable;;;;;;;
+-ljbOmNX7x0;0;a big white ball is rolling;Trivial;Not Applicable;;;;;;;
+-vW_-uMY4N0;0;the bird is hopping around;Trivial;Not Applicable;;;;;;;
+-vkNA2MhpcU;0;Woman is climbing a vertical rock;Trivial;Not Applicable;;;;;;;
+0319d9UyJkk;0;man in black shirt and blue short pants climbing;Trivial;Not Applicable;;;;;;;
+0KHqCpC2ODA;0;metal ball bouncing up and down;Trivial;Not Applicable;;;;;;;
+0RBrmdUTPkE;0;a bird is eating food;Trivial;Not Applicable;;;;;;;
+0Xm-9oTzWa0;0;yellow bird climbing;Trivial;Not Applicable;;;;;;;
+0XqFHeynFwM;0;black bird pecking the tree trunk;Trivial;Not Applicable;;;;;;;
+0Ygu7XdkggA;0;kid rolling over;Trivial;Not Applicable;;;;;;;
+14I_X1_M7B8;0;a baby is rolling;Trivial;Not Applicable;;;;;;;
+15ze_5lekm4;0;someone with red shirt is climbing in the mountain;Trivial;Not Applicable;;;;;;;
+1NMBNBJejFI;0;a cat is jumping from right to left;Trivial;Not Applicable;;;;;;;
+1NYANpd5Grs;0;black dog is eating a meat;Trivial;Not Applicable;;;;;;;
+1NrSGmxydbE;0;the baby is laying around;Trivial;Not Applicable;;;;;;;
+1_rWbFfaGNE;0;a baby is climbing up a baby seat;Trivial;Not Applicable;;;;;;;
+1gl7xr5rftc;0;a cat is walking;Trivial;Not Applicable;;;;;;;
+1wUH6OAaLCA;0;Bird eating rice near the window;Trivial;Not Applicable;;;;;;;
+1yk4gDSh_Fc;0;girl eating;Trivial;Not Applicable;;;;;;;
+1zbiSzq-xPM;0;dog running on the road;Trivial;Not Applicable;;;;;;;
+22WMIu4Zd0w;0;a cat is climbing from a window;Trivial;Not Applicable;;;;;;;
+29WfZ0cCyXg;0;a man in rolling;Trivial;Not Applicable;;;;;;;
+2KlA77j6xAc;0;woman climbing rocks;Trivial;Not Applicable;;;;;;;
+2_W6uhRvTBI;0;Parrot is jumping from the table;Trivial;Not Applicable;;;;;;;
+2hGmD3U7F7I;0;car flipping over the ground;Trivial;Not Applicable;;;;;;;
+2mbKtAnU2c4;0;a cat is walking;Trivial;Not Applicable;;;;;;;
+2xSLG0gm_og;0;parrot climbing a cage;Trivial;Not Applicable;;;;;;;
+308iFEokW3k;0;cat is running in the spinning wheel;Trivial;Not Applicable;;;;;;;
+3KZt_zA7Z80;0;baby in pink crawling on the floor;Trivial;Not Applicable;;;;;;;
+3OOe0PEsosM;0;a cat is eating food;Trivial;Not Applicable;;;;;;;
+3TVtsHzjk0g;0;a black and white cat is jumping and playing;Trivial;Not Applicable;;;;;;;
+3W48_zP80Jc;0;the green and yellow bird is playing with a toy;Trivial;Not Applicable;;;;;;;
+3grcsJN2C4U;0;a brownish cat is walking on a shelf;Trivial;Not Applicable;;;;;;;
+3hge80zUXb8;0;parrot is lying in the cage;Trivial;Not Applicable;;;;;;;
+43cCJXD45xw;0;a dog is jumping up and down;Trivial;Not Applicable;;;;;;;
+4THg1hTk7JE;0;white dog eating;Trivial;Not Applicable;;;;;;;
+4ZKO9NeBhHg;0;big black car is falling down the hill;Trivial;Not Applicable;;;;;;;
+4_ITertK6K0;0;the person is climbing;Trivial;Not Applicable;;;;;;;
+4cwJEqSzXbg;0;white car rolling our of the road;Trivial;Not Applicable;;;;;;;
+54aJXmDnyXQ;0;a small car walking;Trivial;Not Applicable;;;;;;;
+58ehMXOun1I;0;a cat is jumping and playing with a toy;Trivial;Not Applicable;;;;;;;
+5C8dVmyrUrk;0;baby walking in the room;Trivial;Not Applicable;;;;;;;
+5EQO8sB7qEk;0;Woman is crawling on the grass like spiderman;Trivial;Not Applicable;;;;;;;
+5HWNziFGRMQ;0;ball rolling;Trivial;Not Applicable;;;;;;;
+5ms_cdQzkwE;0;a yellow bird is rolling on a couch;Trivial;Not Applicable;;;;;;;
+68nDn05iAgw;0;dog running;Trivial;Not Applicable;;;;;;;
+6SDxOy-F3gs;0;bird flying over the water;Trivial;Not Applicable;;;;;;;
+6Z2cBdleo2U;0;dog jumping into the water;Trivial;Not Applicable;;;;;;;
+6fAkO0STivA;0;baby crawling on the bed;Trivial;Not Applicable;;;;;;;
+6hZDq3zpGR4;0;bird rolling ;Trivial;Not Applicable;;;;;;;
+7-1vLsnfU8o;0;a cat is rolling on the ground;Trivial;Not Applicable;;;;;;;
+7AikGrh0SHA;0;man rolling on the ground;Trivial;Not Applicable;;;;;;;
+7Rbqy5dPeqM;0;dog eating watermelon;Trivial;Not Applicable;;;;;;;
+7RvE4D1lwjE;0;a bird is flying;Trivial;Not Applicable;;;;;;;
+7TozDC-bEzs;0;Orange cat is walking on the parquet;Trivial;Not Applicable;;;;;;;
+7kHABp2pcV0;0;Red white sport car running around the corner;Trivial;Not Applicable;;;;;;;
+7qK3yUlcY14;0;a black dog is running in the water;Trivial;Not Applicable;;;;;;;
+7zZLOjwPzfg;0;White dog crawling on the gray cover;Trivial;Not Applicable;;;;;;;
+87_JJGPbB5Y;0;a bird is flying;Trivial;Not Applicable;;;;;;;
+8LHPWUQBm6U;0;a bird is eating food and walking;Trivial;Not Applicable;;;;;;;
+8mJNxMYd7nY;0;green parrot climbing the rope;Trivial;Not Applicable;;;;;;;
+8nA6-tAhr-E;0;Big bird eating snake;Trivial;Not Applicable;;;;;;;
+8utZ6zCVu9U;0;red car rolling over the road;Trivial;Not Applicable;;;;;;;
+99YlS3boBmg;0;a bird is jumping;Trivial;Not Applicable;;;;;;;
+9juPZreZxNA;0;a car is running and jumping on the wall;Trivial;Not Applicable;;;;;;;
+AEdhfVThDPE;0;a dark cat is running in the snow;Trivial;Not Applicable;;;;;;;
+AJCfBDs61qw;0;a dog is jumping up and down;Trivial;Not Applicable;;;;;;;
+ARSss_Z21uM;0;the cat is eating;Trivial;Not Applicable;;;;;;;
+AxhzYIeCXl4;0;a dog is walking;Trivial;Not Applicable;;;;;;;
+B4EWcjGNslU;0;a white and black dog is walking;Trivial;Not Applicable;;;;;;;
+BA5w-dOnUq8;0;bird jumping on the tree;Trivial;Not Applicable;;;;;;;
+BgTfxW1YPrI;0;Pink bowling ball rolling in the right channel;Trivial;Not Applicable;;;;;;;
+Bgv6fhGJacQ;0;cat running in the wheel;Trivial;Not Applicable;;;;;;;
+CQDlHW3ghn4;0;kid crouching on the floor;Trivial;Not Applicable;;;;;;;
+CRQGB82HNpU;0;bird climbing;Trivial;Not Applicable;;;;;;;
+CqA1uFwI6gU;0;baby in yellow climbing black stairs;Trivial;Not Applicable;;;;;;;
+DIv-s5hGw_s;0;person in orange climbing rock;Trivial;Not Applicable;;;;;;;
+DOQBeXkdfcw;0;Woman is staple running on the athletic track;Trivial;Not Applicable;;;;;;;
+DUn4b2VhFJI;0;the cat is climbing up;Trivial;Not Applicable;;;;;;;
+Dcq1t71dhCI;0;bird eating something;Trivial;Not Applicable;;;;;;;
+E1NY2OH2UhE;0;man rolling over the mat;Trivial;Not Applicable;;;;;;;
+EFMGJ5LfCZU;0;dog crouching on the sand;Trivial;Not Applicable;;;;;;;
+EIPtOk_ed8w;0;a brown and black dog is crawling on the grass;Trivial;Not Applicable;;;;;;;
+EPsBI4R2wwI;0;a baby is walking;Trivial;Not Applicable;;;;;;;
+EUEZkwJulBY;0;parrot standing on the hand;Trivial;Not Applicable;;;;;;;
+ElzfFwC7aK4;0;Dog running on the grass;Trivial;Not Applicable;;;;;;;
+ErKsKivJ8Ww;0;guy climbing on the blue wall;Trivial;Not Applicable;;;;;;;
+F2SxH5sxVgY;0;cat rolling;Trivial;Not Applicable;;;;;;;
+F8uzgc6HpXw;0;Guy in blue shirt climbing the rock ;Trivial;Not Applicable;;;;;;;
+FKMbe-lj5W4;0;naked baby crawling on the bed;Trivial;Not Applicable;;;;;;;
+FPCGZIGAXzE;0;a cat is eating food;Trivial;Not Applicable;;;;;;;
+FY0CEt_2V5A;0;the baby is laying on a blanket;Trivial;Not Applicable;;;;;;;
+FZk40J_drws;0;man running on the sidewalk;Trivial;Not Applicable;;;;;;;
+F_RRhVJG6vQ;0;the dog is running;Trivial;Not Applicable;;;;;;;
+FcBu6kj1htU;0;Car jumping;Trivial;Not Applicable;;;;;;;
+FhK1PJ3OiUg;0;White van is running ahead of the road;Trivial;Not Applicable;;;;;;;
+FwuSrhzCuNM;0;cat is climbing the ladder;Trivial;Not Applicable;;;;;;;
+Fy6nsFBkOf0;0;baby crawling on the floor;Trivial;Not Applicable;;;;;;;
+GBqoZYfz4os;0;Cat licking pancakes;Trivial;Not Applicable;;;;;;;
+GNlQiBz3fgs;0;man in gray shirt eating;Trivial;Not Applicable;;;;;;;
+GRmtHzIiU6g;0;red parrot rolling;Trivial;Not Applicable;;;;;;;
+GY3K853ygdA;0;White dog is running towards the camera;Trivial;Not Applicable;;;;;;;
+G_CZQVK3Pwk;0;cat rolling on the floor;Trivial;Not Applicable;;;;;;;
+HBRi1Jw2yOU;0;the car is falling over;Trivial;Not Applicable;;;;;;;
+Hi0mHrqQXpA;0;black dog crawling on the floor;Trivial;Not Applicable;;;;;;;
+IV2ZHk9Rawk;0;cat jumping up and down;Trivial;Not Applicable;;;;;;;
+IhevPR2IhG0;0;a cat is climbing up a ladder;Trivial;Not Applicable;;;;;;;
+IjhZygCvgBY;0;tiger cat is eating watermelon;Trivial;Not Applicable;;;;;;;
+IpMN_NgXENw;0;dog rolling;Trivial;Not Applicable;;;;;;;
+JBxNQIVY54Y;0;man in black hat eating;Trivial;Not Applicable;;;;;;;
+JDWfLbHVVQQ;0;Sparrow is eating a worm from the ground;Trivial;Not Applicable;;;;;;;
+JFo3sOxvP9U;0;a brown car is jumping up and down;Trivial;Not Applicable;;;;;;;
+JPppv-rMDkU;0;a cat is rolling on the ground;Trivial;Not Applicable;;;;;;;
+JQJ4KwmORSQ;0;racing car running on the road;Trivial;Not Applicable;;;;;;;
+JRTTH5HW6GQ;0;the car is pulling out into a very wide street that has been shut down for some sort of parade;Trivial;Not Applicable;;;;;;;
+JXCqbnJ9jJU;0;man rolling on the grass;Trivial;Not Applicable;;;;;;;
+JdPmexUhjWk;0;a man in blue shirt is running;Trivial;Not Applicable;;;;;;;
+JsqyGvEt0_w;0;man in white top crawling on the grass;Trivial;Not Applicable;;;;;;;
+JxlPq-Dlf6M;0;baby rolling on the floor;Trivial;Not Applicable;;;;;;;
+K-0ir5GbWKA;0;a green bird is climbing the cage;Trivial;Not Applicable;;;;;;;
+K6h7wqLqJ0U;0;blue car is rolling on the road;Trivial;Not Applicable;;;;;;;
+KArujRUTyDM;0;Brownish dog eating something red from the common dish;Trivial;Not Applicable;;;;;;;
+KJmjh-7sME4;0;Black cat rolling near the grass;Trivial;Not Applicable;;;;;;;
+KNcTwYvUfb4;0;man jumping far;Trivial;Not Applicable;;;;;;;
+KP7JR813oMM;0;a green bird is eating;Trivial;Not Applicable;;;;;;;
+KiDQc16aUxU;0;Man climbing under a net;Trivial;Not Applicable;;;;;;;
+KinSGFInF90;0;the baby in a onesie is flipping onto its belly;Trivial;Not Applicable;;;;;;;
+KmiAqg-5mL8;0;a cat is running;Trivial;Not Applicable;;;;;;;
+KoE5HiQi-Js;0;a top naked man is jumping;Trivial;Not Applicable;;;;;;;
+Ks0GxvMvoQg;0;the rock climber is climbing up a crimpy rockface;Trivial;Not Applicable;;;;;;;
+LKBCmgud4SI;0;cat walking in the snow;Trivial;Not Applicable;;;;;;;
+LQ7p6avK3K8;0;the white car is speeding up after a corner;Trivial;Not Applicable;;;;;;;
+LSEcI9y326Q;0;a car is moving;Trivial;Not Applicable;;;;;;;
+LuDN2bCIyus;0;a car is flying on the air;Trivial;Not Applicable;;;;;;;
+MGmIpIO_v8U;0;a white dog is crawling;Trivial;Not Applicable;;;;;;;
+MWgmNBbcUUU;0;parrot walking on the floor;Trivial;Not Applicable;;;;;;;
+MXMtkss7hZ4;0;a black dog is jumping;Trivial;Not Applicable;;;;;;;
+Mo6CfT0evak;0;Pigeon is eating grains;Trivial;Not Applicable;;;;;;;
+MpOeu65IDyk;0;dog crawling on the floor;Trivial;Not Applicable;;;;;;;
+Myw8WR0zTqg;0;parrot rolling;Trivial;Not Applicable;;;;;;;
+N0agTCAVoXs;0;beautiful yellow bird climbing iron support;Trivial;Not Applicable;;;;;;;
+N70DLM8Az_8;0;the person is climbing rocks;Trivial;Not Applicable;;;;;;;
+NMuZsTzcQDI;0;Dog is crawling on the floor;Trivial;Not Applicable;;;;;;;
+NPe9iEIkCs4;0;Gray fluffy cat is eating a pet food;Trivial;Not Applicable;;;;;;;
+NaZLXtNcAuQ;0;a parrot is rolling on the floor;Trivial;Not Applicable;;;;;;;
+O3GMmj03fc8;0;a baby is rolling in his bed;Trivial;Not Applicable;;;;;;;
+O4GYHRdEnMY;0;red car rolling on the ground;Trivial;Not Applicable;;;;;;;
+OEhihicN-yo;0;White fuzzy dog is eating pet food;Trivial;Not Applicable;;;;;;;
+O_j_nhVTWyM;0;a cat is climbing up the tree;Trivial;Not Applicable;;;;;;;
+OdqI88CCBUQ;0;a bird is rolling;Trivial;Not Applicable;;;;;;;
+Oi_lyvUib4A;0;man in yellow eating something;Trivial;Not Applicable;;;;;;;
+Oq_ZWYxgb9g;0;a baby is climbing up stairs;Trivial;Not Applicable;;;;;;;
+Ow_SCTO8VX0;0;cat is chasing a tape;Trivial;Not Applicable;;;;;;;
+P0N68OQDhNs;0;a man is jumping;Trivial;Not Applicable;;;;;;;
+P5r5UqCIBYs;0;a dog is eating food;Trivial;Not Applicable;;;;;;;
+PAw51-wiHNc;0;Bird is eating some seeds;Trivial;Not Applicable;;;;;;;
+PB8VbMvF4N4;0;green bird jumping on the table;Trivial;Not Applicable;;;;;;;
+PE4BEoCf4q8;0;the child is crawling through a green tube;Trivial;Not Applicable;;;;;;;
+PGVdUpB5UdI;0;a bird is eating something;Trivial;Not Applicable;;;;;;;
+PLRjCZSB0hg;0;Cat is jumping from one door to another;Trivial;Not Applicable;;;;;;;
+PMeqLIPRzpI;0;Black car jumping from springboard;Trivial;Not Applicable;;;;;;;
+PN_Puv_iF_k;0;a white cat is walking;Trivial;Not Applicable;;;;;;;
+Q-E9rcqjPhY;0;Little kitten is rolling on the floor;Trivial;Not Applicable;;;;;;;
+Q1gk0Q06JdA;0;the cat is trying to catch the dot of a laser pointer;Trivial;Not Applicable;;;;;;;
+QLhI33K62HQ;0;bird climbing the cage;Trivial;Not Applicable;;;;;;;
+QQh56geU0X8;0;red car flipping over ;Trivial;Not Applicable;;;;;;;
+QRS_uxOJZzw;0;baby crawling on green floor;Trivial;Not Applicable;;;;;;;
+RBTbBS0tJs4;0;car bouncing up and down;Trivial;Not Applicable;;;;;;;
+RBtGv1NiZm0;0;a man is eating a sandwich;Trivial;Not Applicable;;;;;;;
+RDIL1ABDS7s;0;a baby is crawling;Trivial;Not Applicable;;;;;;;
+Rmx9lCeI1ys;0;Person climbing on the rock;Trivial;Not Applicable;;;;;;;
+Rn6tYSluhX8;0;Black dog is eating from the bowl;Trivial;Not Applicable;;;;;;;
+Rq5L_Sude1Y;0;dog with brown hair eating;Trivial;Not Applicable;;;;;;;
+SVlEzhWoLZY;0;racing car running on the road;Trivial;Not Applicable;;;;;;;
+Si7qikuqnt8;0;bird flying above the water;Trivial;Not Applicable;;;;;;;
+SoIybKRykD8;0;a baby is rolling on the floor;Trivial;Not Applicable;;;;;;;
+T6feVLahMwo;0;man in blue rolling on the mat;Trivial;Not Applicable;;;;;;;
+TPURAeFgzzk;0;dog rolling on the grass;Trivial;Not Applicable;;;;;;;
+TVZOA-Z0f6s;0;the bird is holding on to a chair;Trivial;Not Applicable;;;;;;;
+Tk2v1UaTgmk;0;Orange ball is jumping on the floor;Trivial;Not Applicable;;;;;;;
+TkKn67D3x6o;0;green parrot jumping on the table;Trivial;Not Applicable;;;;;;;
+TnbNQK7ZXT8;0;a cat is climbing up a column;Trivial;Not Applicable;;;;;;;
+ToCucEYAhVk;0;a green car is jumping up and down;Trivial;Not Applicable;;;;;;;
+TwPU168Nv5U;0;owl is flying over the grass;Trivial;Not Applicable;;;;;;;
+U91ipwZQG8w;0;brown dog crawling on the ground;Trivial;Not Applicable;;;;;;;
+UHEywUyJMqM;0;a cat is rolling on the floor;Trivial;Not Applicable;;;;;;;
+UNEoXa_4aOs;0;brown and white dog eating;Trivial;Not Applicable;;;;;;;
+UVivPII_oMo;0;bird rolling on the sofa;Trivial;Not Applicable;;;;;;;
+Us5HVwMcn4k;0;a bird is going down the stairs;Trivial;Not Applicable;;;;;;;
+VE7_bzFRZPA;0;Naked baby walking towards the camera;Trivial;Not Applicable;;;;;;;
+VR5CbHf9tv0;0;a dog is eating;Trivial;Not Applicable;;;;;;;
+VRmhKnhaFUo;0;Ball with red topknot is jumping on the floor;Trivial;Not Applicable;;;;;;;
+VjwrqrG-ThI;0;pigeon walking;Trivial;Not Applicable;;;;;;;
+Vr7dr4ywsnk;0;Small cute kitten rolling on the wooden floor;Trivial;Not Applicable;;;;;;;
+Vz1NGFgmxag;0;kid climbing out of box;Trivial;Not Applicable;;;;;;;
+WDgo0br6IJU;0;parrot walking above the door;Trivial;Not Applicable;;;;;;;
+WQVmtYSaFPI;0;Car is rolling on the sand ground;Trivial;Not Applicable;;;;;;;
+WYnDJPd1Q3c;0;black bird running on the grass;Trivial;Not Applicable;;;;;;;
+Ws_U64OJKLc;0;white dog is running in front of the camera;Trivial;Not Applicable;;;;;;;
+X917JONMmwo;0;cat eating;Trivial;Not Applicable;;;;;;;
+XEckmEGPkB4;0;White dog is running on the field;Trivial;Not Applicable;;;;;;;
+XHAwU2yHmao;0;Parrot is rolling on the table;Trivial;Not Applicable;;;;;;;
+Xk9FT6ktnqE;0;a cat is rolling on the bed;Trivial;Not Applicable;;;;;;;
+XoAfXt-byRI;0;the car is trying to jump over other cars;Trivial;Not Applicable;;;;;;;
+XoHqT4rX5Fg;0;a white dog is eating food;Trivial;Not Applicable;;;;;;;
+Y0C_nqPdGEM;0;Blue police car rolling in the streets;Trivial;Not Applicable;;;;;;;
+Y8TyYoG8oB4;0;black dog crawling;Trivial;Not Applicable;;;;;;;
+Y93DbtNqc5Y;0;Guy is rolling down from grass hill;Trivial;Not Applicable;;;;;;;
+YTTZ3z86MtM;0;the beagle is rolling around in a patch of dirt;Trivial;Not Applicable;;;;;;;
+YWVZoexIAMA;0;the baby is pushing a toy;Trivial;Not Applicable;;;;;;;
+Ypk7UDL8aYc;0;a car is turning upside down on a dirt road;Trivial;Not Applicable;;;;;;;
+Z3VkU7jkmF8;0;baby rolling on the couch;Trivial;Not Applicable;;;;;;;
+ZMtPgxqrA3Q;0;kid in blue shorts climbing;Trivial;Not Applicable;;;;;;;
+ZRH29v3qP7U;0; blue ball is moving on a bowling floor;Trivial;Not Applicable;;;;;;;
+ZWgjKwgKDRg;0;man eating;Trivial;Not Applicable;;;;;;;
+Z_zaDOvAfUY;0;a gray car is jumping up and down;Trivial;Not Applicable;;;;;;;
+Zk0b_ABep0A;0;dog is jumping in to the water;Trivial;Not Applicable;;;;;;;
+ZvWYno1PwiI;0;a white cat is eating a corn;Trivial;Not Applicable;;;;;;;
+ZvgJ7mVxeg0;0;ball is bouncing in the room;Trivial;Not Applicable;;;;;;;
+_a2OKQV_jE8;0;Cat climbing the wall;Trivial;Not Applicable;;;;;;;
+_lRJuoI0r5o;0;a baby is rolling;Trivial;Not Applicable;;;;;;;
+_qS7PaxHBAk;0;bowling ball rolling on the track;Trivial;Not Applicable;;;;;;;
+a5l_BsMgTcU;0;Green parrot sitting on the arm of the sofa;Trivial;Not Applicable;;;;;;;
+aJ8_FDuKI5U;0;a cat is climbing up a man's leg;Trivial;Not Applicable;;;;;;;
+aKMEXYjIzMc;0;dog running on the road;Trivial;Not Applicable;;;;;;;
+aQa84Z-L2Qc;0;a dog is crawling;Trivial;Not Applicable;;;;;;;
+adGVV_EYiq4;0;girl eating noodles;Trivial;Not Applicable;;;;;;;
+adgdh4LAb4c;0;a metallic ball is moving in a maze;Trivial;Not Applicable;;;;;;;
+aeXzdiPANQA;0;a brown and white dog is eating a big bone;Trivial;Not Applicable;;;;;;;
+apScPGgLTms;0;bird eating in the middle;Trivial;Not Applicable;;;;;;;
+auUUYQQGcvw;0;baby crawling on the ;Trivial;Not Applicable;;;;;;;
+b0Z02_-YJjI;0;a cat is eating food;Trivial;Not Applicable;;;;;;;
+b3yVdxutCtw;0;white cat eating corn;Trivial;Not Applicable;;;;;;;
+bJzru8TM0kk;0;a man in dark is crawling;Trivial;Not Applicable;;;;;;;
+bKe5WQc_uSs;0;a black dog is running;Trivial;Not Applicable;;;;;;;
+bQJVlPPRUhg;0;spotted cat climbing the stairs;Trivial;Not Applicable;;;;;;;
+blVEC0ERdnE;0;a cat is eating food;Trivial;Not Applicable;;;;;;;
+btgzSl6uSro;0;black dog running on the lawn ;Trivial;Not Applicable;;;;;;;
+c2cB09ocb6U;0;a cat is jumping over a barrier;Trivial;Not Applicable;;;;;;;
+c2yuTg-G9HI;0;parrot climbing stairs;Trivial;Not Applicable;;;;;;;
+c3xY2kc3MJw;0;baby walking in the corridor;Trivial;Not Applicable;;;;;;;
+c7MIeYKwW2o;0;Man is rolling down from the grass hill;Trivial;Not Applicable;;;;;;;
+cA1kv2y0Nlw;0;black dog running in the grass;Trivial;Not Applicable;;;;;;;
+cFA4pgfEfPg;0;man in red vest eating;Trivial;Not Applicable;;;;;;;
+caTDocD4PXU;0;man climbing on the rocks;Trivial;Not Applicable;;;;;;;
+cbR6bEV-Ia0;0;bird is sitting on the left;Trivial;Not Applicable;;;;;;;
+cd9lf89Azls;0;purple car rolling over the lawn;Trivial;Not Applicable;;;;;;;
+cj7dYKPDhe0;0;dog rolling on the grass;Trivial;Not Applicable;;;;;;;
+ck0sVjWtVp0;0;a dog is jumping;Trivial;Not Applicable;;;;;;;
+cneFjpT18Kk;0;cat climbing wall;Trivial;Not Applicable;;;;;;;
+coXmTLn7C-g;0; dog is running;Trivial;Not Applicable;;;;;;;
+czQ443hsQxU;0;a bird is playing with a ladder;Trivial;Not Applicable;;;;;;;
+d-B9Bh2xSFE;0;a kid is climbing a carriage;Trivial;Not Applicable;;;;;;;
+d5RzMPrZvm8;0;car running on the road;Trivial;Not Applicable;;;;;;;
+dA90V8J6mOA;0;fat cat is rolling in the chair;Trivial;Not Applicable;;;;;;;
+dLzbz1sp5BQ;0;a white car is racing on a dirt road outside;Trivial;Not Applicable;;;;;;;
+dMDkW8Qpx5Q;0;black cat eating corn;Trivial;Not Applicable;;;;;;;
+dNejTRta6gE;0;White bird with long neck is standing in the water;Trivial;Not Applicable;;;;;;;
+d_FbM4s2aTw;0;Orange parrot is rolling on the floor;Trivial;Not Applicable;;;;;;;
+dsrt4IHRi2c;0;car flying in the air;Trivial;Not Applicable;;;;;;;
+dySCAkM-u6M;0;a white cat is eating food;Trivial;Not Applicable;;;;;;;
+eD1oLBITyeE;0;baby rolling on the towel;Trivial;Not Applicable;;;;;;;
+eS7N4TqWPjM;0;the car is moving up and down;Trivial;Not Applicable;;;;;;;
+elzBa6n44_w;0;Pigeon walking on the ground;Trivial;Not Applicable;;;;;;;
+et27qvgPjD8;0;baby crawling on the ground;Trivial;Not Applicable;;;;;;;
+f3xWaOkXCSQ;0;a baby is crawling;Trivial;Not Applicable;;;;;;;
+fPfq_CYDF-k;0;man jumping on the mat;Trivial;Not Applicable;;;;;;;
+fQZW30ijzhw;0;a baby is crawling;Trivial;Not Applicable;;;;;;;
+fVu9oT78dQQ;0;the baby is crawling out of her crib;Trivial;Not Applicable;;;;;;;
+fiESmVauiPI;0;black cat running out of the room;Trivial;Not Applicable;;;;;;;
+fnoLjuREvGU;0;dog is rolling in the dirt;Trivial;Not Applicable;;;;;;;
+frRsC1SWY1Q;0;car jumping over the road;Trivial;Not Applicable;;;;;;;
+fwO2MF6K3xI;0;man crawling on the grass;Trivial;Not Applicable;;;;;;;
+g960XKvn78g;0;parrot is lying on the table;Trivial;Not Applicable;;;;;;;
+gKDdLAR2wFE;0;the cat is walking past its litterbox;Trivial;Not Applicable;;;;;;;
+gWDL93c4tiM;0;Jeep is jumping from sand springboard;Trivial;Not Applicable;;;;;;;
+gihakvOfsF4;0;a baby with blue shirt is walking;Trivial;Not Applicable;;;;;;;
+gsOhmRHoQw8;0;baby crawling;Trivial;Not Applicable;;;;;;;
+guJZCrvLMqI;0;cat jumping up;Trivial;Not Applicable;;;;;;;
+h5afX9UjhUQ;0;Man crawling between orange cones;Trivial;Not Applicable;;;;;;;
+hBjmhBXoWyY;0;the white car is driving;Trivial;Not Applicable;;;;;;;
+hQmoofDv_m8;0;Guy is rolling down from grass hill;Trivial;Not Applicable;;;;;;;
+hecXupPpE9o;0;The eagle flying over the sea;Trivial;Not Applicable;;;;;;;
+hh1fLmltVno;0;car rolling over on the road;Trivial;Not Applicable;;;;;;;
+hoNerLMteNM;0;brown dog running on the grass;Trivial;Not Applicable;;;;;;;
+hqiuwEXvctY;0;kid climbing the chair;Trivial;Not Applicable;;;;;;;
+i3zE6wqtFkw;0;cat climbing on the window;Trivial;Not Applicable;;;;;;;
+iDoBWtgzCkM;0;car jumping from the ramp;Trivial;Not Applicable;;;;;;;
+iFTYM1Ez5ZM;0;Man in white tshirt and blue short pants running;Trivial;Not Applicable;;;;;;;
+iPVge_0zhYc;0;the baby is crawling;Trivial;Not Applicable;;;;;;;
+iqQPvSj5Ido;0;parrot is faking to be dead on the floor;Trivial;Not Applicable;;;;;;;
+ix68d3x1uRc;0;a dog is rolling in a grass field;Trivial;Not Applicable;;;;;;;
+j5UWfgpSy2o;0;a man is eating a sandwich;Trivial;Not Applicable;;;;;;;
+j5gCqyrf5fY;0;a dog is climbing up the stairs;Trivial;Not Applicable;;;;;;;
+jSmFqXcnkC8;0;baby is climbing a chair;Trivial;Not Applicable;;;;;;;
+jc9En9WUzI8;0;a bird is flying in the air;Trivial;Not Applicable;;;;;;;
+jcc5q_Wbre8;0;the dog is crawling;Trivial;Not Applicable;;;;;;;
+kPGJX9b0luk;0;a baby is climbing up a seat;Trivial;Not Applicable;;;;;;;
+kZjTyqVPYOg;0;the cat is eating;Trivial;Not Applicable;;;;;;;
+kev96hAYOrc;0;black bird flying low over the water;Trivial;Not Applicable;;;;;;;
+kexc3pPUVCU;0;blue car jumping up and down;Trivial;Not Applicable;;;;;;;
+kj9Sw7ICzkY;0;a dog is running;Trivial;Not Applicable;;;;;;;
+ko-Qoos1Eos;0;the man is doing a jumping exercise;Trivial;Not Applicable;;;;;;;
+kpbZTZvE3Ts;0;baby in red pants is climbing the stairs;Trivial;Not Applicable;;;;;;;
+kqfwnwqd7_M;0;cat rolling on the bed;Trivial;Not Applicable;;;;;;;
+l-q0vOFy99A;0;Man in funny costume is running on the road;Trivial;Not Applicable;;;;;;;
+lBcpZOh2_OA;0;the yellow car is flipping over onto its roof;Trivial;Not Applicable;;;;;;;
+lSQQCOZUe0g;0;white dog eating;Trivial;Not Applicable;;;;;;;
+lXfbkB_tbaA;0;a parrot is climbing up a ladder and then jump on top of a stick;Trivial;Not Applicable;;;;;;;
+lZDGZJH6Hnk;0;dog crawling on the lawn;Trivial;Not Applicable;;;;;;;
+lk8aQbifCtc;0;the baby is walking between the couch and the coffee table;Trivial;Not Applicable;;;;;;;
+lpGeu2WlKig;0;a colorful parrot is rolling;Trivial;Not Applicable;;;;;;;
+lrFZWQ_oOfs;0;cat climbing the window;Trivial;Not Applicable;;;;;;;
+ltUNBEtudyg;0;man in orange shirt climbing rocks;Trivial;Not Applicable;;;;;;;
+lv2xBL6z5OQ;0;woman in black hat eating noodles;Trivial;Not Applicable;;;;;;;
+mDQc4MKAVlc;0;a white dog is walking away from camera;Trivial;Not Applicable;;;;;;;
+mKWWw6CnzUQ;0;a white dog is crawling;Trivial;Not Applicable;;;;;;;
+mQivrBJvtlM;0;a girl is rolling on the ground;Trivial;Not Applicable;;;;;;;
+mTVDEeLvpGU;0;Bird with long neck walking in the water;Trivial;Not Applicable;;;;;;;
+mbVqiH3GR7I;0;a black bird is flying in the air;Trivial;Not Applicable;;;;;;;
+mdVj2eFAtMg;0;black dog rolling;Trivial;Not Applicable;;;;;;;
+mgoqXPb8SME;0;Guy crawling on the green grass;Trivial;Not Applicable;;;;;;;
+n4XdE3PjBy0;0;a cat is going down from a curtain;Trivial;Not Applicable;;;;;;;
+nGyfaJV3pyU;0;Cat walking on the treadmill;Trivial;Not Applicable;;;;;;;
+nJThlKXDhXo;0;a man in white cloth is walking;Trivial;Not Applicable;;;;;;;
+naElLC53tVs;0;Stork is eating a mouse;Trivial;Not Applicable;;;;;;;
+najeSeYLcSs;0;man in black jersey is jumping;Trivial;Not Applicable;;;;;;;
+ntivCnL7t4A;0;a man is jumping and climbing a wall;Trivial;Not Applicable;;;;;;;
+o4ePazF3rZw;0;Guy is bouldering outside;Trivial;Not Applicable;;;;;;;
+oAqb4RTcxxs;0;a baby is rolling;Trivial;Not Applicable;;;;;;;
+oILSr5ogzjA;0;green bird jumping up and down;Trivial;Not Applicable;;;;;;;
+oN1x3Ik1t5Y;0;man in black running on the track;Trivial;Not Applicable;;;;;;;
+oTF93dKdDgY;0;a parrot is jumping up and down;Trivial;Not Applicable;;;;;;;
+og5yc4SvWXg;0;Cat climbing the curtains;Trivial;Not Applicable;;;;;;;
+oh6Keb022u8;0;a bird is climbing up the stairs;Trivial;Not Applicable;;;;;;;
+orPR2nq3K2I;0;dog is running on the road;Trivial;Not Applicable;;;;;;;
+ouJcNCcHYEA;0;cat is climbing a ladder;Trivial;Not Applicable;;;;;;;
+pOfIzdcMZ-c;0;Pigeon is walking on the paved road;Trivial;Not Applicable;;;;;;;
+pSbIKC7I5bM;0;cat is rolling on the floor;Trivial;Not Applicable;;;;;;;
+pyE7NeM42S0;0;Eagle flying on the sky;Trivial;Not Applicable;;;;;;;
+q02nvjQfcA0;0;a white and brown dog is crawling;Trivial;Not Applicable;;;;;;;
+q0RJ6haCNjo;0;a bird is rolling on the floor;Trivial;Not Applicable;;;;;;;
+q6y7oeZx9WY;0;blue car running on the road;Trivial;Not Applicable;;;;;;;
+qCSWa5ihhRY;0;a bird is walking;Trivial;Not Applicable;;;;;;;
+qDi0MZJZ-w0;0;Car flying from one hill to another ;Trivial;Not Applicable;;;;;;;
+qEVpJK7pEPE;0;a duck is flying upon a city ;Trivial;Not Applicable;;;;;;;
+qHHdEKYcl3g;0;the bird is jumping onto a human hand;Trivial;Not Applicable;;;;;;;
+qHuK80VKkKc;0;baby laying in the bed;Trivial;Not Applicable;;;;;;;
+qeYwsddRGEY;0;Girl in green dress climbing the stairs;Trivial;Not Applicable;;;;;;;
+qh4DATEKFLc;0;dog eating;Trivial;Not Applicable;;;;;;;
+qkDg1tB3B5k;0;a baby is crawling inside a green tunnel;Trivial;Not Applicable;;;;;;;
+qrV7bDqDQSA;0;man in black jumping over the bike;Trivial;Not Applicable;;;;;;;
+quGXSAEAUkk;0;baby rolling on the floor;Trivial;Not Applicable;;;;;;;
+r5Fw3AMe4BY;0;Cat is climbing on the cabinet;Trivial;Not Applicable;;;;;;;
+r7Z4iVw9oqc;0;a brown dog is climbing through a tree;Trivial;Not Applicable;;;;;;;
+r83AYz0_vbM;0;a white cat is rolling on the grass;Trivial;Not Applicable;;;;;;;
+r9bbFG_E7xs;0;kid rolling in the box;Trivial;Not Applicable;;;;;;;
+rBLbGo5_b9c;0;man jumping two times;Trivial;Not Applicable;;;;;;;
+rKPk2DUGiSk;0;the spotted cat is jumping for a toy;Trivial;Not Applicable;;;;;;;
+rQSkktFk0Lk;0;a brown dog is eating food;Trivial;Not Applicable;;;;;;;
+rQs-3V16O6Y;0;a black dog is jumping over s swing;Trivial;Not Applicable;;;;;;;
+rWYmSRNSbz8;0;bird walking on the ground;Trivial;Not Applicable;;;;;;;
+r_7EpY9twFU;0;spotted cat walking in the wheel;Trivial;Not Applicable;;;;;;;
+rizlP_I0E6c;0;a guy with karate uniform is rolling ;Trivial;Not Applicable;;;;;;;
+ruMn_8p9qmk;0;black cat climbing the wall;Trivial;Not Applicable;;;;;;;
+rzLIiiIUl1Q;0;dog rolling in the snow;Trivial;Not Applicable;;;;;;;
+sUz4r-_PjpQ;0;gray cat walking;Trivial;Not Applicable;;;;;;;
+sX6g3-T4BuE;0;Black dog rolling on the carpet;Trivial;Not Applicable;;;;;;;
+s_E4aE42T6s;0;Small baby is walking outside of the house;Trivial;Not Applicable;;;;;;;
+sqpWB6EdzTE;0;a baby is crawling;Trivial;Not Applicable;;;;;;;
+ss5A_oiodYk;0;cat walking on the street;Trivial;Not Applicable;;;;;;;
+sx72NW2XsWQ;0;car jumping across the road;Trivial;Not Applicable;;;;;;;
+t0kRKuU0Zzo;0;a blue bird is walking in the grass;Trivial;Not Applicable;;;;;;;
+t1ypgXRvxVE;0;the cat is walking;Trivial;Not Applicable;;;;;;;
+tDsO5vA60iQ;0;a baby is standing on the road;Trivial;Not Applicable;;;;;;;
+tE1UFmN6Tg0;0;Dachshund eating from the bowl;Trivial;Not Applicable;;;;;;;
+tUar7AhOPU0;0;Dog crawling in the grass during sunny day;Trivial;Not Applicable;;;;;;;
+twh-9QRveXA;0;a black and white dog is rolling;Trivial;Not Applicable;;;;;;;
+u17mR2m8aV8;0;a cat is running ;Trivial;Not Applicable;;;;;;;
+uGkuJbLcEQM;0;bird eating on the grass;Trivial;Not Applicable;;;;;;;
+uGpALykeNIs;0;a brown cat is jumping;Trivial;Not Applicable;;;;;;;
+uKIJdttcs9k;0;baby in blue top climbing the stairs;Trivial;Not Applicable;;;;;;;
+uVF9KgFbGto;0;a woman is walking;Trivial;Not Applicable;;;;;;;
+uWqgvQsBoXE;0;the bird is playing;Trivial;Not Applicable;;;;;;;
+udx-rad10qc;0;a baby with colorful shirt is climbing up ;Trivial;Not Applicable;;;;;;;
+ugOUpbWRTuY;0;a top naked man is crawling;Trivial;Not Applicable;;;;;;;
+umHIngjKCDM;0;White cat eating something from hand;Trivial;Not Applicable;;;;;;;
+v2qk9jtmF2Y;0;Naked guy running on the field;Trivial;Not Applicable;;;;;;;
+vDUMoLwYxcE;0;a baby is climbing up stairs;Trivial;Not Applicable;;;;;;;
+vIAYPHlOFaw;0;Rally car turning the corner;Trivial;Not Applicable;;;;;;;
+vM9m0sj311s;0;a man is rolling;Trivial;Not Applicable;;;;;;;
+vRc3H93dpsY;0;Fuzzy dog eating from the bowl;Trivial;Not Applicable;;;;;;;
+vY5Wta8KFrM;0;Guy is flipping in the air;Trivial;Not Applicable;;;;;;;
+vYCNgxKfgt8;0;a dog that attempts to eat some corn;Trivial;Not Applicable;;;;;;;
+vY_dsR34nJ0;0;topless man crawling on the road;Trivial;Not Applicable;;;;;;;
+vz1atO1dkJA;0;bird flying over the water;Trivial;Not Applicable;;;;;;;
+w5B4Hxbk6LA;0;pink bird rolling on the floor;Trivial;Not Applicable;;;;;;;
+w742tCCtYgk;0;cat rolling on the floor;Trivial;Not Applicable;;;;;;;
+wBmkSdwXyyM;0;a green bird is playing with rabbits;Trivial;Not Applicable;;;;;;;
+wEPANVxVdik;0;a baby is rolling in his bed;Trivial;Not Applicable;;;;;;;
+wGmyRnmDlFw;0;cat is running along a fence;Trivial;Not Applicable;;;;;;;
+wQtn1fVw1nc;0;the person is crawling;Trivial;Not Applicable;;;;;;;
+wRkeBVMQSgg;0;Woman is running along the road;Trivial;Not Applicable;;;;;;;
+waB_cB-DryM;0;dog crouching on the grass;Trivial;Not Applicable;;;;;;;
+wbJ2I9ZzAKQ;0;cat eating on the table;Trivial;Not Applicable;;;;;;;
+wcvq2nCHU1M;0;a yellow dog is rolling on the snow;Trivial;Not Applicable;;;;;;;
+wjPuk0aWgsA;0;a black and white cat is running;Trivial;Not Applicable;;;;;;;
+wl0JojWH1rQ;0;man in white shirt walking;Trivial;Not Applicable;;;;;;;
+wqUaHiVos-U;0;a cat is eating food;Trivial;Not Applicable;;;;;;;
+wyvntz46-WM;0;man in the black shirt and gray pants climbing the wall;Trivial;Not Applicable;;;;;;;
+x7V7-zjINjw;0;bird running;Trivial;Not Applicable;;;;;;;
+xHShXO5w7rU;0;dog with black white fur jumping onto a laver;Trivial;Not Applicable;;;;;;;
+xNoqCHzalSk;0;Fuzzy slowly crawling on the towel;Trivial;Not Applicable;;;;;;;
+xdhLQCYQ-nQ;0;a cat is jumping into a box;Trivial;Not Applicable;;;;;;;
+xdrYiP0eQE0;0;red car bouncing;Trivial;Not Applicable;;;;;;;
+xioT-lZCwUA;0;parrot climbing along the rope;Trivial;Not Applicable;;;;;;;
+xlGhUn2qKJY;0;Fluffy cat is rolling on the floor;Trivial;Not Applicable;;;;;;;
+y-cXEkR8YKE;0;baby rolling on the bed;Trivial;Not Applicable;;;;;;;
+yAf8OPOtAnw;0;the bird is picking from the ground;Trivial;Not Applicable;;;;;;;
+yGFD2gDvUTM;0;Cat licking a chocolate on a person hand;Trivial;Not Applicable;;;;;;;
+yKMZHbPsgcg;0;a bird is flying;Trivial;Not Applicable;;;;;;;
+yLAfEmq7vsM;0;a cat is eating food;Trivial;Not Applicable;;;;;;;
+yN1sS_N4cP0;0;a bird is standing on top of a roof like object;Trivial;Not Applicable;;;;;;;
+yN_WOmrJDFE;0;cat running away;Trivial;Not Applicable;;;;;;;
+ybEvxmK0kpw;0;the car is jumping into a muddy pond;Trivial;Not Applicable;;;;;;;
+yro-rfenT78;0;bird jumping onto the human hand;Trivial;Not Applicable;;;;;;;
+z1ewf2fU8Hs;0;a black car is going on the road;Trivial;Not Applicable;;;;;;;
+zGJXp_PzEx0;0;a baby is crawling;Trivial;Not Applicable;;;;;;;
+zIQov-TcS5k;0;baby in white is climbing the stairs;Trivial;Not Applicable;;;;;;;
+zTBFewGvP9A;0;baby walking;Trivial;Not Applicable;;;;;;;
+zrNCs-UYnbk;0;baby is crying in the bed;Trivial;Not Applicable;;;;;;;
+zrqOAwCPowg;0;the dog is walking on a treadmill;Trivial;Not Applicable;;;;;;;
+zxcvHIZ5nbE;0;man eating ribs;Trivial;Not Applicable;;;;;;;
+zxjk3hCIARI;0;baby walking;Trivial;Not Applicable;;;;;;;
+zyzLfUfyZJU;0;a bird is flying;Trivial;Not Applicable;;;;;;;

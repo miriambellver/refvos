@@ -1,0 +1,62 @@
+video_id;instance_id;ref_exp;ref_exp_difficulty;ref_exp_information;appearance;obj-static;category;location;motion;obj-motion;static
+blackswan;1;a black feathered swan;Trivial (Single Object Category);Redundant Information;1.0;0.0;1.0;0.0;0.0;0.0;0.0
+horsejump-high;2;a jockey wearing a white uniform;Trivial (Single Object Category);Redundant Information;1.0;0.0;1.0;0.0;0.0;0.0;0.0
+loading;3;a man on the left with a beard wearing jeans;Non-trivial;Redundant Information;1.0;0.0;1.0;1.0;0.0;0.0;0.0
+bmx-trees;1;a black bike;Trivial (Single Object Category);Redundant Information;1.0;0.0;1.0;0.0;0.0;0.0;0.0
+shooting;1;a black rifle;Trivial (Single Object Category);Redundant Information;1.0;0.0;1.0;0.0;0.0;0.0;0.0
+car-roundabout;1;a black car moving through a roundabout;Not a Referring Expression;Redundant Information;1.0;0.0;1.0;1.0;1.0;0.0;0.0
+gold-fish;5;a goldfish at the bottom;Not a Referring Expression;Minimum Information;0.0;0.0;1.0;1.0;0.0;0.0;0.0
+judo;2;a bald man with a black belt in the center of the mat;Non-trivial;Redundant Information;1.0;0.0;1.0;1.0;0.0;0.0;0.0
+camel;1;a camel moving;Non-trivial;Minimum Information;0.0;0.0;1.0;0.0;1.0;0.0;0.0
+dog;1;a dog walking;Trivial (Single Object Category);Redundant Information;0.0;0.0;1.0;0.0;1.0;0.0;0.0
+shooting;3;a rope which the guy is hanging on;Trivial (Single Object Category);Redundant Information;0.0;0.0;1.0;0.0;0.0;0.0;1.0
+lab-coat;3;a girl on the right with blonde hair;Non-trivial;Redundant Information;1.0;0.0;1.0;1.0;0.0;0.0;0.0
+gold-fish;1;the largest orange goldfish;Non-trivial;Minimum Information;1.0;0.0;1.0;0.0;0.0;0.0;0.0
+goat;1;a goat walking in the hilly area;Trivial (Single Object Category);Redundant Information;0.0;0.0;1.0;1.0;1.0;0.0;0.0
+india;3;a woman on right wearing a black dress;Non-trivial;Redundant Information;1.0;0.0;1.0;1.0;0.0;0.0;0.0
+lab-coat;4;a girl in the middle wearing a lab-coat and a black shirt;Non-trivial;Redundant Information;1.0;0.0;1.0;1.0;0.0;0.0;0.0
+motocross-jump;2;a green motorbike;Trivial (Single Object Category);Redundant Information;1.0;0.0;1.0;0.0;0.0;0.0;0.0
+soapbox;3;a man wearing a white shirt on a wooden car without a helmet;Non-trivial;Redundant Information;1.0;0.0;1.0;1.0;0.0;0.0;0.0
+dance-twirl;1;a girl in a blue dress twirling;Non-trivial;Redundant Information;1.0;0.0;1.0;0.0;1.0;0.0;0.0
+mbike-trick;1;a person performing bike tricks;Non-trivial;Redundant Information;0.0;0.0;1.0;0.0;1.0;1.0;0.0
+shooting;2;a person shooting with a rifle;Trivial (Single Object Category);Redundant Information;0.0;1.0;1.0;0.0;0.0;0.0;1.0
+kite-surf;1;a power kite with blue handles;Trivial (Single Object Category);Redundant Information;1.0;0.0;1.0;0.0;0.0;0.0;0.0
+drift-straight;1;a car in a racing track;Non-trivial;Minimum Information;0.0;0.0;1.0;1.0;0.0;0.0;0.0
+bmx-trees;2;a boy riding a bicycle;Trivial (Single Object Category);Redundant Information;0.0;0.0;1.0;0.0;1.0;1.0;0.0
+gold-fish;4;a small orange goldfish on the top half;Not a Referring Expression;Minimum Information;1.0;0.0;1.0;1.0;0.0;0.0;0.0
+soapbox;2;a man in a white helmet driving a wooden car;Non-trivial;Redundant Information;1.0;0.0;1.0;0.0;1.0;1.0;0.0
+kite-surf;2;a surf-board;Trivial (Single Object Category);Minimum Information;0.0;0.0;1.0;0.0;0.0;0.0;0.0
+loading;2;a cardboard box held by a man;Non-trivial;Minimum Information;0.0;0.0;1.0;0.0;0.0;0.0;1.0
+cows;1;a cow in the field;Trivial (Single Object Category);Redundant Information;0.0;0.0;1.0;1.0;0.0;0.0;0.0
+lab-coat;1;a pink cell phone in a girl's hand;Non-trivial;Redundant Information;1.0;0.0;1.0;1.0;0.0;0.0;0.0
+parkour;1;a person crossing over obstacles;Trivial (Single Object Category);Redundant Information;0.0;0.0;1.0;1.0;1.0;0.0;0.0
+gold-fish;3;a smallest goldfish on the bottom half;Non-trivial;Minimum Information;1.0;0.0;1.0;1.0;0.0;0.0;0.0
+horsejump-high;1;a horse jumping over obstacles;Trivial (Single Object Category);Redundant Information;0.0;0.0;1.0;1.0;1.0;0.0;0.0
+libby;1;a dog running;Trivial (Single Object Category);Redundant Information;0.0;0.0;1.0;0.0;1.0;0.0;0.0
+pigs;3;an adult pig;Non-trivial;Minimum Information;1.0;0.0;1.0;0.0;0.0;0.0;0.0
+car-shadow;1;a white car crossing a signal;Non-trivial;Redundant Information;1.0;0.0;1.0;1.0;1.0;0.0;0.0
+lab-coat;5;a girl on the left holding two cell phones;Non-trivial;Redundant Information;0.0;1.0;1.0;1.0;0.0;0.0;1.0
+lab-coat;2;a white cell phone in a left hand;Non-trivial;Redundant Information;1.0;0.0;1.0;1.0;0.0;0.0;0.0
+india;2;a woman in the middle wearing a red dress;Not a Referring Expression;Minimum Information;1.0;0.0;1.0;1.0;0.0;0.0;0.0
+soapbox;1;a blue wooden car;Trivial (Single Object Category);Redundant Information;1.0;0.0;1.0;0.0;0.0;0.0;0.0
+dogs-jump;2;a white dog with grey patches;Non-trivial;Minimum Information;1.0;0.0;1.0;0.0;0.0;0.0;0.0
+judo;1;a man with a blue belt on the right;Not a Referring Expression;Redundant Information;1.0;0.0;1.0;1.0;0.0;0.0;0.0
+pigs;1;a brown and white coloured piglet;Non-trivial;Minimum Information;1.0;0.0;1.0;0.0;0.0;0.0;0.0
+drift-chicane;1;a car racing;Non-trivial;Redundant Information;0.0;0.0;1.0;0.0;1.0;0.0;0.0
+paragliding-launch;1;a black harness;Trivial (Single Object Category);Redundant Information;1.0;0.0;1.0;0.0;0.0;0.0;0.0
+mbike-trick;2;a black bike moving;Non-trivial;Redundant Information;1.0;0.0;1.0;0.0;1.0;0.0;0.0
+dogs-jump;1;a white dog with black patches;Non-trivial;Minimum Information;1.0;0.0;1.0;0.0;0.0;0.0;0.0
+scooter-black;2;a black scooter being ridden in a street;Non-trivial;Redundant Information;1.0;0.0;1.0;1.0;1.0;0.0;0.0
+gold-fish;2;an orange goldfish with a white stripe in the center;Non-trivial;Minimum Information;1.0;0.0;1.0;0.0;0.0;0.0;0.0
+india;1;a woman on the left wearing a yellow dress;Non-trivial;Redundant Information;1.0;0.0;1.0;1.0;0.0;0.0;0.0
+paragliding-launch;3;paraglider lines;Trivial (Single Object Category);Minimum Information;0.0;0.0;1.0;0.0;0.0;0.0;0.0
+bike-packing;1;black and white coloured bike;Trivial (Single Object Category);Redundant Information;1.0;0.0;1.0;0.0;0.0;0.0;0.0
+paragliding-launch;2;a person launching paragliding;Trivial (Single Object Category);Redundant Information;0.0;0.0;1.0;0.0;1.0;0.0;0.0
+motocross-jump;1;a man riding a motorbike;Non-trivial;Redundant Information;0.0;0.0;1.0;0.0;1.0;1.0;0.0
+loading;1;a big man on the right in a black jacket;Non-trivial;Redundant Information;1.0;0.0;1.0;1.0;0.0;0.0;0.0
+pigs;2;a brown piglet;Non-trivial;Minimum Information;1.0;0.0;1.0;0.0;0.0;0.0;0.0
+kite-surf;3;a person surfing;Trivial (Single Object Category);Redundant Information;0.0;0.0;1.0;0.0;1.0;0.0;0.0
+scooter-black;1;a man in a suit riding on a black scooter;Non-trivial;Redundant Information;1.0;0.0;1.0;0.0;1.0;1.0;0.0
+bike-packing;2;a man holding a bike;Trivial (Single Object Category);Redundant Information;0.0;1.0;1.0;0.0;0.0;0.0;1.0
+dogs-jump;3;a woman in a yellow jacket and mustered trousers;Trivial (Single Object Category);Redundant Information;1.0;0.0;1.0;0.0;0.0;0.0;0.0
+breakdance;1;a boy in a red tshirt performing a breakdance;Non-trivial;Redundant Information;1.0;0.0;1.0;0.0;1.0;0.0;0.0

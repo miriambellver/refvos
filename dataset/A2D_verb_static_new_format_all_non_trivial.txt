@@ -1,0 +1,276 @@
+video_id,instance_id,query
+FmaPgB5rXAg;0;a bird on the lelft searching for food
+IppaQSxbp_Y;0;the man in the blue shirt is just standing there
+IppaQSxbp_Y;1;a man with light blue shirt holding a newspaper
+IppaQSxbp_Y;2;a man is standing on the right side
+J10axcxQs8k;1;boy in yellow top and green pants bouncing a yellow ball in the front
+J10axcxQs8k;2;girl in white top bouncing a ball on the right
+J10axcxQs8k;5;small yellow ball caught by a boy in all white on yellow floor
+JAyETp6IrfQ;0;cat with gray fur sitting on the chair
+JAyETp6IrfQ;1;cat sitting on the floor and then on the door
+JHy6bBKu0j4;0;big duck watching baby ducks
+JNziEdeT3hU;0;White car is standing on the left hill
+JNziEdeT3hU;1;red car performing on a car show
+JvlIOOVo050;0;Guy in yellow hoodie is holding a height measurer
+KVB3c-_VkuA;0;man standing behind the car
+KVB3c-_VkuA;1;a brown car performing in a competition
+KVB3c-_VkuA;2;Big guy holding height measurer from the right side
+KZXZVFwFhn4;0;a black cat is sitting on the back
+KZXZVFwFhn4;1;a gray white cat standing on the left
+L16abtpWTSI;0;baby in blue shirt standing near the bed
+LaQHEtngJlE;2;Yellow bird is standing on the grass
+NdcsOJC392M;0;black cat standing on the bottom
+O8alIA6GPYA;1;the dog on the right lying on the floor
+O8alIA6GPYA;2;dog on the left lying on the floor
+OgkpGNMW6ps;2;man in black suit and red tie is greeting
+SG14EVakSOY;1;soldier on the left lying under barbed wires
+SG14EVakSOY;2;soldier on the right lying under barbed wire
+UkzM0oR0Irg;2;the black cat is eating fish
+UkzM0oR0Irg;3;second spotted cat from the right eating fishes
+UkzM0oR0Irg;7;Small orange cat is eating the food
+-7EE9T3Z0qk;1;baby girl sitting on the couch
+1ApyqVU93N4;1;baby in red shirt reaching a toy
+1ApyqVU93N4;2;Girl in yellow dress standing near the woman
+1Ib_2-qdFhk;0;a man eating a big sandwich
+1Ib_2-qdFhk;1;a man with green shirt is sitting on the right
+4CZjVBpRQtM;1;man in uniform playing a flute at last in the second row from left
+4CZjVBpRQtM;3;bottom right man in uniform playing a flute on the street
+64YpE9Pgsgk;0;Woman in pink orange shirt and denim shorts standing near tractor
+6gwZ6MPYW_Y;2;the person in yellow holding a box
+7kuUHEyCV9g;0;Monster car is sparking in the air
+8qevxPmTWKQ;2;black truck parking on the top right
+9cqF0hjnIbs;1;a back car with a camper behind it is parked
+ACG_c-NGIQQ;0;man in a hat talking to a woman
+AMRIatLZjz8;0;a car stading upside down
+AMRIatLZjz8;4;a man in white shirt and a white hat standing in the middle of behind
+BSSH9ly3dBM;0;man relaxing on the beach with a woman
+BrSxxfBVW3w;0;baby in green standing on the right
+BrSxxfBVW3w;1;a baby in green is sitting in the middle of mattress
+BrSxxfBVW3w;3;Guy in the white shirt standing on the right
+BvAzdbfFJeQ;0;Big duck protecting baby ducks
+CcgopP4bOfE;1;a woman is sitting on the back with a light on her hand
+CdY2cZV4-kA;2;blue truck parking on the right
+CwSUSVxoqbs;0;yellow bird standing on the left
+CwSUSVxoqbs;2;green bird standing on the curtain rod
+CwSUSVxoqbs;3;white parrot standing on the curtains
+EhRuG0D-WsU;0;yellow cat standing at the bottom
+EhRuG0D-WsU;1;the cat is sitting
+Fiyr91l0wao;0;the car is sparking
+i82BXNyZpTk;0;man in black top on the right handling something on his back
+i82BXNyZpTk;1;a girl in white jacket and pink bag on the left handling a blue bag
+i82BXNyZpTk;2;girl carrying a red backpack on the mountain road
+i_2U6TUGPjU;1;man eating corn on the right
+iuuckzeOHDo;0;a car standing upside down on the ground
+iuuckzeOHDo;1;Guy in yellow shirt and red pants standing in the back
+j2h9arzRrpI;1;boy in black sitting on a yellow ball
+j2h9arzRrpI;2;boy in gray shirt sitting on the blue ball
+j2h9arzRrpI;3;boy in orange top standing
+j2h9arzRrpI;4;Blue ball laying in the training room
+lnCNV8yA25E;0;a black man standing on the right
+mrpG-WO7Nx0;0;white dog laying on the floor on the right
+mrpG-WO7Nx0;1;dog lying on the floor
+p8nf_Bm9N54;0;Red air ball being hold by the baby
+p8nf_Bm9N54;1;Yellow ball is laying on the left
+pS-lJk24e14;1;man in red shirt and white pants watching the race on the track
+qw4yA_TRr6Q;0;white dog lying face up on the carpet
+qw4yA_TRr6Q;1;white dog is standing on carpet corner
+t0yPiWdkiwE;0;a white cat playing with a black cat
+t0yPiWdkiwE;1;White licking her claws on the left
+tk1uyh9PWqk;1;woman waving the flags in the front right
+tmSE9cH3PhM;0;a black dog on the bottom standing at the back of a group of dogs
+u1priZZzKjM;1;football holded by a person
+ujA9qrvYV2s;0;man relaxing with a woman on the beach
+ujA9qrvYV2s;1;woman relaxing with a man on the beach
+um9Wobg5P9Q;0;the kid scaring the birds
+w2nIfxcxruE;0;the kid in yellow is leaning on her knees
+w2nIfxcxruE;1;a baby in green is leaning on his knees
+w2nIfxcxruE;2;baby in white hat sitting on the top right
+wXRKzhBYmWg;1;Woman in white blouse and black pants standing near the track
+xazi3V_diGU;1;cat is sitting under the wheel
+xu0L4atB-kg;0;bird standing on the right
+xu0L4atB-kg;1;the bird facing up in the corner of its cage
+y4IlT_9NMHk;1;the left bird opening its peak
+XQ2WJo8sLEw;2;the person in gray pulling on his pants
+XQ2WJo8sLEw;3;man in black pants holding a bag
+XWLh6BBJY2c;0;Boy with white hat standing in the back
+Xak5MjMRWFA;1;baby on the left looking at the toy
+a8gUOdY672I;0;Green parrot is climbing and biting a rope
+a8gUOdY672I;1;Blue parrot is standing on top of the cage
+aon3IF_qxno;1;the person on the right is squatting
+b7D3QscIZso;2;man in black standing on the grass
+bjITPWl_PE8;0;a baby in yellow shirt is jumping up and down raising his arms
+bjITPWl_PE8;2;right most boy looking the teacher
+bjITPWl_PE8;3;Girl in black shirt and pink pants is jumping with other kids looking the teacher
+fvl8FzxYRLo;0;boy throwing a yellow ball
+fvl8FzxYRLo;1;a woman is sitting on the right
+fvl8FzxYRLo;2;a yellow and black ball standing on the floor
+glk2zL5hvNY;0;Boy in orange shirt standing behind the line 
+glk2zL5hvNY;1;boy in green shirt running in the back and looking the boy
+glk2zL5hvNY;3;Boy in blue shirt is dribbling a ball and looking the floor
+hKTUod7rQAQ;3;Girl with pigtail looking the floor
+hP4ji3MXpNQ;2;a car is parked on the behind
+hSkglfpoUJg;0;a cat is sitting on the right
+hSkglfpoUJg;2;a cat on the left is watching its friends
+hSkglfpoUJg;3;cat eating on the right
+lh0AqlL53ac;0;a guy is on the right holding and eating a sandwich 
+lh0AqlL53ac;1;a boy on the left with red hat is eating a sandwich
+mF8PNKEnkJY;1;the person in blue shirt standing on the left
+moFXmbCl1dk;0;The black dog is standing near the stove
+moFXmbCl1dk;1;black dog lying on the carpet
+n3DSSGWisgk;0;Guy in black jacket talking to the camera
+n3DSSGWisgk;1;man in black shirt holding a phone on his hands on the right
+nI-_DF6vSRo;0;a man with white shirt is throwing a ball
+nI-_DF6vSRo;1;a boy in red shirt is throwing a ball
+oxlsk5PcpJg;0;Man in blue kimono is standing on the middle of the tatami
+p55k91lyJf4;0;man holding a baby on left
+p55k91lyJf4;1;violet car parking in the middle
+p55k91lyJf4;2;man in gray shirt and black pants standing next to the car
+q0CYwoDlf6Q;0;Guy in yellow shirt standing near the hurdles
+q0CYwoDlf6Q;1;woman in white top and black shorts warming up on the running track
+q0CYwoDlf6Q;2;Woman in the blue shirt is standing on the track
+sDCqW7pFNfI;0;White brown dog smelling the sand on the beach near the water
+sULsOQDaDw0;0;a person is playing with a dog
+spEcZ-Ddbug;0;a woman with black hair is eating a hamburger
+spEcZ-Ddbug;1;woman in sunglass sitting on the right
+tUfJLX-JfzE;1;a woman in dark red is standing in front of the camera
+tUfJLX-JfzE;2;the person in red on the left is standing
+tUfJLX-JfzE;3;Ball is held by the man in the back
+tnz-_MYR5AE;1;Dog eating on snow from the right side of the man
+v9GlKrSc2Zs;0;the small dog on the right standing near the woman
+v9GlKrSc2Zs;2;a big black dog in the middle is sitting
+v9GlKrSc2Zs;3;gray dog standing with a woman on the left
+v9GlKrSc2Zs;4;a white dog on the left is eating
+vJFolhUfQjc;0;a woman in green cover is walking and talking
+vz6e1L5knNk;1;Guy in white shirt and cap filming the car from the left side
+w7WdY5sf3VM;0;Parrot hanging from a rope in front a mirror
+w7WdY5sf3VM;1;Reflection of the wavy parrot hanging from the rope
+x0df1JXqcXE;0;Guy in all black kicking a ball
+x0df1JXqcXE;2;a man in green tshirt is giving a pass
+ylzhY6Uy_Mg;0;Instructor is standing behind the obstacle course
+ylzhY6Uy_Mg;1;man laying on the ground in the front
+yxxC5XKD4i0;1;right cat staying at the bottom
+FddoRFa6nYY;0;a gray and orange bird is sitting in a branch
+FddoRFa6nYY;1;a bird on the right is standing on a branch
+HKOevvmGUOQ;0;man in green shirt standing
+IWUrJD-Lnvw;0;woman in blue shirt is eating an icecream
+IWUrJD-Lnvw;1;Woman in pink is feeding another woman
+IvRZz2odxA0;7;a man in yellow shirt is standing on the left side
+Jq37leMMy_g;0;man in black shooting basketball
+Jq37leMMy_g;1;man in black shirt to the left passing basketball
+Jq37leMMy_g;3;a man with red short pant is throwing a ball
+KPXOcOA1LmU;0;a man is standing on a rock on the right
+KPXOcOA1LmU;1;man standing on the left
+LT5p1fbeaeM;0;bird eating in the back on the beach
+LT5p1fbeaeM;1;the first bird from the right is eating
+Lkpk--TYF34;0;man laying in the middle
+Lkpk--TYF34;1;Soldier laying on the ground in the right bottom corner
+Lkpk--TYF34;2;man laying on the ground on the top
+MX_m2T7_CdU;2;man in black suits standing
+N8HUWi_fhMU;0;the person with white shirt is standing on the right
+N8HUWi_fhMU;1;Woman in blue is bending 
+N8HUWi_fhMU;5;the white dog on the right is shaking off
+N8HUWi_fhMU;6;white dog standing on the top
+NZEJRwaDU2M;1;man in white top and blue pants standing beside the running track
+NZEJRwaDU2M;2;the photographer is capturing a long jump event
+NZEJRwaDU2M;3;the person in blue is standing
+NZEJRwaDU2M;4;Guy in sports suit standing on the orange ground
+NZEJRwaDU2M;5;the first man with white shirt and black pant is sitting
+OKoBgO3MvJo;0;a baby cat is hanging from of a wheel
+OKoBgO3MvJo;1;a cat is staying on the floor
+PUMvr545LY4;1;small bird standing on the bottom left
+RMoi2oNjMN0;0;bird eating on the top
+RMoi2oNjMN0;2;sparrow sitting in the grass
+RMoi2oNjMN0;4;left most bird eating
+S55EopcAvtk;1;Man in green pants is standing near the fence
+S55EopcAvtk;2;man in red jacket and white pants standing on the left
+S9UvpMZzv0U;0;the flagbearer in the blue jacket is carrying the flag of azerbaijan
+S9UvpMZzv0U;1;woman in red and white dress carrying an umbrella
+SUVrO8_reRs;0;woman is standing on treadmill
+SUVrO8_reRs;1;a man in black is standing on the left and helping a girl
+TJcMQD0MVnY;1;the person in yellow shirt is watching the race
+TM8VR4WCVKA;1;the dog is participating in an agility event
+TM8VR4WCVKA;2;a man in dark suit is standing on the back
+TpdeJeCCe54;1;the black cat on the right is sitting
+TpdeJeCCe54;2;Black cat sitting at the bottom of the wheel on the left side
+UzsH2DjQGB8;1;Yellow formula car is leading a race
+UzsH2DjQGB8;2;white racing car is in the second place
+UzsH2DjQGB8;3;orange car is placed behind two cars
+VhhPE6-O2_I;0;a soldier on the right lying under the barbed wires
+VhhPE6-O2_I;1;man lying under the barbed wires on the left
+WAytNRuGTLw;0;red ball sat by a woman
+WAytNRuGTLw;1;a smaller red ball is being holded by a woman who appears to be doing pilates
+WAytNRuGTLw;3;White ball sitting beside a red ball
+WTrFVK82EJE;0;the puppy sitting on top of another puppy
+WTrFVK82EJE;1;black dog lying on the white carpet
+WXkPTjUBp90;1;woman with orange bag standing near the car
+Y6m5YnRmWO4;1;boy holding an orange ball
+Y6m5YnRmWO4;4;man in striped shirt standing
+YAPQck9DCkk;0;Guy in white cap is eating at the table 
+YAPQck9DCkk;1;a bald man is eating a sandwich
+_Lyt-IwXCSo;1;yellow bird standing on the bottom left
+_O6VsB_6RII;0;woman in green top standing on the left
+_O6VsB_6RII;3;a dog is being holded by its owner inside a house 
+_WytjbKhj58;0;a boy is eating on the left
+_WytjbKhj58;1;a man in orange is eating sandwich on the right
+cdjvk5bwFrQ;2;woman in black standing in the corner of the court
+dH6cw_y-Ltg;1;yellow cat standing on the right
+dQVfzLc1QQg;0;Large black pickup truck standing near the garage
+dQVfzLc1QQg;2;the gray car is parked
+f7QQKXPxjp0;0;guy in the red shirt lying under the steel wire
+f7QQKXPxjp0;1;man in white lying in the mud
+f7QQKXPxjp0;3;Person standing on the grass
+fSwW7YRwvRk;0;man in blue lying on the ground
+fSwW7YRwvRk;1;man in white suit lying on the floor
+guKjTvKZPrU;1;Black car is standing near yellow and gray cars
+h-6X6gTYiUU;0;a soldier lying on the field
+h-6X6gTYiUU;1;soldier is standing on the ground
+h1qFLT11s5c;0;man standing on the right
+h1qFLT11s5c;2;guy lying on the bowling track
+ih4LJ3e4Y2g;0;man in the white kimono standing on the tatami
+ih4LJ3e4Y2g;1;a man in blue standing
+ih4LJ3e4Y2g;2;man in black suit standing on the right
+j3_XpeMbjDc;1;man in green top standing on a bike
+kgNU2YTPs6Q;1;a person in green shirt is standing
+kgNU2YTPs6Q;2;man in yellow shirt standing
+lJzD2oNPVpQ;1;man with silver hair standing in the middle
+-AyZV127fCg;3;a person in red tshirt is standing on the left
+-AyZV127fCg;5;a man in black is standing on back of the car
+-AyZV127fCg;6;man in white standing between a man in black and a man in white
+025gzoHW30M;1;a reddish bird is eating on the left 
+0lxhJQFzikQ;1;a car is parked on the left
+1J67hpI4wOk;0;man hanging from the rock on the center
+1J67hpI4wOk;1;man in black jacket standing on the right
+3rbzcgnKWV8;0;man in blue shirt and dark blue short pants standing
+3rbzcgnKWV8;1;man in white top standing in the center
+3rbzcgnKWV8;2;a woman is standing on the right
+3rbzcgnKWV8;3;woman in pink top and black shorts sitting on the left
+3zsM3jBwWIM;3;a man in white tshirt is standing
+5MgnA8i9GJE;2;a man in white short pant is standing on the left
+6cQFypxxnlQ;8;man in white top and black pants standing on the running track
+77CtRWUggp4;1;Man in blue jacket standing on the right
+9-60uVOtr-s;0;brown dog standing
+9-60uVOtr-s;1;White dog standing around orange ball
+9wp3M4EUpEQ;0;cat is standing in the room in the front of camera
+9wp3M4EUpEQ;1;dotted cat standing
+AGmJ4qUSKQU;0;boy eating pizza on left
+AGmJ4qUSKQU;1;a boy on the right is eating a slice of pizza
+AHPYJgnJ_FI;0;the person with big hair standing
+AHPYJgnJ_FI;1;the man in a blue shirt is watching a runway show
+AijQ01lsWBc;0;woman in green dress standing on the street
+AijQ01lsWBc;1;man with a purple backpack standing on the right
+B8sNJRDRBrg;1;man planking on the mat
+C08RAUZYWVw;0;man in red shirt standing in the middle
+C08RAUZYWVw;1;man in black standing on a box
+C08RAUZYWVw;2;dark colored car parked on the left
+C08RAUZYWVw;3;silver car parking on the far right
+CAYdFBPE0Zo;2;first woman from the left standing beside the running track
+CAYdFBPE0Zo;3;guy in red shirt standing near the track
+CaWTbs0aMA8;3;someone is waiting for the ball nearby the goal
+CmOTlqhp_4s;1;the left dog is standing
+CmOTlqhp_4s;2;an untied dog standing on the right
+CprtLxsO_OU;1;man in white top and black shorts standing
+CprtLxsO_OU;2;woman in white top and black pants standing on the left
+DuEXIGWnuK8;0;black and white dog lying on the meadow
+DuEXIGWnuK8;2;small white dog standing on the right
+DxrkBmYhTro;1;the person in the black shirt is standing
+EadxBPmQvtg;1;a man in black is standing on the left side
