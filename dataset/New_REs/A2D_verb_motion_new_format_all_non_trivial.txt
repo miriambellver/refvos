@@ -1,0 +1,319 @@
+video_id,instance_id,query
+FmaPgB5rXAg;0;a bird on the left is walking on the sand
+IppaQSxbp_Y;1;a man with light blue shirt is walking away the camera
+J10axcxQs8k;5;Small yellow ball is rolling on yellow floor
+JAyETp6IrfQ;1;Cat is climbing the door
+JHy6bBKu0j4;0;big duck walking on the stairs
+JNziEdeT3hU;1;red car flying over the road
+JgUBrgYXEMU;0;car rolling over dirt
+KVB3c-_VkuA;1;a brown car is jumping up and down
+KZXZVFwFhn4;1;a gray white cat on the left is approaching its friends
+KZXZVFwFhn4;2;cat walking to the left
+L16abtpWTSI;0;baby in blue shirt climbs off the bed
+L16abtpWTSI;1;baby is climbing over the wooden fence
+LaQHEtngJlE;0;a bird is running in the snow
+NdcsOJC392M;0;black cat walking on the bottom
+NdcsOJC392M;1;a white cat is walking around
+O8alIA6GPYA;1;the dog on the right is crawling
+O8alIA6GPYA;2;dog on the left crawling
+OgkpGNMW6ps;1;man in black suit and blue tie walking on the red carpet
+OgkpGNMW6ps;2;man in black suit and red tie is walking in front of the camera
+OgkpGNMW6ps;3;man in black suits walking on the right most
+Ry8GWJMpIVQ;2;the black person with black clothes is running
+Ry8GWJMpIVQ;3;Guy in red shirt with number 2456 running on the athletic track
+Ry8GWJMpIVQ;4;a man in black is running on the back
+Ry8GWJMpIVQ;5;the person with white shirt is running
+SG14EVakSOY;0;Soldier is crawling in the front of the camera
+SG14EVakSOY;1;soldier on the left is crawling under barbed wires
+SG14EVakSOY;2;Soldier on the right is crawling under barbed wire
+UkzM0oR0Irg;2;the black cat  walking towards the fish
+UkzM0oR0Irg;3;gray cat with orange spot running towards the fish
+UkzM0oR0Irg;7;small orange cat running 
+-7EE9T3Z0qk;0;the child is crawling up onto the sofa
+1ApyqVU93N4;1;baby in red shirt crawling
+1ApyqVU93N4;2;Girl in yellow dress walking towards the woman
+2G9DODKHHIM;1;a bird is running in the middle
+4CZjVBpRQtM;0;man in uniform walking on the bottom left
+4CZjVBpRQtM;1;man in uniform walking at last in the second row from left
+4CZjVBpRQtM;3;bottom right man in uniform walking on the street
+64YpE9Pgsgk;1;a car is jumping on the air
+6YIdUkJO7TA;0;a black dog is walking with its friend on the snow
+6YIdUkJO7TA;1;White black dog walking in front
+6YIdUkJO7TA;2;black and brown dog walking in the snow
+6gwZ6MPYW_Y;2;the person in yellow is running
+7kuUHEyCV9g;0;Monster car is rolling over in the air
+7kuUHEyCV9g;2;monster car is jumping in the right bottom corner
+8qevxPmTWKQ;1;Violet car is jumping over other cars
+ACG_c-NGIQQ;0;man in a hat walking with a woman
+AMRIatLZjz8;0;a car is rolling
+BSSH9ly3dBM;0;man walking on the beach with a woman
+BrSxxfBVW3w;0;baby in green walking on the right
+BvAzdbfFJeQ;0;Big duck is leading baby ducks
+CdY2cZV4-kA;0;a red car is jumping up a ramp
+CwSUSVxoqbs;0;yellow bird flying
+CwSUSVxoqbs;1;the blue bird is walking on the railing
+CwSUSVxoqbs;2;green bird walking on the curtain rod
+CwSUSVxoqbs;3;white parrot climbing on the curtains
+EhRuG0D-WsU;0;yellow cat at the bottom walking
+Fiyr91l0wao;0;the car is flying through the air
+i82BXNyZpTk;0;man in black top walking on the right
+i82BXNyZpTk;1;a girl in white jacket and pink bag is walking on the left
+i82BXNyZpTk;2;girl with a red backpack walking on the mountain road
+iuuckzeOHDo;0;a car is rolling on the ground
+iuuckzeOHDo;1;Guy in yellow shirt and red pants walking in the back
+j2h9arzRrpI;1;boy in black jumping up and down
+j2h9arzRrpI;2;boy in gray shirt jumping on the blue ball
+j2h9arzRrpI;3;boy in orange top walking around
+j2h9arzRrpI;4;Blue ball jumping in the training room
+lnCNV8yA25E;0;a black man on the right is rolling over another man
+mrpG-WO7Nx0;0;white dog crawling on the floor
+p8nf_Bm9N54;0;Red air ball is jumping in the room
+pS-lJk24e14;1;man in red shirt and white pants walking on the track
+qw4yA_TRr6Q;0;white dog rolling on the carpet
+qw4yA_TRr6Q;1;white dog is walking on carpet corner
+t0yPiWdkiwE;0;a white cat is running and playing
+tk1uyh9PWqk;0;man in black sweater is walking on the left
+tk1uyh9PWqk;1;woman walking with flags in the front right
+tmSE9cH3PhM;0;a black dog on the bottom is running
+tzxlNL8fwQM;0;the front boy is jumping 
+tzxlNL8fwQM;1;Man in black outfit jumping at the back
+u1priZZzKjM;1;football flying into the goal
+uZg2ebSQCto;1;first man from the left running 
+ujA9qrvYV2s;0;man walking with a woman on the beach
+ujA9qrvYV2s;1;woman walking with a man on the beach
+um9Wobg5P9Q;0;the kid is running
+w2nIfxcxruE;0;the kid in yellow is crawling on her knees
+w2nIfxcxruE;1;a baby in green is crawling
+wXRKzhBYmWg;0;a woman is running and jumping
+xazi3V_diGU;0;a cat is walking inside a rotating wheel
+xu0L4atB-kg;1;the bird is rolling around in the corner of its cage
+xw_j1UddF-s;0;a white dog is running from the back to front
+xw_j1UddF-s;1;a person in black is walking
+y4IlT_9NMHk;1;the left bird is walking
+zITqe1ong0Q;0;a bird on the back of other bird with the same species is flying outside
+zITqe1ong0Q;1;a bird on the left is flying
+XQ2WJo8sLEw;2;the person in gray is walking
+XQ2WJo8sLEw;3;man in black pants walking next to a white dog
+XWLh6BBJY2c;0;Boy with white hat playing basketball
+XWLh6BBJY2c;3;basketball flying into the basket
+Xak5MjMRWFA;0;Small baby on the right
+Xak5MjMRWFA;1;baby crawling on the left
+YIL8dT5HGr8;0;girl rolling on the mat
+Z3mrI3Qtib0;0;man in red vest jumping into the sand pit
+_fHAFq7CtHE;0;gray cat jumping
+_fHAFq7CtHE;1;cat walking on the bottom right
+_zDiMvRtHhc;1;racing car running in distance
+a8gUOdY672I;0;Green parrot is climbing a rope
+a8gUOdY672I;1;Blue parrot is moving the head and standing on top of the cage
+aon3IF_qxno;1;the person on the right is clapping his hands
+bjITPWl_PE8;0;a baby in yellow shirt is jumping up and down
+bjITPWl_PE8;1;Small boy in white shirt and pants jumping in the middle of he group
+bjITPWl_PE8;2;right most boy jumping up and down
+bjITPWl_PE8;3;Girl in black shirt and pink pants is jumping with other kids
+fvl8FzxYRLo;0;boy throwing a yellow ball
+fvl8FzxYRLo;1;a woman is sitting on the right and moving her hand
+fvl8FzxYRLo;3;yellow ball flying to the ground
+glk2zL5hvNY;0;Boy in orange shirt running and standing behind the line
+glk2zL5hvNY;1;boy in green shirt running in the back
+glk2zL5hvNY;3;Boy in blue shirt is dribbling a ball
+glk2zL5hvNY;4;Boy with blonde hair in green shirt chasing boy with the ball
+hKTUod7rQAQ;0;Girl in white shirt is dribbling ball on the left
+hKTUod7rQAQ;1;ball bouncing up and down on left
+hKTUod7rQAQ;2;Orange ball jumping in the middle of training room
+hKTUod7rQAQ;3;Girl with pigtail  dribbling a  ball across
+hP4ji3MXpNQ;0;car flying over the sand dune
+hSkglfpoUJg;0;a cat on the right moving the head
+hSkglfpoUJg;1;cat running in the wheel
+hSkglfpoUJg;2;a cat on the left is moving his head
+hSkglfpoUJg;3;cat moving the head on the right
+hoMzZCLaRqw;0;a car is moving on the third rank
+hoMzZCLaRqw;1;green racing car running
+hoMzZCLaRqw;2;yellow racing car running on the road
+mF8PNKEnkJY;1;the person in blue shirt is dancing with a dog
+mHFZCn-jRpE;0;an old car is turning upside down on a race road 
+moFXmbCl1dk;1;black dog rolling
+mppkGncJ12M;1;a man in front is running
+n3DSSGWisgk;1;man in black shirt walking towards the camera
+nI-_DF6vSRo;0;a man with white shirt is running and jumping
+nI-_DF6vSRo;1;a boy in red shirt walking with a ball
+ntbN0B2U7mg;0;a blue and white blob is rolling down a hill on the left
+ntbN0B2U7mg;1;an orange and white blob is sliding on the right side
+oxlsk5PcpJg;0;Man in blue kimono is rolling on the tatami
+oxlsk5PcpJg;1;a white man in rolling in the front left
+oxlsk5PcpJg;2;man with black belt crawling in the middle
+p55k91lyJf4;0;man walking with a baby
+p55k91lyJf4;1;violet car is dancing in the middle
+q0CYwoDlf6Q;1;woman in white top and black shorts walking on the running track
+q0CYwoDlf6Q;3;topless man jumping into the sand pit
+sDCqW7pFNfI;0;White brown dog walking on the beach near the water
+sULsOQDaDw0;0;a person is walking backwards while being followed by a dog
+sqpOl9AjsDY;0;yellow racing car running
+sqpOl9AjsDY;1;racing car running in the far left
+sqpOl9AjsDY;3;Blue formula car is following yellow car of the leader
+tUfJLX-JfzE;3;Ball is flying on the air
+tnz-_MYR5AE;1;Dog walking on snow from the right side of the man
+tnz-_MYR5AE;2;dog walking with a man on the left
+v9GlKrSc2Zs;0;the small dog on the right is walking
+v9GlKrSc2Zs;2;a big black dog in the middle is walking
+v9GlKrSc2Zs;3;gray dog walking with a woman on the left
+v9GlKrSc2Zs;4;a white dog on the left is walking at the back
+v9GlKrSc2Zs;5;the brown and black dog is running
+vDE-jmXxRhY;0;Gray car is running on the right
+vDE-jmXxRhY;2;a white car in front is moving
+vJFolhUfQjc;0;a woman in green cover is walking and talking
+vJFolhUfQjc;1;the right person in red shirt is walking on the back
+vsyCFDG0sZ4;0;Man in white track suit is running 
+vsyCFDG0sZ4;1;man in red is running on the left
+w7WdY5sf3VM;0;Parrot climbing a rope in front a mirror
+w7WdY5sf3VM;1;Reflection of the wavy parrot climbing the rope
+x0df1JXqcXE;0;Guy in all black walking and kicking a ball
+x0df1JXqcXE;2;a man in green tshirt is walking
+xAJlcQPoKv4;1;man in green top walking with a woman
+y5AdnvKskoo;0;white dog running
+ylzhY6Uy_Mg;0;Instructor is walking behind the obstacle course
+ylzhY6Uy_Mg;1;man crawling in the front
+yxxC5XKD4i0;1;right cat climbing
+FddoRFa6nYY;1;a bird on the left is jumping to another branch
+H0MjkAHV1ww;0;a big dark dog on top is walking
+H0MjkAHV1ww;1;a small black dog on top near a white dog is walking
+H0MjkAHV1ww;5;the white dog is being walked
+HKOevvmGUOQ;1;man in yellow shirt jumping over a man
+IvRZz2odxA0;0;man in yellow running
+IvRZz2odxA0;2;third man from the left running
+IvRZz2odxA0;3;the second runner from the bottom is running
+IvRZz2odxA0;5;second runner from the right running
+IvRZz2odxA0;6;man in blue shirt running last in the run
+Jq37leMMy_g;0;man in black running and shooting basketball
+Jq37leMMy_g;1;man in black shirt to the left walking
+Jq37leMMy_g;2;Orange ball flying into the basket
+Jq37leMMy_g;3;a man with red short pant walking on the right with a ball
+Jq37leMMy_g;4;basketball flying into the basket
+KPXOcOA1LmU;0;a man is climbing a rock
+LT5p1fbeaeM;0;bird walking in the back on the beach
+LT5p1fbeaeM;1;the first bird from the right is walking 
+Lkpk--TYF34;0;man crawling in the middle
+Lkpk--TYF34;1;Soldier is crawling in the right bottom corner
+Lkpk--TYF34;2;man crawling on the top
+MX_m2T7_CdU;0;Gray dog running on a leash during dog show
+MX_m2T7_CdU;1;woman in purple dress running with a dog
+MX_m2T7_CdU;2;man in black suits walking
+N8HUWi_fhMU;0;the person with white shirt is walking
+N8HUWi_fhMU;2;White dog walking on the left
+N8HUWi_fhMU;3;Dog with white black hair walking
+N8HUWi_fhMU;4;small black dog following the group of white dogs
+N8HUWi_fhMU;5;the white dog on the right is walking
+N8HUWi_fhMU;6;white dog walking on the top
+NZEJRwaDU2M;0;Guy performing long jumping
+NuCjuBBad68;0;the third car in ranking is moving
+NuCjuBBad68;1;the second car to the left spinning 
+NuCjuBBad68;2;racing car running on outermost side of the road
+OKoBgO3MvJo;0;a baby cat is climbing up of a wheel
+OKoBgO3MvJo;1;a cat is crawling through a bicycle
+OTZOCMTxQzw;1;white ball bouncing up and down
+OTZOCMTxQzw;3;a white ball is jumping up and down
+P6RmP2giBTQ;0;green racing car running on left
+P6RmP2giBTQ;1;Reed yellow formula car riding in the middle of the track
+P6RmP2giBTQ;2;yellow racing car running in the front
+P6RmP2giBTQ;3;racing car in yellow running second
+PUMvr545LY4;0;big bird walking on the beach
+QpCuWsIgpmM;1;person in black pants running
+S9UvpMZzv0U;0;the flagbearer in the blue jacket is walking with the flag of azerbaijan
+S9UvpMZzv0U;1;woman in red and white dress walking with an umbrella
+SUVrO8_reRs;0;woman is walking on treadmill
+TJcMQD0MVnY;0;the person in blue shorts is sprinting
+TJcMQD0MVnY;1;the person in yellow shirt is walking
+TM8VR4WCVKA;0;the person with the white shirt is running with a dog
+TM8VR4WCVKA;1;the dog is running in an agility event
+TTYIgsxZrg8;1;a man in dark jersey on the middle is running
+TTYIgsxZrg8;2;third man from the left is running
+TpdeJeCCe54;0;gray and white cat walking in the wheel
+TpdeJeCCe54;3;a brown cat is running inside a rotating wheel
+TpdeJeCCe54;4;a black cat is walking inside a wheel
+UHoyyW8hOSE;0;black and white cat jumping to the toy
+UHoyyW8hOSE;1;brownish cat is jumping for the toy
+UzsH2DjQGB8;1;yellow formula car racing 
+UzsH2DjQGB8;2;racing car running second
+UzsH2DjQGB8;3;Orange car is chasing two cars ahead
+VhhPE6-O2_I;0;a soldier is crawling on the right
+VhhPE6-O2_I;1;man crawling on the left
+WAytNRuGTLw;1;smaller red ball is being thrown by a woman who appears to be doing pilates
+WTrFVK82EJE;0;the puppy is climbing on top of another puppy
+WTrFVK82EJE;1;black dog rolling
+WXkPTjUBp90;0;car jumping up and down
+Y6m5YnRmWO4;0;man in red top jumping on the trampoline
+Y6m5YnRmWO4;1;boy kicking a orange ball
+Y6m5YnRmWO4;2;ball flying into the sky
+_Lyt-IwXCSo;2;a green bird flying through an abacus
+_O6VsB_6RII;1;dog is walking around red cones
+_O6VsB_6RII;2;Woman walking with the dog around the cones
+cdjvk5bwFrQ;0;woman in pink jacket running with a dog
+dFNNLU9ymBc;0;the front car is moving
+dFNNLU9ymBc;1;racing car running second
+dFNNLU9ymBc;2;the fourth car in the ranking is moving
+dH6cw_y-Ltg;1;yellow cat walking on the right
+f7QQKXPxjp0;0;Guy in the red shirt crawling under the steel wire
+f7QQKXPxjp0;1;man in white crawling in the mud
+fSwW7YRwvRk;0;man in blue suit rolling on the gound
+fSwW7YRwvRk;1;Man in white suit wrestling with another man
+gnZssGiQC7A;0;man in white shirt running towards the sand pit
+gnZssGiQC7A;1;a man in red is walking on the bottom
+guKjTvKZPrU;2;Blue car is running through the street
+guKjTvKZPrU;3;man with a black shoulder bag walking across the street
+guKjTvKZPrU;4;woman walking to the left
+h-6X6gTYiUU;0;a soldier is crawling
+h-6X6gTYiUU;1;a soldier is walking on the ground
+h1qFLT11s5c;1;a blue bowling ball is moving
+h1qFLT11s5c;2;Guy is slipping on the bowling track
+ih4LJ3e4Y2g;0;Man in the white kimono is fighting on the tatami
+ih4LJ3e4Y2g;1;a man in blue is rotating on the air
+ih4LJ3e4Y2g;2;man in black suit walking on the right
+j3_XpeMbjDc;1;man in green top throwing a basketball
+jvRnA8WoXAk;1;a soldier is crawling and then running
+kgNU2YTPs6Q;0;white dog jumping
+kgNU2YTPs6Q;1;a person in green shirt is walking
+kgNU2YTPs6Q;3;woman in orange shirt running with a dog
+lGIbG1mUTxs;2;man in yellow shirt and blue shorts running on the right
+lGIbG1mUTxs;3;the yellow second person from the left is running
+025gzoHW30M;1;a reddish bird turing around on the left
+0lxhJQFzikQ;0;car jumping into the water
+1J67hpI4wOk;0;man climbing rocks in the center
+3rbzcgnKWV8;2;a woman is jumping
+3zsM3jBwWIM;1;man in gray suits walking
+3zsM3jBwWIM;2;man in gray top walking on the left
+3zsM3jBwWIM;3;a man in white tshirt is walking
+5DEOQzI8_Mc;0;man in black top crawling
+5DEOQzI8_Mc;1;naked man is crawling in the sand
+5MgnA8i9GJE;0;man in red shirt shooting a basketball
+5MgnA8i9GJE;2;a man in white short pant is throwing the ball
+610oOuqMPJQ;0;truck jumping
+6cQFypxxnlQ;0;man in the yellow shirt is running first in the run
+6cQFypxxnlQ;1;man in greenish tracksuit running on the middle track
+6cQFypxxnlQ;3;a man in red is running
+6cQFypxxnlQ;4;the first man from the bottom is running
+6cQFypxxnlQ;6;man in blue tracksuit is running during competition
+6cQFypxxnlQ;7;man in blue shirt and black shorts running on the most far track
+77CtRWUggp4;2;the number 6 black greyhound is running in a dog race
+77CtRWUggp4;3;a dog with yellow cover is running
+77CtRWUggp4;4;dog in purple running
+77CtRWUggp4;5;a brown dog is running on top
+77CtRWUggp4;7;the greyhound from gate 3 is running in a race
+9-60uVOtr-s;0;brown dog walking
+9-60uVOtr-s;1;White dog walking around orange ball
+9wp3M4EUpEQ;0;cat is walking in the room in the front of camera
+9wp3M4EUpEQ;1;dotted cat walking away
+AHPYJgnJ_FI;0;the person with big hair is walking
+AijQ01lsWBc;0;woman in green dress is walking on the street
+AijQ01lsWBc;1;man with a purple backpack walking on the right
+B8sNJRDRBrg;1;man rolling on the mat
+C08RAUZYWVw;1;man in black jumping up and down
+CAYdFBPE0Zo;0;a person in black clothes is running
+CDMN1aQ6I6c;0;a man in suit is walking toward the camera
+CDMN1aQ6I6c;1;Woman in red is going on the right
+CaWTbs0aMA8;0;Girl in green shirt is chasing a girl with the ball
+CmOTlqhp_4s;1;the left dog is walking
+CmOTlqhp_4s;2;a dog is leading another dog with its owner
+CprtLxsO_OU;0;man in white shirt running on the track
+DuEXIGWnuK8;0;black and white dog rolling on the meadow
+DuEXIGWnuK8;2;small white dog walking on the right
+DxrkBmYhTro;0;boy in purple shirt dribbling a basketball 
+EadxBPmQvtg;4;boy with number 3 playing football
