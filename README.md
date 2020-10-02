@@ -1,7 +1,7 @@
 # RefVOS
 
 
-In this repository there is the code of the method for referring image segmentation and language-guided video object segmentation presented in the work: RefVOS: A Closer Look At Referring Expressions for Video Object Segmentation. We also provide category labels for the A2D and DAVIS 2017 datasets, and augmented REs for A2D, which are in the folder *datasets*. In the paper you can find the details about our proposed categorization and extension of A2D referring expressions.
+In this repository there is the code of the method for referring image segmentation and language-guided video object segmentation presented in the work: [RefVOS: A Closer Look At Referring Expressions for Video Object Segmentation](https://arxiv.org/pdf/2010.00263.pdf). We also provide category labels for the A2D and DAVIS 2017 datasets, and augmented REs for A2D, which are in the folder *datasets*. In the paper you can find the details about our proposed categorization and extension of A2D referring expressions.
 
 
 ### Datasets
