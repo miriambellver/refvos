@@ -95,3 +95,7 @@ python3 test.py  --dataset refcoco --resume ./checkpoints/model_refcoco.pth --sp
 ```
 
 with the --dataset argument with 'refcoco', 'refcoco+', 'a2d' or 'davis' and in --resume argument, the checkpoint you want to evaluate. The --split argument indicates which split to evaluate. In RefCOCO and RefCOCO+ there are the val, testA and testB splits. In case you want to save the results, add the argument --display. Check args.py for more arguments. 
+
+### Training Details
+
+We use SGD optimizer with 0.9 of momentum and 1e-6 of weight decay. We train our model with batch size of 7 and 480x480 of resolution. The learning rate scheduler for RefCOCO and RefCOCO+ consists in first starting with learning rate of 0.01 and decrease it 0.0004 every epoch until reaching 3e-3 of learning rate. Then we increase the learning rate again to 6e-3 and decrease it 2.5e-4 every epoch until reaching 1e-3. Increasing the learning rate after some iterations has been proven to increase performance in previous works. Finally we set a final state with fixed learning rate of 3e-5. To later fine-tune on DAVIS, we set an initial learning rate of 1e-3 and decrease 1e-5 every epoch for 20 epochs. To train the model with A2D we set a learning rate of 0.1 and decrease it 0.004 for 15 epochs. We used a single Tesla V100 GPU to train the models. The average time for training the model with RefCOCO is about 3 days, 2 days for A2D and 1 day for DAVIS-2017 with our machines. The approximate number of parameters of our model, considering also the BERT encoder, is 170M.
